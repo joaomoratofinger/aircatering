@@ -15,28 +15,29 @@ st.set_page_config(
     initial_sidebar_state="expanded"
 )
 
-# CSS customizado
+# CSS customizado para tema dark
 st.markdown("""
 <style>
     .main-header {
         font-size: 2.5rem;
         font-weight: bold;
         text-align: center;
-        color: #1f77b4;
+        color: #00d4ff;
         margin-bottom: 1rem;
     }
     .metric-card {
-        background-color: #f0f2f6;
+        background-color: #262730;
         padding: 0.75rem;
         border-radius: 0.5rem;
-        border-left: 5px solid #1f77b4;
+        border-left: 5px solid #00d4ff;
         margin-bottom: 0.5rem;
     }
     .sidebar-info {
-        background-color: #e6f3ff;
+        background-color: #262730;
         padding: 0.75rem;
         border-radius: 0.5rem;
         margin: 0.5rem 0;
+        border: 1px solid #404040;
     }
     .logo-container {
         display: flex;
@@ -44,15 +45,15 @@ st.markdown("""
         justify-content: center;
         margin-bottom: 1rem;
         padding: 0.75rem;
-        background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        background: linear-gradient(135deg, #00d4ff 0%, #0066cc 100%);
         border-radius: 1rem;
-        box-shadow: 0 4px 15px rgba(0,0,0,0.2);
+        box-shadow: 0 4px 15px rgba(0,212,255,0.3);
     }
     .logo-text {
         font-size: 2.5rem;
         font-weight: bold;
         color: white;
-        text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+        text-shadow: 2px 2px 4px rgba(0,0,0,0.5);
         margin: 0;
     }
     .logo-icon {
@@ -60,12 +61,12 @@ st.markdown("""
         margin-right: 1rem;
     }
     .subtitle {
-        color: #rgba(255,255,255,0.9);
+        color: rgba(255,255,255,0.9);
         font-size: 1rem;
         margin-top: 0.5rem;
         text-align: center;
     }
-    /* Reduzir espaçamentos do Streamlit */
+    /* Reduzir espaçamentos do Streamlit para tema dark */
     .block-container {
         padding-top: 1rem !important;
         padding-bottom: 1rem !important;
@@ -85,6 +86,27 @@ st.markdown("""
     h1, h2, h3 {
         margin-top: 1rem !important;
         margin-bottom: 0.5rem !important;
+        color: #ffffff !important;
+    }
+    /* Estilização específica para modo dark */
+    .stSelectbox > div > div {
+        background-color: #262730;
+        border: 1px solid #404040;
+    }
+    .stMultiSelect > div > div {
+        background-color: #262730;
+        border: 1px solid #404040;
+    }
+    .stDateInput > div > div {
+        background-color: #262730;
+        border: 1px solid #404040;
+    }
+    /* Sidebar dark customization */
+    .css-1d391kg {
+        background-color: #1e1e1e;
+    }
+    .css-1lcbmhc {
+        background-color: #1e1e1e;
     }
 </style>
 """, unsafe_allow_html=True)
@@ -179,13 +201,13 @@ def mostrar_logo_sidebar():
         # Se encontrou logo, exibe na sidebar
         st.image(logo_encontrado, width=180)
     else:
-        # Se não encontrou logo, usa design compacto na sidebar
+        # Se não encontrou logo, usa design compacto na sidebar para tema dark
         st.markdown('''
-        <div style="text-align: center; padding: 1rem 0; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 1rem; margin-bottom: 1rem;">
-            <div style="color: white; font-size: 1.5rem; font-weight: bold;">
+        <div style="text-align: center; padding: 1rem 0; background: linear-gradient(135deg, #00d4ff 0%, #0066cc 100%); border-radius: 1rem; margin-bottom: 1rem; box-shadow: 0 4px 15px rgba(0,212,255,0.3);">
+            <div style="color: white; font-size: 1.5rem; font-weight: bold; text-shadow: 2px 2px 4px rgba(0,0,0,0.5);">
                 🛫 AIR CATERING
             </div>
-            <div style="color: rgba(255,255,255,0.8); font-size: 0.8rem;">
+            <div style="color: rgba(255,255,255,0.9); font-size: 0.8rem;">
                 Business Intelligence
             </div>
         </div>
