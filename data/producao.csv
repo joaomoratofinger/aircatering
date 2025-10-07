@@ -1,0 +1,301 @@
+id,data_producao,produto,linha_producao,quantidade_planejada,quantidade_produzida,tempo_producao_horas,custo_producao,qualidade_nota,responsavel,turno,status
+b06919d4-1588-402c-a517-bd837db6e7fc,2025-10-05,A segurança de ganhar sem preocupação,Linha 4,469,844,4.21,2467.81,4.3,Isaque Pastor,Tarde,Pausado
+63ff0474-214b-4392-ab37-07c22c6506a5,2025-10-05,O conforto de ganhar direto da fonte,Linha 1,853,958,6.3,2461.27,4.4,Dra. Maria Luísa Fogaça,Manhã,Concluído
+82573fbe-a67f-4187-965a-ae8959475d4d,2025-10-05,O prazer de evoluir com toda a tranquilidade,Linha 2,993,175,3.31,4708.07,4.8,Marcela Barbosa,Manhã,Concluído
+27a5d630-b4f1-41fa-a65c-ce410ca6ac15,2025-10-05,O direito de realizar seus sonhos antes de tudo,Linha 4,385,91,18.53,1538.62,3.1,Ana Carolina Mendes,Noite,Em Andamento
+9a1ab1c4-39f3-4174-8ddb-e46145dbc785,2025-10-05,O prazer de inovar com força total,Linha 2,586,704,15.03,3097.73,4.0,Dr. Josué Marques,Manhã,Concluído
+5648e2e2-950f-43f8-8ec2-0c8821237249,2025-10-05,A segurança de ganhar com confiança,Linha 2,748,907,7.39,2839.22,4.5,Maria Julia da Rosa,Noite,Concluído
+d0edc156-6840-4c9b-98c5-10df52c781e2,2025-10-05,A vantagem de conseguir direto da fonte,Linha 4,343,894,19.59,2780.07,3.1,Lunna Correia,Tarde,Concluído
+40bac289-eda2-4aa3-8b81-e84b426ae497,2025-10-05,A simplicidade de avançar de maneira eficaz,Linha 1,431,623,18.29,3510.9,3.3,Lavínia Moura,Tarde,Pausado
+552cbfaf-c90e-4f2a-89b4-2801a30d47fe,2025-10-05,A possibilidade de concretizar seus projetos mais facilmente,Linha 3,585,286,22.31,1619.12,3.6,Isabela Viana,Noite,Em Andamento
+9ecd301c-050d-4a17-bf74-d2515ec7939b,2025-10-05,A segurança de mudar mais rapidamente,Linha 4,555,121,21.03,2772.06,4.6,Arthur Gabriel Azevedo,Tarde,Concluído
+00ae0d5e-aee1-4ee2-9a80-4ab5707cff2b,2025-10-05,A segurança de mudar direto da fonte,Linha 5,454,808,7.39,3919.74,3.9,Benício Barros,Tarde,Em Andamento
+e84568cd-95cd-4015-804e-7fe9438f758d,2025-10-05,O direito de evoluir naturalmente,Linha 5,880,373,14.67,2004.67,3.2,Sr. Erick Moreira,Tarde,Concluído
+664d3486-9f82-4292-8b20-ca088f1ac619,2025-10-05,A vantagem de realizar seus sonhos com toda a tranquilidade,Linha 3,227,910,16.38,2200.54,4.0,Sophie Araújo,Manhã,Concluído
+e5384084-8e2a-47ac-89ec-b717a7dcaac1,2025-10-05,O conforto de avançar antes de tudo,Linha 1,233,231,8.81,963.04,3.3,Sra. Nicole Teixeira,Noite,Pausado
+c718bac3-2bde-496c-b8f5-4223a4c21676,2025-10-05,A simplicidade de realizar seus sonhos sem preocupação,Linha 5,402,723,2.2,2619.74,3.5,Carlos Eduardo Cassiano,Manhã,Pausado
+071da5a0-36fe-4030-be64-b13f2e8f7f48,2025-10-05,O prazer de realizar seus sonhos com confiança,Linha 4,910,815,15.25,1926.59,4.1,Miguel Vargas,Manhã,Pausado
+9bf453c4-4446-456e-9874-d38f280f1972,2025-10-05,A liberdade de inovar com toda a tranquilidade,Linha 1,383,904,21.83,4151.03,4.1,Rafaela Dias,Tarde,Pausado
+67751c1c-f5e1-4a3c-b3fc-8913a25cb5e9,2025-10-05,A certeza de mudar mais rapidamente,Linha 1,289,429,21.91,1668.51,3.7,Julia Vieira,Noite,Concluído
+97fd8cd8-2a2d-44d6-ad04-7e841e48430c,2025-10-05,A segurança de mudar direto da fonte,Linha 2,386,856,10.68,827.31,3.6,Rafael da Conceição,Tarde,Em Andamento
+174353bc-bf38-4322-b667-b00f42d57986,2025-10-05,A arte de conseguir sem preocupação,Linha 1,722,287,9.11,1023.32,4.8,Joana Jesus,Tarde,Pausado
+8d963e07-a38d-4fd7-850b-6d0f6fda99e2,2025-10-05,A vantagem de mudar direto da fonte,Linha 2,954,771,14.71,2689.71,4.6,Emanuella da Rosa,Noite,Concluído
+da0fd2e8-882a-4b7a-beb5-8d5f4fb328ca,2025-10-05,O conforto de concretizar seus projetos simplesmente,Linha 1,556,975,19.0,3294.02,3.7,Manuella Lopes,Tarde,Pausado
+75e18fd5-b23f-4b3f-ba26-7cb948c03e00,2025-10-05,A certeza de mudar em estado puro,Linha 4,864,501,14.29,1386.8,3.2,Sra. Rafaela Aparecida,Manhã,Concluído
+1793a2e4-2ba9-481c-bff1-526561da31ac,2025-10-05,O conforto de avançar mais rapidamente,Linha 1,886,993,20.44,686.62,4.1,Ana Laura Nascimento,Tarde,Em Andamento
+ddcc3954-a837-4ef9-ae97-3f70901017ab,2025-10-05,O direito de realizar seus sonhos com força total,Linha 5,484,203,9.89,3808.65,4.9,Isabelly Porto,Noite,Pausado
+f33f9f48-5361-4b73-ac10-52ee2c8bd686,2025-10-05,A simplicidade de conseguir mais rapidamente,Linha 5,683,949,6.63,2095.19,4.0,Arthur Camargo,Manhã,Concluído
+d2f933fd-3741-4e3a-89db-89a6311b3e6f,2025-10-05,A vantagem de avançar simplesmente,Linha 4,561,690,23.86,3190.77,3.7,Cecilia da Paz,Manhã,Concluído
+8a881754-b022-48a8-8dd3-85e8832f37c0,2025-10-05,A vantagem de conseguir simplesmente,Linha 4,565,856,20.78,3252.2,3.6,Luana Vieira,Manhã,Pausado
+d4a5c7d8-1127-41d9-939e-e36c6022e77b,2025-10-05,A certeza de ganhar com força total,Linha 2,755,763,20.08,3266.01,3.3,Dr. Danilo Moraes,Noite,Concluído
+dfcbf80b-5916-4891-8ec7-701c5acd8c25,2025-10-05,A arte de ganhar mais rapidamente,Linha 4,345,475,14.13,4435.36,3.4,Léo Barbosa,Noite,Pausado
+aacb630f-0364-4e33-829e-eb87c2348852,2025-10-05,A certeza de concretizar seus projetos com toda a tranquilidade,Linha 2,976,880,12.35,4398.01,4.8,Isadora Barros,Tarde,Em Andamento
+558d57a9-151f-4dbf-a616-89ae010fb939,2025-10-05,O prazer de ganhar de maneira eficaz,Linha 2,302,468,2.21,3495.91,3.8,Bárbara Montenegro,Manhã,Pausado
+c84204b9-f537-4441-b283-07100fa5fe11,2025-10-05,O conforto de conseguir sem preocupação,Linha 4,138,941,11.58,1093.98,3.2,Breno Jesus,Noite,Concluído
+4158a6e6-470a-4d03-b601-e0d41a8fc9e5,2025-10-05,A possibilidade de atingir seus objetivos com confiança,Linha 4,672,278,4.73,3970.46,4.3,Nina da Costa,Manhã,Em Andamento
+ff048f56-67e2-4656-a7d4-8be1b34956c0,2025-10-05,A arte de ganhar sem preocupação,Linha 4,750,938,11.48,2445.05,4.6,Ana Julia Mendes,Noite,Pausado
+58bb20d7-9bdf-4c17-94fd-692861646be5,2025-10-05,A vantagem de avançar com toda a tranquilidade,Linha 1,561,957,8.07,1900.04,3.7,João Lucas Marques,Noite,Pausado
+5147e314-90e6-4c49-9e29-59b33ad2dcd9,2025-10-05,O poder de conseguir naturalmente,Linha 1,771,442,14.12,1196.93,4.9,Isabella Souza,Tarde,Concluído
+33e78c22-efbc-46fd-9f96-cf66519ea2f7,2025-10-05,A vantagem de atingir seus objetivos em estado puro,Linha 3,427,403,19.77,3715.89,4.2,Diogo Castro,Manhã,Em Andamento
+5359389e-21d3-4a42-8c78-b7741e350cdc,2025-10-05,A segurança de concretizar seus projetos sem preocupação,Linha 5,223,941,18.49,1187.83,3.8,Ravy Teixeira,Manhã,Concluído
+648a8a6d-5fea-463b-afb6-db63a9c8c320,2025-10-05,O poder de ganhar naturalmente,Linha 2,788,194,5.61,607.07,4.7,Vitor Aragão,Noite,Em Andamento
+6c701ddd-8efe-4f07-84d6-92cad4b13308,2025-10-05,A arte de concretizar seus projetos mais facilmente,Linha 4,453,135,19.98,4911.47,3.4,Dra. Kamilly da Costa,Tarde,Em Andamento
+50b2e1c5-4ad7-4da8-9edb-735bb926ec6a,2025-10-05,O conforto de mudar direto da fonte,Linha 2,569,694,6.27,3290.6,4.6,Srta. Isabela Barbosa,Manhã,Pausado
+833e4685-8567-4661-b21e-ad71bc122f84,2025-10-05,O conforto de avançar direto da fonte,Linha 4,810,370,9.12,1366.05,4.0,Davi Vieira,Tarde,Pausado
+6d013e0b-efc1-45b4-a76a-bbeee899b603,2025-10-05,A possibilidade de ganhar com confiança,Linha 4,755,122,12.49,2788.49,4.5,Maria Helena Sá,Tarde,Pausado
+d25ea4d2-e48c-41d3-8d3b-5e52d55918ba,2025-10-05,A simplicidade de inovar de maneira eficaz,Linha 4,841,685,4.88,3225.82,5.0,Thiago Guerra,Noite,Pausado
+30c1f78d-e4a8-4901-8d43-2cabf1dbd3c0,2025-10-05,A possibilidade de atingir seus objetivos sem preocupação,Linha 4,340,503,16.6,3588.63,4.3,Fernando Mendonça,Manhã,Em Andamento
+e0473726-6b95-458b-8c91-782197e2badc,2025-10-05,A arte de evoluir com toda a tranquilidade,Linha 4,656,758,14.78,3993.15,4.7,Dr. Arthur da Luz,Tarde,Em Andamento
+dadda576-47e2-442a-aa11-9a271f9f4c73,2025-10-05,A simplicidade de avançar mais rapidamente,Linha 1,999,542,12.86,3877.23,3.4,Vitor Cassiano,Tarde,Em Andamento
+e85447d3-81d1-4801-af39-d76f149b2e69,2025-10-05,A arte de conseguir direto da fonte,Linha 4,390,106,22.85,4201.66,3.3,Luiz Fernando Albuquerque,Tarde,Em Andamento
+244194ed-080d-4e43-a3af-eceb3d715aa0,2025-10-05,A vantagem de realizar seus sonhos mais rapidamente,Linha 3,733,570,6.23,2082.82,3.6,Pedro Miguel Cardoso,Tarde,Concluído
+28cf4328-52c8-4d47-a4cd-43159e5ebe3f,2025-10-05,O poder de concretizar seus projetos de maneira eficaz,Linha 2,435,849,7.68,2097.92,4.9,Gael da Rosa,Noite,Em Andamento
+7c8fbd9f-4968-46bc-9862-e31bc6be64b4,2025-10-05,A certeza de conseguir mais facilmente,Linha 3,641,152,17.57,2707.8,3.6,Valentim Guerra,Noite,Concluído
+e2181452-0c74-4cda-8471-6d09d933f4ff,2025-10-05,O conforto de concretizar seus projetos antes de tudo,Linha 1,753,375,16.15,1317.23,4.3,Ana Sophia Viana,Noite,Pausado
+4c26a741-3214-4ede-be09-4db969dd6be8,2025-10-05,O prazer de avançar em estado puro,Linha 5,307,462,2.13,4283.99,4.9,Daniela Alves,Noite,Em Andamento
+04ac8108-2f9f-4a9f-8fb0-70dc6236bd80,2025-10-05,O conforto de ganhar de maneira eficaz,Linha 2,890,445,4.84,4998.19,3.1,Sr. Nathan Cassiano,Tarde,Em Andamento
+7dc8c36e-0a92-42ad-afd7-e4481b268241,2025-10-05,A arte de concretizar seus projetos naturalmente,Linha 2,791,221,17.27,4731.95,3.2,Srta. Lorena Marques,Noite,Pausado
+171781e1-dad4-422f-ac5f-9d2e089db52c,2025-10-05,O conforto de evoluir simplesmente,Linha 4,193,199,12.9,4271.33,3.3,Sra. Melissa Castro,Noite,Em Andamento
+c21d1760-0084-4686-bc9e-5d1a22ba88e8,2025-10-05,A arte de avançar em estado puro,Linha 3,715,292,6.07,3885.62,4.2,Dr. Gustavo da Conceição,Noite,Em Andamento
+10f7083f-3042-4837-94b6-0719ae97b927,2025-10-05,A arte de atingir seus objetivos com toda a tranquilidade,Linha 5,477,908,9.8,2330.47,3.1,Manuela da Rocha,Noite,Concluído
+3b2e17cc-c2b7-4b40-a6fe-ea04124c5f25,2025-10-05,A vantagem de realizar seus sonhos com força total,Linha 1,619,822,18.92,4679.43,4.5,Ryan Oliveira,Tarde,Em Andamento
+4e4c1e36-22a4-403b-811f-82fc187cd6da,2025-10-05,O direito de evoluir de maneira eficaz,Linha 3,407,606,18.26,617.87,3.6,Cecília Cavalcanti,Noite,Em Andamento
+e381a27b-3c69-4825-ae57-92d2d4d7d7f7,2025-10-05,A simplicidade de inovar mais facilmente,Linha 3,157,290,22.05,2447.41,3.8,Otávio Azevedo,Noite,Concluído
+c4312197-333a-408c-9650-d930dbc6d762,2025-10-05,O prazer de concretizar seus projetos em estado puro,Linha 5,402,955,22.61,4600.19,3.2,Gustavo Henrique da Cunha,Tarde,Em Andamento
+0fc7fdf7-f611-4cad-90f3-330b5a15ad7e,2025-10-05,A certeza de avançar mais rapidamente,Linha 4,426,970,17.38,743.19,3.9,Ana Carolina da Luz,Noite,Concluído
+03cbdd76-24e8-4122-912e-a6de2a51ea1e,2025-10-05,A vantagem de conseguir sem preocupação,Linha 3,707,610,23.35,2799.16,4.5,Anthony Rezende,Tarde,Concluído
+ad0acd82-1313-42f1-b2be-7976bab8f654,2025-10-05,O conforto de mudar mais rapidamente,Linha 3,769,174,13.96,813.32,4.8,Elisa Mendonça,Noite,Em Andamento
+f1e08666-e609-4c7c-928e-92096c04e250,2025-10-05,A liberdade de atingir seus objetivos mais facilmente,Linha 2,266,692,17.77,4198.52,3.4,Lorena Cassiano,Tarde,Pausado
+b4c54046-ca60-47d8-8892-4aa94bf4eccf,2025-10-05,A arte de concretizar seus projetos de maneira eficaz,Linha 2,511,754,16.48,1121.73,3.4,Juan Castro,Manhã,Em Andamento
+26452bec-c539-49b7-af13-b6b742aa7183,2025-10-05,A arte de avançar direto da fonte,Linha 3,387,483,22.27,4765.69,4.4,Dr. Ian Sousa,Manhã,Em Andamento
+95437f3f-3bd3-44e5-9930-c58017f62b55,2025-10-05,A certeza de concretizar seus projetos mais facilmente,Linha 3,714,117,10.72,1876.94,4.3,Clarice Brito,Tarde,Em Andamento
+34fca75a-e245-4ae0-9840-e74f962a3976,2025-10-05,A certeza de inovar com confiança,Linha 1,943,427,5.92,1456.2,4.0,Sr. Enrico Carvalho,Noite,Pausado
+aed6b3bc-df8e-4ced-9fe8-6817437988f6,2025-10-05,A vantagem de inovar sem preocupação,Linha 5,829,239,9.66,4917.75,4.5,Melina Costa,Noite,Concluído
+77510101-2e7b-4ea0-a97f-d9ee853869d4,2025-10-05,A possibilidade de concretizar seus projetos sem preocupação,Linha 5,932,501,21.74,1105.3,3.8,Dr. Yan Vargas,Noite,Em Andamento
+6fbc9116-bc89-40b8-92d3-6b0e1b517bae,2025-10-05,A certeza de realizar seus sonhos em estado puro,Linha 2,880,981,2.5,4951.78,3.3,Maria Júlia Barbosa,Manhã,Em Andamento
+376b6083-c0f0-4722-98c5-5361715d8c9b,2025-10-05,A vantagem de atingir seus objetivos naturalmente,Linha 5,633,967,23.21,2527.56,3.3,Antonella Ferreira,Manhã,Concluído
+7e2fe0b3-cd9d-4605-8125-17cf3f7e0498,2025-10-05,A possibilidade de conseguir mais rapidamente,Linha 3,387,370,16.65,913.51,3.1,Isis Siqueira,Noite,Concluído
+a7e75f3f-81e1-41cd-a5ea-53438edea0dd,2025-10-05,A liberdade de concretizar seus projetos mais rapidamente,Linha 5,881,273,8.99,2800.73,3.2,Dr. Valentim Vasconcelos,Manhã,Concluído
+1a013391-2abe-4ab2-878c-5e5cf58df3cb,2025-10-05,A certeza de evoluir de maneira eficaz,Linha 1,743,435,22.39,3662.02,4.9,Luiz Henrique Novais,Noite,Concluído
+5100c3e0-8da0-41d3-a07d-74bfc760b42b,2025-10-05,A arte de atingir seus objetivos mais rapidamente,Linha 4,145,999,15.05,1053.39,4.0,Luísa Rodrigues,Tarde,Em Andamento
+d22fa47c-71ac-4ffd-b584-e7d0f71f86cd,2025-10-05,A liberdade de conseguir mais facilmente,Linha 3,531,675,7.07,3489.25,3.8,Amanda Garcia,Tarde,Pausado
+837bb150-a0e3-43e0-a71d-08bac3b6c25c,2025-10-05,A certeza de avançar simplesmente,Linha 2,949,902,19.37,3760.65,3.8,Renan Pastor,Tarde,Em Andamento
+db6f3446-e386-4025-ab26-b2319807507a,2025-10-05,O poder de atingir seus objetivos direto da fonte,Linha 2,126,238,10.48,1817.42,4.6,Maria Borges,Noite,Pausado
+bed24799-d50e-44d0-a68c-ffc6bc13649e,2025-10-05,A possibilidade de ganhar mais facilmente,Linha 1,655,345,20.9,588.3,4.5,Kaique Moura,Manhã,Pausado
+eeab0bd6-89c1-47c8-b8b3-40b594bd4647,2025-10-05,A possibilidade de concretizar seus projetos com força total,Linha 2,909,776,15.24,1731.43,3.9,Benjamim Guerra,Noite,Concluído
+c8ced139-ab63-4adb-bc87-146c1686e41a,2025-10-05,O poder de conseguir simplesmente,Linha 5,472,974,22.2,4974.25,4.9,Matheus Martins,Tarde,Em Andamento
+cd90a9a9-0416-460e-969e-675bb4cac5d5,2025-10-05,A liberdade de conseguir de maneira eficaz,Linha 1,483,809,13.71,3377.32,4.3,Ana Freitas,Tarde,Pausado
+5be6a792-fd3a-46d2-97f6-e3870f97a8bc,2025-10-05,O poder de atingir seus objetivos sem preocupação,Linha 4,658,196,15.06,1528.69,4.6,Ana Vitória Guerra,Manhã,Em Andamento
+5e0719f6-3281-4e90-8590-6acf0093a875,2025-10-05,A simplicidade de mudar de maneira eficaz,Linha 2,768,293,6.99,4555.26,5.0,Ana Júlia Fogaça,Noite,Pausado
+ce5815ae-8da1-4bb0-a646-e1e862a7abb1,2025-10-05,A vantagem de conseguir em estado puro,Linha 5,225,296,5.43,607.75,4.6,Isabel Novais,Manhã,Concluído
+ff763bdf-5f51-4813-b968-6884fa06256b,2025-10-05,A segurança de evoluir naturalmente,Linha 1,824,217,12.56,1617.13,4.0,Ana Liz Pinto,Noite,Em Andamento
+9ec4c00c-1563-4565-803e-beb979e9a96b,2025-10-05,A segurança de concretizar seus projetos naturalmente,Linha 1,506,582,17.09,601.73,4.8,Maria Júlia Oliveira,Manhã,Em Andamento
+429f611f-a477-4a22-80cd-a1ac15109c96,2025-10-05,O conforto de inovar mais facilmente,Linha 3,165,671,15.27,1718.45,5.0,Yago Martins,Manhã,Em Andamento
+4300127b-d066-4673-a42e-41a3331ab5a9,2025-10-05,A possibilidade de concretizar seus projetos direto da fonte,Linha 3,131,968,7.21,4841.28,4.1,Otávio Sá,Tarde,Pausado
+1e6769d7-34fc-437c-a7c8-f535be02b0b1,2025-10-05,O direito de concretizar seus projetos antes de tudo,Linha 2,386,497,16.29,2490.69,3.3,Sara Monteiro,Tarde,Concluído
+a440a9b3-7ed8-4d44-9ee3-a26118473aa2,2025-10-05,O direito de atingir seus objetivos sem preocupação,Linha 5,110,381,22.7,3242.32,4.5,João Vitor Castro,Tarde,Em Andamento
+19fb8e67-9392-4a81-abc3-cfbfb6884764,2025-10-05,A simplicidade de mudar simplesmente,Linha 5,758,323,10.72,2250.36,4.6,Pedro Henrique Souza,Noite,Pausado
+7902d978-ee96-464d-a341-622b6a283625,2025-10-05,A simplicidade de conseguir direto da fonte,Linha 3,444,536,3.94,3983.92,4.6,Gabrielly Silveira,Tarde,Pausado
+ceec7283-90ef-4c0d-bb9e-e85e3a6bb625,2025-10-05,A simplicidade de ganhar mais facilmente,Linha 1,145,946,22.32,4403.13,3.5,Sra. Caroline Rodrigues,Tarde,Pausado
+92f2cc91-b0fd-4d66-acec-554cf9c0cad9,2025-10-05,O prazer de atingir seus objetivos de maneira eficaz,Linha 5,758,681,6.83,2111.33,3.5,Vitor Gabriel da Mata,Noite,Concluído
+5f37005c-d628-4dff-b49e-6261cf23fee3,2025-10-05,A certeza de realizar seus sonhos com confiança,Linha 5,832,722,16.97,2911.58,3.2,Antony Pereira,Manhã,Concluído
+5105096a-978e-4486-9aa4-f6b330b64b22,2025-10-05,A vantagem de atingir seus objetivos sem preocupação,Linha 1,249,362,19.39,4010.3,3.3,Dr. Rodrigo Macedo,Noite,Pausado
+385f6f19-9f97-4a82-8354-3b43fd63fc6b,2025-10-05,O direito de realizar seus sonhos sem preocupação,Linha 5,980,618,10.44,1117.82,3.9,Cauê Brito,Tarde,Concluído
+a49b05d3-5f7f-4abf-ab32-58934fdba8d4,2025-10-05,O prazer de ganhar com força total,Linha 3,380,569,18.57,1588.65,3.0,Sr. Otto Nunes,Manhã,Pausado
+475885d6-fc66-4b8b-a364-2aad356f482d,2025-10-05,O poder de conseguir sem preocupação,Linha 1,101,275,16.04,4206.52,3.9,João Miguel da Costa,Tarde,Concluído
+da18e543-ada0-4786-a9ac-d21deab4f825,2025-10-05,A simplicidade de evoluir sem preocupação,Linha 4,531,818,13.46,3627.37,4.3,Sr. Benício Correia,Tarde,Pausado
+fbf57df8-2486-4f4a-bf20-82cf4dc44003,2025-10-05,A possibilidade de conseguir com toda a tranquilidade,Linha 4,943,868,12.5,3660.53,3.8,Bento Rodrigues,Tarde,Concluído
+32a87729-8f7d-4a28-a259-a84e45caa6df,2025-10-05,O conforto de ganhar com toda a tranquilidade,Linha 1,371,182,4.6,2177.05,3.1,Sr. Benjamim Rezende,Noite,Concluído
+f2a8cb71-0580-4a93-b94d-02e734a30bb6,2025-10-05,A arte de avançar de maneira eficaz,Linha 3,574,160,20.57,619.04,3.1,Joaquim Dias,Manhã,Em Andamento
+62494245-8a8a-45cb-bdf6-f3e55f259302,2025-10-05,A liberdade de concretizar seus projetos em estado puro,Linha 5,196,367,11.9,4814.89,4.9,Isadora Azevedo,Manhã,Concluído
+f20c1fea-44be-4008-8dd0-11b6390abf98,2025-10-05,A segurança de inovar com força total,Linha 2,458,265,12.99,3186.79,3.1,Gustavo Rocha,Manhã,Concluído
+098af3a6-c214-43fc-a8ac-114b15888fd6,2025-10-05,A simplicidade de mudar com confiança,Linha 2,913,597,23.19,932.93,4.4,Olívia Casa Grande,Manhã,Concluído
+0bc2696a-bf25-430a-b877-d2961f275b6a,2025-10-05,O direito de realizar seus sonhos simplesmente,Linha 4,360,571,6.86,546.98,4.3,Dr. Cauê Rodrigues,Noite,Pausado
+77626f4a-5b45-45ce-8f4c-da1bf5da2775,2025-10-05,A arte de concretizar seus projetos em estado puro,Linha 4,984,731,7.99,811.8,4.0,Thales Nunes,Tarde,Pausado
+13959ed6-3296-4d2a-b656-70c7fbc7026e,2025-10-05,A vantagem de evoluir em estado puro,Linha 4,834,188,17.96,4660.98,3.8,Augusto Costa,Manhã,Pausado
+2c062fbd-0270-46c0-9f96-5a2086ccab0c,2025-10-05,O prazer de conseguir direto da fonte,Linha 3,853,541,16.71,3567.52,4.0,Nina Vieira,Tarde,Concluído
+ccda54eb-9354-4d63-b370-29ddec6ae37a,2025-10-05,A simplicidade de ganhar simplesmente,Linha 2,758,292,17.91,1422.4,4.7,Brenda Lopes,Noite,Pausado
+86cf03cd-a14a-4bce-b93e-f531747ae8c4,2025-10-05,A simplicidade de avançar direto da fonte,Linha 4,120,390,19.06,1256.56,3.7,Luiz Henrique Guerra,Tarde,Em Andamento
+1ebb8c50-82b8-451c-aad0-acf546486bbc,2025-10-05,A certeza de inovar mais rapidamente,Linha 4,757,354,22.51,2293.06,3.5,Kamilly Santos,Manhã,Pausado
+b8473214-4fa9-4d6d-8c1d-9aafce57a4b9,2025-10-05,O direito de ganhar mais facilmente,Linha 1,137,612,13.38,1668.27,4.9,Maria Júlia Lopes,Manhã,Pausado
+2401e57a-206d-4b3a-a22a-fff0b02362c8,2025-10-05,A segurança de atingir seus objetivos simplesmente,Linha 2,600,697,4.23,4876.32,3.3,Theodoro Silveira,Manhã,Em Andamento
+be93a474-25ee-48be-9a46-645ffda0c281,2025-10-05,O direito de concretizar seus projetos direto da fonte,Linha 5,381,852,15.51,4024.52,5.0,André Câmara,Noite,Pausado
+37949361-7d99-4ad5-ac03-59c6bd6d2a1a,2025-10-05,A simplicidade de realizar seus sonhos simplesmente,Linha 3,308,751,7.36,2693.49,3.3,Bento Vargas,Noite,Em Andamento
+48cdbbb1-a155-4adb-abf1-482281e703b6,2025-10-05,A simplicidade de mudar antes de tudo,Linha 2,114,482,11.48,3388.01,4.8,Isabella da Luz,Tarde,Pausado
+90429dfb-73bd-40b9-8357-77dc4142d34d,2025-10-05,A certeza de concretizar seus projetos com força total,Linha 1,820,671,10.27,3501.0,4.9,Ana Cecília Abreu,Manhã,Em Andamento
+f051dd6d-fae3-4b89-90b3-b2bf726504b8,2025-10-05,A certeza de conseguir com força total,Linha 4,141,188,3.53,531.23,3.8,Ana Lívia Pereira,Manhã,Pausado
+6f4644ce-a618-4d49-9504-da569d4f58c1,2025-10-05,A arte de inovar naturalmente,Linha 1,336,330,12.08,1814.27,4.7,João Câmara,Tarde,Concluído
+c3f4c5d5-7aea-4b6b-8cfb-88a2fe992df0,2025-10-05,A certeza de atingir seus objetivos com confiança,Linha 2,571,89,17.8,4601.46,3.2,Mariah Mendonça,Tarde,Em Andamento
+c0564b41-f09e-4ebd-9d07-41d74d82a46e,2025-10-05,O direito de ganhar mais facilmente,Linha 1,438,394,17.76,4750.66,3.8,Joana Rezende,Manhã,Concluído
+f50c8a8a-e948-4bc8-9878-ece737088a2b,2025-10-05,A simplicidade de mudar antes de tudo,Linha 5,851,832,5.86,2968.28,4.2,Maysa Macedo,Tarde,Pausado
+0905a6d2-77a4-4f43-9703-1e16800f1c14,2025-10-05,O poder de inovar naturalmente,Linha 3,178,430,4.13,1357.64,4.7,Paulo Duarte,Manhã,Concluído
+d871b4fe-2499-409f-9317-add359c982f8,2025-10-05,A simplicidade de mudar sem preocupação,Linha 3,693,967,16.18,4841.83,4.4,Emilly Mendonça,Noite,Pausado
+a762e146-2d38-426b-be7c-28a2774bda23,2025-10-05,A possibilidade de mudar antes de tudo,Linha 2,630,537,21.12,2791.7,4.7,Sophia Aparecida,Noite,Concluído
+72c16e43-3351-430d-8ed4-ecdda48fd4d9,2025-10-05,A possibilidade de ganhar mais facilmente,Linha 5,530,100,8.59,1088.0,3.8,Davi Lucca da Mata,Noite,Em Andamento
+c5e923cd-bb61-4708-b95f-bb3b93b9ffe8,2025-10-05,O direito de mudar direto da fonte,Linha 4,142,989,20.84,4211.37,4.9,Sr. Gabriel Melo,Manhã,Em Andamento
+a3094db0-c411-4479-9242-85bed60888d1,2025-10-05,O direito de ganhar sem preocupação,Linha 2,839,899,19.67,4558.94,4.2,Melina Nogueira,Manhã,Em Andamento
+25bc5c36-10dd-4a3f-8963-b17c21c21028,2025-10-05,A arte de ganhar em estado puro,Linha 4,665,299,13.51,1300.33,3.6,Lucas Gabriel da Conceição,Noite,Pausado
+9d688fdb-3b51-4cb3-8cb9-67412bdaaa25,2025-10-05,A vantagem de inovar sem preocupação,Linha 1,413,433,4.1,1482.46,3.3,Allana Barbosa,Tarde,Pausado
+5127c310-b4be-4a5d-bf5c-77111cc75c3d,2025-10-05,A certeza de ganhar com toda a tranquilidade,Linha 2,759,442,16.74,3783.31,4.8,Camila Campos,Noite,Pausado
+c2a78f68-0054-4c6a-b14a-e09b580e8e55,2025-10-05,A segurança de inovar de maneira eficaz,Linha 4,689,833,20.52,3721.22,3.3,Ester Barbosa,Manhã,Pausado
+b1d58b2f-a15c-48b8-b99a-2de03db8989f,2025-10-05,A simplicidade de concretizar seus projetos com força total,Linha 5,817,519,16.51,3323.28,3.4,Diego Martins,Noite,Pausado
+ae6bcc25-2acb-41a8-bfb9-ca765414ecda,2025-10-05,O prazer de concretizar seus projetos de maneira eficaz,Linha 5,341,257,7.02,1034.49,4.1,Isabela Rezende,Manhã,Em Andamento
+9d65c502-7fab-47f4-b23e-0a16b54d5c3f,2025-10-05,A simplicidade de mudar mais rapidamente,Linha 2,828,521,10.27,3897.08,4.2,Matheus da Cruz,Manhã,Pausado
+c48dd3f9-3dab-4581-acd6-d45f42c83753,2025-10-05,A segurança de conseguir naturalmente,Linha 3,245,512,21.42,1566.46,3.9,Sra. Luiza Dias,Tarde,Em Andamento
+1378381c-6ebd-4b44-b12a-830b6416d77e,2025-10-05,A vantagem de mudar simplesmente,Linha 3,183,121,15.18,1993.78,4.2,Leonardo da Luz,Tarde,Em Andamento
+77211ed0-c0c2-4e1b-b077-0514bc708b8e,2025-10-05,O prazer de conseguir mais facilmente,Linha 5,666,615,7.68,4919.41,3.8,Catarina Guerra,Tarde,Concluído
+0effe860-d7e6-4077-a651-964415c756f3,2025-10-05,A certeza de inovar com toda a tranquilidade,Linha 2,978,400,23.82,3125.63,3.7,João Gabriel Campos,Noite,Concluído
+2cb961ca-939a-4313-a457-0a6807da7e27,2025-10-05,A segurança de ganhar sem preocupação,Linha 2,266,851,11.58,4296.81,3.6,Bella Abreu,Manhã,Concluído
+c2876c32-9cb8-4ab5-a7b4-13e932968354,2025-10-05,A liberdade de concretizar seus projetos com força total,Linha 3,204,673,5.06,658.1,4.6,Théo Alves,Manhã,Concluído
+5c3405b1-6035-475b-90ab-c142dbe89580,2025-10-05,A certeza de atingir seus objetivos mais rapidamente,Linha 2,324,1000,18.62,2972.57,4.2,José Pedro Abreu,Manhã,Pausado
+c53da78f-32cf-4f9f-b1dd-5b8545cecdb2,2025-10-05,A simplicidade de evoluir naturalmente,Linha 3,617,450,14.42,3434.67,3.5,Luiz Felipe da Cruz,Noite,Em Andamento
+1207aebe-41fb-4765-ab5c-332efc28920d,2025-10-05,A simplicidade de avançar com força total,Linha 2,745,532,13.82,2013.21,3.4,Rafaela Camargo,Manhã,Em Andamento
+d8d8dc76-4580-42b3-bbe3-34202370764f,2025-10-05,O conforto de mudar em estado puro,Linha 1,371,157,9.73,2332.79,4.9,Ana Fogaça,Tarde,Concluído
+f74ef199-640f-4fac-b94d-eceeeeda71b8,2025-10-05,O conforto de avançar em estado puro,Linha 3,123,175,12.36,1346.48,3.5,Dante Jesus,Tarde,Pausado
+b15bb493-d16a-4451-b988-0f3f082a92ec,2025-10-05,A simplicidade de ganhar com força total,Linha 5,839,413,5.16,4676.56,3.5,Srta. Melissa Santos,Tarde,Concluído
+068448f1-4a06-4d8e-b811-1cdafd5d69ea,2025-10-05,A possibilidade de inovar em estado puro,Linha 4,833,756,5.93,2724.18,3.6,Dra. Ísis Martins,Noite,Pausado
+b98e5c9b-ddbc-4dd6-9b27-085bcb68ca39,2025-10-05,A liberdade de conseguir mais rapidamente,Linha 5,261,538,15.43,1819.67,4.8,Ana Laura Fonseca,Manhã,Concluído
+d10a7f10-79b6-4f52-a672-437f9e08f604,2025-10-05,A arte de atingir seus objetivos antes de tudo,Linha 3,112,399,19.44,1532.74,4.7,Dr. Thiago Nogueira,Noite,Pausado
+bce3f3c7-b647-4c68-a96b-b60b9d7bc954,2025-10-05,O poder de realizar seus sonhos simplesmente,Linha 2,875,212,7.61,4038.31,4.9,Sra. Brenda Carvalho,Tarde,Pausado
+66ff0d9c-d467-4c18-bf9f-0fc511c8b034,2025-10-05,O direito de avançar antes de tudo,Linha 2,732,864,22.07,4635.97,4.7,Daniela Cardoso,Manhã,Concluído
+ea59e72a-b213-4f4f-9966-5661d47beb11,2025-10-05,A certeza de atingir seus objetivos antes de tudo,Linha 5,210,501,19.33,3045.89,4.9,Bernardo Ramos,Noite,Concluído
+fc113b5b-2396-4a15-b7e2-a70acb6ef104,2025-10-05,O poder de evoluir com força total,Linha 4,942,542,22.77,1202.18,4.1,Vinícius Ribeiro,Noite,Pausado
+34321e52-57e9-436b-b0d4-5196f75259f9,2025-10-05,O poder de conseguir simplesmente,Linha 3,141,605,15.01,2721.99,3.4,Mariah da Costa,Noite,Em Andamento
+2d662b37-5172-4c86-ad20-680acc8105f7,2025-10-05,A liberdade de mudar com força total,Linha 4,793,176,7.51,2207.43,3.5,Letícia Aragão,Tarde,Em Andamento
+bde0dc8d-c037-4985-9b4e-30c987b0822d,2025-10-05,A segurança de ganhar de maneira eficaz,Linha 3,252,289,5.21,3117.08,3.9,Luiza Lima,Noite,Pausado
+abee25cb-a5ae-4f96-be3b-56270912b121,2025-10-05,A vantagem de conseguir direto da fonte,Linha 3,969,865,11.96,2499.52,4.3,Maria Eduarda Leão,Manhã,Em Andamento
+8bed9085-59de-4e2d-8d5b-eedf375832e5,2025-10-05,O conforto de conseguir simplesmente,Linha 5,586,161,16.09,1194.86,4.6,Calebe Andrade,Noite,Concluído
+75302341-089e-4af8-be69-1495d5f5d979,2025-10-05,A simplicidade de avançar com toda a tranquilidade,Linha 2,370,228,14.32,1400.18,4.8,Gael Henrique Siqueira,Noite,Concluído
+83c6721a-28d1-450a-b18d-17ef7bb7e6e7,2025-10-05,O poder de ganhar antes de tudo,Linha 2,819,144,19.56,1943.99,3.1,Sr. Lucca Campos,Noite,Pausado
+8b5cb9c1-6d7d-41e7-972c-8472643dddab,2025-10-05,A possibilidade de avançar direto da fonte,Linha 1,764,659,4.2,1017.56,4.5,Yago Moraes,Manhã,Em Andamento
+068708a3-b712-4ccf-9b17-ab3b3307ea63,2025-10-05,O direito de ganhar com toda a tranquilidade,Linha 3,502,903,9.17,3038.57,3.6,Lívia Cunha,Noite,Em Andamento
+4b6d1a54-1df0-4112-8f80-b7adff04512b,2025-10-05,A vantagem de atingir seus objetivos com força total,Linha 5,970,857,14.18,1201.44,3.4,Kevin Rocha,Noite,Em Andamento
+053877b2-af0e-4164-acd9-d53ac57d8e87,2025-10-05,A possibilidade de evoluir mais rapidamente,Linha 5,527,790,7.84,3180.17,4.8,Vinícius Almeida,Noite,Concluído
+a9aeb68c-1e2b-43ee-952d-393bc2eb9ae2,2025-10-05,O prazer de mudar mais rapidamente,Linha 1,303,136,17.39,3130.02,4.0,Eduarda Fernandes,Manhã,Concluído
+2ac9ffde-5788-4baa-9ecc-083e95858a04,2025-10-05,A segurança de avançar com confiança,Linha 1,640,478,7.18,3481.37,4.3,Rael Araújo,Manhã,Pausado
+89622ca5-cb2d-4695-8c80-4af75b32ab89,2025-10-05,A segurança de avançar simplesmente,Linha 3,379,549,4.98,3187.71,3.2,Otto Novais,Tarde,Pausado
+a0cf520d-3c9a-4e5d-9a97-7282b1a78574,2025-10-05,O prazer de mudar sem preocupação,Linha 5,544,745,12.99,2837.36,3.3,Luiz Felipe da Conceição,Tarde,Pausado
+79103bec-4623-435d-8a71-45fca16b2b85,2025-10-05,A possibilidade de conseguir simplesmente,Linha 2,630,174,23.85,2503.85,3.2,Stephany Cunha,Tarde,Pausado
+cb3cbb29-3ed9-410f-9ae8-4b8231d68669,2025-10-05,A vantagem de atingir seus objetivos direto da fonte,Linha 2,140,841,14.37,3408.15,3.9,Pietro Ribeiro,Noite,Pausado
+f12ae672-bce4-4436-904f-1ab150ff7ec4,2025-10-05,A vantagem de mudar com força total,Linha 2,631,176,14.71,1054.71,5.0,Carlos Eduardo das Neves,Noite,Pausado
+76f11fa0-4533-47b0-9f93-6ff062e9c20e,2025-10-05,O prazer de mudar antes de tudo,Linha 4,747,103,11.68,3409.31,4.6,Vitor Gabriel Fogaça,Tarde,Concluído
+f3e628b7-8c46-432e-ae39-a36ce46a96a1,2025-10-05,A arte de concretizar seus projetos com confiança,Linha 4,287,349,11.86,3552.39,4.9,Srta. Ana Julia Silveira,Manhã,Pausado
+090a565f-2b7f-4e63-9bb4-e2a273dfe366,2025-10-05,A vantagem de concretizar seus projetos naturalmente,Linha 5,651,576,14.21,4500.27,3.4,Arthur Gabriel Porto,Tarde,Em Andamento
+cf16d43a-390f-4f80-9a58-2b9927d6fbbc,2025-10-05,A liberdade de mudar com toda a tranquilidade,Linha 1,583,236,3.9,3842.82,3.8,Théo Sousa,Tarde,Em Andamento
+187e8468-f070-4584-bb0f-9fa90e4a8a16,2025-10-05,A simplicidade de concretizar seus projetos de maneira eficaz,Linha 1,120,915,15.67,516.1,4.3,Jade Costa,Noite,Concluído
+f03f4bbb-43cc-43ff-8b53-0fa88d7a6dda,2025-10-05,A liberdade de realizar seus sonhos em estado puro,Linha 2,718,407,23.0,3253.26,4.9,Erick Porto,Tarde,Concluído
+9f97de4f-cd59-4ec1-b627-e8ac00a59db0,2025-10-05,O conforto de inovar direto da fonte,Linha 3,107,239,17.31,2344.21,3.0,Dra. Bianca Mendes,Tarde,Pausado
+310410d9-ccbf-4f94-83b7-53e8a476a4f8,2025-10-05,A certeza de ganhar antes de tudo,Linha 2,483,96,5.89,3993.9,3.5,Theo Nogueira,Tarde,Concluído
+072eb221-6228-4e6a-b55b-4c945c5d7bab,2025-10-05,A arte de evoluir em estado puro,Linha 4,450,285,21.94,1014.35,3.9,Yago Rios,Noite,Concluído
+0f1e7134-19be-4ea9-bb15-eaf5f6d430d0,2025-10-05,O prazer de concretizar seus projetos naturalmente,Linha 2,928,929,19.08,4751.26,4.8,Pedro Fogaça,Manhã,Pausado
+8bcca0f4-774c-4f2c-bd09-5aa577e0dad6,2025-10-05,A simplicidade de inovar mais facilmente,Linha 3,755,791,16.51,1065.95,4.4,Pedro Miguel Rezende,Manhã,Pausado
+37429c37-2f85-41ba-85eb-4662e39ffbed,2025-10-05,O conforto de realizar seus sonhos simplesmente,Linha 2,878,507,15.86,3379.76,3.5,Maria Luísa Moura,Manhã,Em Andamento
+7e58005e-3be3-4f94-823b-dca752e7c11d,2025-10-05,O prazer de inovar antes de tudo,Linha 5,103,329,16.55,2716.58,3.9,Mateus Cardoso,Manhã,Em Andamento
+d5ba154c-07b5-419c-9c58-fff4b22bec5e,2025-10-05,O poder de mudar sem preocupação,Linha 5,639,187,6.17,918.56,4.2,Dr. Antônio Costa,Noite,Concluído
+2351f98f-d0ff-4413-8a44-178c381e77f7,2025-10-05,O prazer de evoluir com força total,Linha 1,412,111,6.15,2123.6,3.3,Kaique Nogueira,Noite,Pausado
+76327b96-32b3-47f5-ad01-36e656689429,2025-10-05,O conforto de concretizar seus projetos naturalmente,Linha 1,932,639,7.9,4372.41,3.9,Miguel Jesus,Manhã,Concluído
+c68df453-70a0-4a82-8b69-dc6865d03d83,2025-10-05,A liberdade de inovar com toda a tranquilidade,Linha 2,145,557,13.46,729.98,4.2,Maria Clara Fonseca,Noite,Pausado
+191e44f0-c1a5-4899-9b77-27fb35fed26c,2025-10-05,A vantagem de conseguir com força total,Linha 4,167,476,13.6,4359.15,4.1,Dr. Benjamim Pereira,Manhã,Pausado
+33b68b72-b9f8-4110-8fcb-ef8544310912,2025-10-05,O prazer de atingir seus objetivos simplesmente,Linha 2,907,874,3.76,2570.51,3.3,Otto Azevedo,Noite,Concluído
+8143f354-2611-43dc-8332-1c4f14a922bb,2025-10-05,A segurança de conseguir antes de tudo,Linha 4,907,546,4.38,2388.12,4.6,Lunna Farias,Manhã,Concluído
+96f3e328-b604-4197-ba27-f551c6b7e72d,2025-10-05,O conforto de evoluir mais facilmente,Linha 2,849,438,20.31,752.53,4.3,Laura da Rosa,Manhã,Concluído
+c1ce7f1c-0180-4bd5-9f2d-01ceed09b89d,2025-10-05,A arte de ganhar com força total,Linha 4,157,520,3.6,736.25,4.4,Dra. Maysa Aragão,Noite,Concluído
+e12a42fe-6ab9-41db-81bd-9fa37c4fc240,2025-10-05,A possibilidade de atingir seus objetivos mais facilmente,Linha 1,323,177,8.34,1090.21,4.7,Bernardo Sá,Noite,Pausado
+f100080c-446e-4719-afb0-306e43c72c48,2025-10-05,O direito de avançar sem preocupação,Linha 4,992,942,18.43,594.67,3.1,Sr. João Felipe Machado,Noite,Em Andamento
+ca5213ef-97e5-40a4-b428-4347e01f9723,2025-10-05,A vantagem de avançar com toda a tranquilidade,Linha 3,769,792,23.66,3986.53,3.5,Isabel Aragão,Tarde,Pausado
+19e8989b-8993-48e4-b344-5cab2a905a21,2025-10-05,O conforto de conseguir simplesmente,Linha 3,326,324,18.03,2561.79,4.3,Sophie Sales,Tarde,Em Andamento
+9ebeb18a-07d8-4eea-97fd-38af8fef1b63,2025-10-05,A possibilidade de inovar mais rapidamente,Linha 2,828,670,14.27,4604.18,4.9,Alexandre Lopes,Tarde,Concluído
+887751b1-acc8-42d4-b244-82fc23070308,2025-10-05,O direito de atingir seus objetivos direto da fonte,Linha 5,659,874,23.32,4263.17,4.1,João Cunha,Tarde,Pausado
+a3142a72-1a12-481d-a5f0-751803b9f154,2025-10-05,O poder de evoluir direto da fonte,Linha 1,797,209,15.82,1319.88,4.8,Srta. Camila Leão,Noite,Pausado
+638be69b-f58f-4d56-b096-62ffb5daf974,2025-10-05,O poder de conseguir mais facilmente,Linha 3,349,299,6.61,3127.91,3.3,Laís Macedo,Manhã,Em Andamento
+2a2e28b9-f7dd-48cf-8d15-c43ca5f8c8a8,2025-10-05,O prazer de atingir seus objetivos mais facilmente,Linha 4,326,393,17.86,4213.06,3.2,Maria Helena Pastor,Manhã,Pausado
+60884689-79ed-4f8f-b8af-43923e812606,2025-10-05,A liberdade de inovar mais rapidamente,Linha 1,918,434,19.06,1831.36,3.1,Júlia da Paz,Tarde,Pausado
+ee30c822-56e8-4f2c-a01c-5afcdc52bff4,2025-10-05,A possibilidade de mudar direto da fonte,Linha 5,181,618,18.85,4823.27,3.8,Srta. Sara Viana,Manhã,Concluído
+4731cdb7-bbe7-49c8-8054-1a50c400ec04,2025-10-05,A possibilidade de concretizar seus projetos direto da fonte,Linha 4,917,302,15.33,1520.02,5.0,Raul Cassiano,Noite,Pausado
+bded42b8-5c1a-4ef2-9f87-cedf092a048e,2025-10-05,A arte de atingir seus objetivos em estado puro,Linha 1,610,287,4.94,3794.01,4.3,Benjamin Pastor,Manhã,Pausado
+28795eeb-1607-4110-888d-c8f24ae8b249,2025-10-05,A arte de evoluir simplesmente,Linha 4,854,142,22.35,4386.76,3.1,Léo Aparecida,Tarde,Pausado
+1058aef9-9453-4a43-a316-0a140c701f6e,2025-10-05,O prazer de avançar mais rapidamente,Linha 4,507,853,12.11,4891.33,3.6,Laura Camargo,Tarde,Concluído
+6af14fc1-7d87-4e38-815d-df320d569965,2025-10-05,A liberdade de avançar de maneira eficaz,Linha 1,985,441,7.05,2579.88,4.1,Apollo Macedo,Manhã,Em Andamento
+83f7bffa-7d7e-405e-842a-76d1524dee44,2025-10-05,O poder de evoluir em estado puro,Linha 1,279,221,4.9,1554.84,3.4,Mariana Souza,Manhã,Concluído
+adc610a2-d64d-43fc-95e3-abc6709be60a,2025-10-05,A possibilidade de atingir seus objetivos mais facilmente,Linha 3,427,306,4.55,825.06,4.7,Ana Sophia Borges,Tarde,Concluído
+722940ee-0318-4727-88ef-b92c9ff79d05,2025-10-05,O prazer de inovar com força total,Linha 3,260,675,14.16,3556.76,3.1,Dra. Luna Fonseca,Manhã,Em Andamento
+631391cd-9718-41f4-b7dc-4df79e32fe85,2025-10-05,A arte de ganhar mais facilmente,Linha 4,843,302,21.62,4940.01,4.8,Marcela Pastor,Noite,Pausado
+4636267b-3111-48a3-a2eb-8ad42a34dce3,2025-10-05,A possibilidade de atingir seus objetivos mais rapidamente,Linha 1,864,160,2.25,771.67,3.8,Helena Moraes,Noite,Em Andamento
+1a361a88-721f-4bdd-9e65-b4e6e212bac7,2025-10-05,A certeza de inovar mais rapidamente,Linha 3,848,209,23.26,4113.78,4.3,Augusto Cardoso,Noite,Em Andamento
+5e813da7-3368-43c9-93c5-9596c920eade,2025-10-05,A possibilidade de concretizar seus projetos com confiança,Linha 1,418,875,23.38,4184.03,3.4,Sra. Maria Luiza Carvalho,Tarde,Em Andamento
+a2863517-2d06-4b6c-89de-e64b36fbfea4,2025-10-05,A vantagem de inovar de maneira eficaz,Linha 5,423,651,20.82,530.69,4.3,João Miguel Vargas,Tarde,Em Andamento
+f88b384d-19f9-4ed1-86e7-f7747ec47551,2025-10-05,A arte de ganhar com força total,Linha 1,794,466,11.14,1812.93,4.0,Pedro Miguel Azevedo,Tarde,Concluído
+e3d12d39-aa45-41d8-91ae-1c4890c1593e,2025-10-05,O prazer de realizar seus sonhos em estado puro,Linha 4,624,569,7.7,4483.39,3.6,Enrico Lopes,Tarde,Pausado
+0978c8d4-bfd9-4d58-8d24-5bcc95271f90,2025-10-05,A arte de conseguir direto da fonte,Linha 5,987,147,20.96,3822.23,3.0,Maria Isis Araújo,Manhã,Em Andamento
+7fb184f0-f9f8-4761-9d37-443960869836,2025-10-05,A arte de mudar naturalmente,Linha 1,387,190,6.94,3538.16,3.3,Theodoro das Neves,Noite,Concluído
+538611e0-d36a-4c5a-9f2a-819c40b37fa4,2025-10-05,A certeza de realizar seus sonhos naturalmente,Linha 1,123,244,6.27,2221.3,4.7,Antônio Rezende,Tarde,Em Andamento
+a4bd956a-9f93-4fcc-aed2-740de3d4c7f1,2025-10-05,A vantagem de realizar seus sonhos naturalmente,Linha 5,154,136,16.41,884.18,3.7,Ana Beatriz Guerra,Manhã,Em Andamento
+d1e27206-0114-463e-961b-a34a424801c8,2025-10-05,A possibilidade de ganhar com força total,Linha 2,499,979,6.06,3438.91,4.1,Sr. Cauã Pires,Manhã,Em Andamento
+71efc323-0394-428d-a630-c9929a18509c,2025-10-05,O conforto de mudar com confiança,Linha 3,675,985,20.66,4409.34,4.8,Raquel Macedo,Noite,Em Andamento
+22a8a2a5-b355-4dc7-ac9a-901356628598,2025-10-05,A liberdade de ganhar de maneira eficaz,Linha 2,704,454,21.58,2091.69,3.5,Samuel das Neves,Tarde,Em Andamento
+abf6555e-ad4a-4fa1-a6a4-9916e80e1892,2025-10-05,A liberdade de inovar com força total,Linha 3,940,643,3.59,3202.86,3.1,Arthur Gabriel Ribeiro,Noite,Em Andamento
+2220ed30-7034-4bb3-8deb-a836e1660991,2025-10-05,A vantagem de realizar seus sonhos simplesmente,Linha 3,353,433,12.77,4024.82,3.9,Gael Henrique Brito,Manhã,Em Andamento
+e69110c8-1da7-4438-bb59-ee61a06eefeb,2025-10-05,A arte de realizar seus sonhos sem preocupação,Linha 2,545,860,6.62,1260.22,3.2,Luana Aragão,Tarde,Em Andamento
+a302bf6b-0a75-4806-a7f7-6b0f57bc4fa8,2025-10-05,A arte de mudar sem preocupação,Linha 1,224,614,20.69,4001.25,4.5,Rodrigo da Cunha,Noite,Concluído
+4c0661c5-4084-4b93-9360-be6a6959870c,2025-10-05,A liberdade de inovar de maneira eficaz,Linha 3,830,534,4.84,1599.13,4.0,Maria Júlia da Cruz,Noite,Em Andamento
+4e7a2f6b-5c24-48d8-b815-e8fa68d26e70,2025-10-05,A possibilidade de avançar de maneira eficaz,Linha 4,165,93,10.95,4955.83,3.2,Melissa Pires,Manhã,Pausado
+13a07078-5316-49c0-b925-68d34959d1ec,2025-10-05,A possibilidade de realizar seus sonhos com força total,Linha 4,159,556,3.78,4136.04,4.9,Léo da Conceição,Manhã,Concluído
+a54e887c-5f3d-4473-8cfb-0cc85ede73fe,2025-10-05,O direito de realizar seus sonhos direto da fonte,Linha 4,945,373,21.05,1414.35,4.1,Srta. Milena Abreu,Tarde,Concluído
+c872ab8e-8008-43b5-abe1-148985280906,2025-10-05,O direito de evoluir antes de tudo,Linha 4,819,859,10.7,4115.19,3.4,Pedro Henrique Monteiro,Tarde,Concluído
+47436c1a-2f1c-4e10-94ca-6d88a7ac3482,2025-10-05,A certeza de realizar seus sonhos mais rapidamente,Linha 4,918,548,2.23,827.39,3.1,Julia Montenegro,Tarde,Concluído
+e2afa201-5539-4155-ab8b-6d3764052b47,2025-10-05,A simplicidade de atingir seus objetivos antes de tudo,Linha 3,757,228,10.25,2755.61,4.6,Carlos Eduardo Ribeiro,Tarde,Pausado
+05a10fac-282f-4dd8-b13a-59279f793c52,2025-10-05,A certeza de concretizar seus projetos naturalmente,Linha 2,971,512,23.07,693.89,3.6,Nathan Ramos,Noite,Em Andamento
+0644f543-0448-494e-a6f4-94edd1459727,2025-10-05,A vantagem de realizar seus sonhos direto da fonte,Linha 5,680,87,21.23,796.6,3.5,Emanuella Cardoso,Tarde,Pausado
+de3d0d69-3234-4a6c-984f-9d5251264372,2025-10-05,A possibilidade de inovar antes de tudo,Linha 3,921,859,8.12,4967.58,3.9,Dr. Rodrigo Garcia,Noite,Concluído
+bca63c24-8c24-4e62-be30-2cfd74741920,2025-10-05,O conforto de ganhar direto da fonte,Linha 3,469,714,8.71,4948.65,3.2,Lucca Borges,Noite,Pausado
+c6076ec9-3056-4e2b-9e3a-2a51e3c8aae3,2025-10-05,O direito de evoluir de maneira eficaz,Linha 1,753,986,4.07,4982.02,3.6,Luísa Barbosa,Noite,Em Andamento
+32711790-6d14-4be1-80ac-3479c232b575,2025-10-05,A simplicidade de concretizar seus projetos em estado puro,Linha 3,256,179,5.48,1868.68,4.5,Dra. Ágatha Lopes,Tarde,Em Andamento
+6abde151-f1bc-4140-84b2-94c2b8d8bae9,2025-10-05,A certeza de avançar simplesmente,Linha 1,402,179,3.05,3919.03,3.6,Valentina Abreu,Tarde,Concluído
+7735c69a-9222-4881-846b-5d205beb36b7,2025-10-05,O direito de inovar mais facilmente,Linha 1,854,117,4.96,1356.21,4.9,Clarice da Cunha,Tarde,Em Andamento
+beeb8c96-59aa-4d48-9e44-e58b1a610e1d,2025-10-05,A arte de ganhar naturalmente,Linha 2,973,495,12.71,4990.01,5.0,Isabelly Moreira,Manhã,Concluído
+6fa30659-3f69-45d9-846b-75f85fb6cc37,2025-10-05,O direito de realizar seus sonhos direto da fonte,Linha 5,982,740,5.05,852.52,3.9,Sr. Valentim Jesus,Manhã,Pausado
+f25c7d7c-28d4-4f51-bb5c-5e6a5ec0a5aa,2025-10-05,A simplicidade de ganhar com força total,Linha 2,240,293,19.81,4765.81,4.5,Aylla Silva,Noite,Pausado
+f96e4350-7f2d-460e-8cc3-35c4dfd49b17,2025-10-05,O conforto de avançar antes de tudo,Linha 1,157,560,17.15,1101.84,4.8,Luiz Henrique Rocha,Manhã,Concluído
+3d2b7df4-dd18-468d-9631-bfd61c403b77,2025-10-05,A liberdade de avançar de maneira eficaz,Linha 1,427,464,4.14,3343.92,4.3,Alexandre Carvalho,Noite,Pausado
+eb576810-a7fb-43af-97d6-3bba30e5325a,2025-10-05,A liberdade de conseguir com confiança,Linha 3,155,129,16.08,3033.84,3.7,Murilo Carvalho,Noite,Em Andamento
+f204fc63-6b54-4375-ad74-a94f0486757a,2025-10-05,A possibilidade de concretizar seus projetos sem preocupação,Linha 5,438,796,10.48,2307.08,5.0,Hellena Costela,Noite,Em Andamento
+3335ef35-9c42-4350-90e1-14b780933168,2025-10-05,O direito de inovar naturalmente,Linha 2,859,560,20.17,3364.54,3.0,Yuri da Rocha,Noite,Concluído
+063a94a1-d32e-4348-b938-7257cd114705,2025-10-05,O prazer de mudar direto da fonte,Linha 4,584,582,23.03,2243.02,4.4,Giovanna da Cruz,Manhã,Em Andamento
+1964e01e-7433-4587-9a7d-58c32d726b7b,2025-10-05,O conforto de evoluir mais rapidamente,Linha 2,395,183,5.36,2240.06,4.3,Amanda Cirino,Noite,Pausado
+4e5a00e5-fa30-46cc-b158-f8516d1a2c9c,2025-10-05,O poder de inovar com toda a tranquilidade,Linha 3,881,937,13.97,4369.49,3.8,Eloá Lopes,Manhã,Pausado
+319980be-d315-4beb-b683-16159416444f,2025-10-05,A segurança de ganhar com força total,Linha 1,928,728,9.95,2641.38,3.6,Dra. Catarina da Conceição,Manhã,Concluído
+086faf57-9458-45e5-b4ff-803b13f42c13,2025-10-05,A vantagem de conseguir simplesmente,Linha 1,429,512,14.5,3636.38,4.9,Ana Lívia Câmara,Tarde,Concluído
+5340a100-380c-482e-97d0-58b621fd0084,2025-10-05,A certeza de realizar seus sonhos mais facilmente,Linha 5,636,183,20.74,1667.6,3.7,Caio da Cruz,Noite,Pausado
+caa73cbc-426f-4150-932e-b690e4c5008a,2025-10-05,A possibilidade de inovar com confiança,Linha 3,823,202,14.4,2910.46,4.9,Luísa Viana,Noite,Em Andamento
+27f1ab83-dcaf-4252-9278-86789f1312ea,2025-10-05,O prazer de avançar com confiança,Linha 5,535,369,20.98,855.02,4.7,Srta. Gabrielly Monteiro,Tarde,Em Andamento
+f2d6d164-22a6-4644-94d4-a93475f2c39c,2025-10-05,A certeza de inovar sem preocupação,Linha 1,322,345,19.7,4792.03,3.3,Ana Carolina Barbosa,Noite,Pausado
+709dec7e-d7ca-4e98-9224-a4cd32cf7ad2,2025-10-05,A certeza de mudar antes de tudo,Linha 1,326,580,19.55,1136.61,4.3,Manuela Costa,Noite,Pausado
+69058c8e-ad2f-48f4-9055-4350dcaa0205,2025-10-05,O conforto de ganhar direto da fonte,Linha 5,277,991,4.82,2869.26,4.8,Anthony Gabriel Sousa,Noite,Em Andamento
+b90650ec-99a7-4c41-85bd-d4e0caed38ab,2025-10-05,A simplicidade de avançar mais facilmente,Linha 5,856,370,21.57,3434.6,4.8,Milena Pereira,Manhã,Concluído
+072a0917-8181-4e05-9fea-b79e8b1faddf,2025-10-05,A liberdade de inovar com força total,Linha 1,859,473,11.12,3982.37,5.0,Aylla Fogaça,Manhã,Pausado
+0a8e6e1e-2f4f-4260-85d7-cf99c961a9cb,2025-10-05,O prazer de evoluir antes de tudo,Linha 1,651,436,3.92,1907.73,4.9,Amanda Moreira,Tarde,Concluído
+664259ac-8eaa-4e8b-ad48-e12143a90f1b,2025-10-05,A certeza de avançar mais rapidamente,Linha 2,937,583,3.74,4944.77,3.3,Ryan Fogaça,Tarde,Concluído
+4d862354-443f-4c36-9dd5-a149e96d80c3,2025-10-05,A liberdade de avançar com toda a tranquilidade,Linha 1,208,208,5.08,1467.2,3.8,Ravy Abreu,Manhã,Em Andamento
+763d0fc1-ebf7-4973-b277-78ae78304d30,2025-10-05,O poder de conseguir de maneira eficaz,Linha 3,509,820,13.77,1053.7,4.7,Henrique Silva,Noite,Pausado
+54c97faa-1c7e-4e18-a414-175e722b676f,2025-10-05,A arte de ganhar simplesmente,Linha 3,396,890,15.07,4667.34,3.1,Marcos Vinicius Rodrigues,Tarde,Pausado
+fb09a3ee-fe4c-432e-b8b9-009fb103153e,2025-10-05,A segurança de atingir seus objetivos naturalmente,Linha 5,341,910,5.63,1143.78,3.2,Léo Almeida,Noite,Pausado
+47e21834-345f-4405-921e-e7faaa509a08,2025-10-05,O direito de ganhar mais rapidamente,Linha 2,555,420,16.98,2073.16,3.9,Yasmin Sales,Manhã,Concluído
+04c891eb-aadd-4907-ad5b-37c0e1e6cc07,2025-10-05,O poder de concretizar seus projetos naturalmente,Linha 3,632,626,6.66,4253.06,3.7,Lorenzo Rezende,Noite,Pausado
+c224ea83-8a29-41a2-bebf-463fe95c0be0,2025-10-05,A arte de concretizar seus projetos mais rapidamente,Linha 1,684,516,9.49,2802.41,4.8,Lívia Vargas,Tarde,Em Andamento
+a5a3d657-3c19-44e9-8458-4b5f93c93674,2025-10-05,O poder de atingir seus objetivos naturalmente,Linha 1,664,348,9.85,4414.76,4.7,Thales Carvalho,Noite,Em Andamento
+c0497d77-8b26-41af-ab7d-4913c9f958bd,2025-10-05,A simplicidade de inovar simplesmente,Linha 2,485,437,15.18,816.7,3.2,Maria Julia Macedo,Noite,Concluído
+cf171f25-f9b3-4661-b78a-c80e4614fc83,2025-10-05,O conforto de concretizar seus projetos antes de tudo,Linha 3,800,668,3.23,3613.63,3.6,Maria Julia Albuquerque,Manhã,Concluído
+d5b3d73f-46a7-4dd9-a7e8-5baa81616d1d,2025-10-05,A segurança de conseguir com força total,Linha 5,634,997,21.98,721.6,3.4,Miguel Macedo,Noite,Pausado
+f79aa60a-6e1f-41ad-b095-526d7fc2a343,2025-10-05,O poder de evoluir de maneira eficaz,Linha 5,171,876,5.47,2139.57,3.2,Maitê Guerra,Noite,Em Andamento
+5c338837-f7c5-407d-802c-b42a0a4a42f3,2025-10-05,A arte de concretizar seus projetos antes de tudo,Linha 3,832,448,20.75,2433.4,3.0,Eduarda Sampaio,Manhã,Em Andamento
+95a76071-ea5b-4249-afcf-1e6dba02364b,2025-10-05,A possibilidade de ganhar com confiança,Linha 3,228,135,4.54,4064.76,3.6,Francisco Ferreira,Noite,Pausado
+53090f3c-b38c-47bb-a454-e04d857f5559,2025-10-05,A possibilidade de conseguir direto da fonte,Linha 4,495,242,3.47,639.33,4.4,Sr. José Miguel Pinto,Noite,Concluído
+d1077ef5-2bfc-4075-a3ec-5e77a0c80e8a,2025-10-05,A possibilidade de conseguir com confiança,Linha 2,152,683,17.7,3373.98,3.9,João Pedro Macedo,Manhã,Em Andamento
+43496578-a130-408f-ab88-94c45b962150,2025-10-05,O poder de avançar com força total,Linha 4,599,431,18.71,2209.0,4.6,Sr. Benjamin Araújo,Manhã,Pausado
+edd3f4e8-f6d2-4235-b1bf-a824a82f452b,2025-10-05,O direito de conseguir com toda a tranquilidade,Linha 1,243,602,22.52,3243.07,4.3,Heloísa Cardoso,Manhã,Pausado
+99fee762-6538-4b4f-b9f3-5d6a49ec72d1,2025-10-05,A liberdade de avançar com confiança,Linha 5,753,959,11.19,2161.13,3.1,Vinicius Gonçalves,Manhã,Concluído
+a2803132-7324-4302-8674-35d4339e077b,2025-10-05,A simplicidade de mudar com toda a tranquilidade,Linha 4,370,881,9.25,1672.21,4.5,Raul Santos,Tarde,Em Andamento
+09b20353-171e-4c02-b0b0-6152bc8b2675,2025-10-05,O prazer de inovar naturalmente,Linha 2,248,684,16.95,2949.63,3.7,Dr. Ravi Lucca Nunes,Noite,Concluído
+23a8c69e-aaf6-41e7-9488-c31e8e475cde,2025-10-05,O conforto de avançar simplesmente,Linha 2,590,431,23.81,3474.13,3.1,Marcos Vinicius Garcia,Tarde,Concluído
+febabf16-018c-4ae6-9d92-beace81511b1,2025-10-05,O poder de conseguir com confiança,Linha 1,659,600,12.25,4225.46,3.9,José Cardoso,Noite,Em Andamento
+29775b85-2461-4ef0-8a4c-6d82aece359b,2025-10-05,O conforto de realizar seus sonhos sem preocupação,Linha 5,212,642,21.12,754.3,4.1,Enzo Pacheco,Manhã,Pausado

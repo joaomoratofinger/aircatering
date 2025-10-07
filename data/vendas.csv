@@ -1,0 +1,1001 @@
+id,data_venda,cliente,vendedor,produto,categoria,quantidade,preco_unitario,desconto,regiao,canal,valor_total
+1efa6c33-23d0-4631-9f04-25500ac7df20,2025-08-28,Porto,Danilo Freitas,O prazer de realizar seus sonhos naturalmente,Serviços,100,178.26,0.06,Leste,Loja Física,16756.44
+d3b7af33-8a9b-4508-a8cf-b3ae63c9a726,2024-01-24,Macedo,João Guilherme Cavalcante,A simplicidade de avançar antes de tudo,Alimentação,72,287.86,0.14,Oeste,Loja Física,17824.29
+257864e4-266b-406e-a0fc-2b6b4816710f,2024-04-19,da Conceição - ME,Maria Liz Dias,A arte de realizar seus sonhos com toda a tranquilidade,Serviços,61,80.71,0.17,Norte,Loja Física,4086.35
+781d5ee3-cb0c-4f70-b336-e2260b740240,2025-06-11,Pereira e Filhos,João Vitor Borges,O prazer de atingir seus objetivos com força total,Bebidas,13,428.85,0.02,Centro,Online,5463.55
+cf48c3c3-e3f6-4711-8017-8fd1f8faa8da,2024-10-07,Correia Vargas Ltda.,Thomas Cardoso,A segurança de evoluir simplesmente,Alimentação,84,10.62,0.16,Norte,Online,749.35
+ea1c0568-503b-4615-b90f-3b74139eaefb,2025-10-05,Sales e Filhos,Dr. Rhavi Gonçalves,O conforto de evoluir com força total,Utensílios,50,423.54,0.08,Oeste,Telefone,19482.84
+a0bd5dd4-d310-431a-9092-bbf2977b8f29,2025-02-08,Mendonça Ltda.,Théo Vieira,A segurança de conseguir de maneira eficaz,Alimentação,82,175.93,0.07,Leste,Telefone,13416.42
+e53a74d6-a75c-499b-aeb7-285203939a9b,2024-04-30,Novaes,Cauê Montenegro,O prazer de conseguir naturalmente,Bebidas,32,127.67,0.12,Norte,Telefone,3595.19
+5d1c07ad-271d-4c15-aac1-c9a9aafaa0b4,2025-09-14,Brito,Guilherme Pires,A segurança de ganhar com força total,Serviços,70,67.15,0.1,Norte,Telefone,4230.45
+7430a835-1047-48f0-b81d-226c1165aea7,2024-11-28,Fernandes,Mariah Fonseca,A arte de realizar seus sonhos simplesmente,Bebidas,94,184.12,0.04,Sul,Representante,16614.99
+66922980-3d37-4d70-b090-c4fee74faf6d,2024-10-27,Gonçalves,Lucas Gabriel Alves,A vantagem de realizar seus sonhos em estado puro,Utensílios,28,454.42,0.18,Sul,Telefone,10433.48
+92dfd153-83f7-4934-8077-990fe95ce540,2025-08-17,Cavalcanti Sales - EI,Marcela Sá,A possibilidade de avançar antes de tudo,Bebidas,3,189.35,0.02,Norte,Representante,556.69
+eb458f83-0226-4efa-882e-b19861402bfd,2024-02-14,Leão - ME,Maria Liz Campos,O prazer de conseguir antes de tudo,Serviços,74,378.45,0.13,Leste,Telefone,24364.61
+470f1aa9-a2a5-4e4c-855d-e3378a534eba,2024-04-16,Pinto S/A,Dante Macedo,O prazer de ganhar de maneira eficaz,Alimentação,6,193.4,0.01,Sul,Telefone,1148.8
+29ee4f24-711c-4474-9294-233742068369,2023-11-17,Correia e Filhos,Pietro Nogueira,A simplicidade de evoluir com toda a tranquilidade,Bebidas,67,481.57,0.04,Centro,Online,30974.58
+801c2080-d11a-4f0c-9a7e-80364148fa96,2024-09-17,Siqueira,Sophie Sales,A liberdade de ganhar sem preocupação,Serviços,17,199.44,0.08,Norte,Telefone,3119.24
+f07a3420-c7af-4c11-b1de-ad4b813700b8,2024-01-20,Duarte S.A.,Yago Duarte,A simplicidade de concretizar seus projetos naturalmente,Alimentação,41,344.66,0.09,Oeste,Online,12859.26
+fba177a0-12ad-4e68-bc9c-ab62cbd46ace,2023-10-29,Vargas - EI,Maria Clara Carvalho,A simplicidade de atingir seus objetivos com força total,Alimentação,63,491.85,0.17,Norte,Loja Física,25718.84
+a8d15cb0-6386-43c4-826d-2c53df58a224,2023-11-26,Garcia,Emanuel Mendes,O poder de conseguir com toda a tranquilidade,Serviços,81,17.38,0.13,Norte,Loja Física,1224.77
+f588d720-c5d0-4396-9e10-b2e652792e77,2024-03-01,Gomes S/A,Dr. Isaac Rezende,O poder de evoluir sem preocupação,Serviços,2,191.8,0.06,Norte,Telefone,360.58
+1c5360c0-163b-4736-8ae3-a6dd6e51de20,2023-11-26,da Rosa Costa - ME,Bruna Casa Grande,A simplicidade de avançar mais facilmente,Utensílios,26,374.92,0.15,Centro,Representante,8285.73
+93254cb0-68ce-429f-aef9-38e164b0274b,2025-02-19,Borges Machado - ME,José Miguel da Mata,O poder de realizar seus sonhos com confiança,Bebidas,64,432.66,0.08,Centro,Online,25475.02
+81f23711-1fc8-4b03-8412-c935fe44558e,2024-03-16,Oliveira Sousa - ME,Hellena Câmara,A liberdade de inovar naturalmente,Serviços,14,306.81,0.14,Leste,Loja Física,3693.99
+25f66d90-a3e2-4413-a08e-18e9b74187ee,2024-03-26,Macedo,Dra. Giovanna Siqueira,A vantagem de realizar seus sonhos antes de tudo,Serviços,40,153.09,0.1,Oeste,Representante,5511.24
+484dd9b3-c587-4987-a761-8005c84cc6b3,2024-10-09,da Costa S.A.,João da Mota,A certeza de mudar mais rapidamente,Alimentação,48,420.92,0.06,Oeste,Representante,18991.91
+78baf0a6-12fe-45a3-a57c-171deecfd713,2023-10-09,Pires,Maria Helena Moreira,O poder de atingir seus objetivos com toda a tranquilidade,Utensílios,22,282.6,0.04,Centro,Loja Física,5968.51
+1a8b68ac-a85c-49e0-a158-27dddbae61c8,2024-04-07,Garcia,Maria Alice Brito,A certeza de atingir seus objetivos naturalmente,Serviços,34,291.23,0.2,Oeste,Loja Física,7921.46
+1b52fc3d-f7bc-4d4a-9d99-293a1eb177dd,2024-03-18,Leão,João Gabriel Moraes,A vantagem de realizar seus sonhos naturalmente,Bebidas,96,437.69,0.15,Norte,Online,35715.5
+12b1dec3-ff74-4bae-9a51-c98d10700321,2024-07-07,Peixoto,Melissa Farias,O conforto de inovar com força total,Serviços,12,62.2,0.09,Leste,Loja Física,679.22
+854c71ee-9c89-4b3b-b29c-fa2175f54491,2024-04-26,Fernandes S.A.,Sra. Bianca Freitas,A vantagem de concretizar seus projetos simplesmente,Alimentação,96,466.32,0.14,Centro,Representante,38499.38
+810608ce-940c-44f7-801d-2e23127f7f13,2025-01-04,Marques,Levi Caldeira,O conforto de realizar seus sonhos com força total,Alimentação,79,162.01,0.17,Oeste,Online,10623.0
+3bfad61b-7dec-4b25-a497-d66384577004,2025-07-01,Machado e Filhos,Dra. Manuela Cavalcante,O conforto de mudar com força total,Serviços,97,58.57,0.03,Oeste,Online,5510.85
+3fa554a7-e352-4446-b38e-3e306d4f95ee,2024-12-29,Siqueira,Theodoro Camargo,O prazer de conseguir antes de tudo,Utensílios,89,37.41,0.05,Oeste,Online,3163.02
+b5fbc8b1-95fa-489d-8a12-f1d41a7a76bb,2024-09-05,Oliveira Carvalho e Filhos,Valentim Camargo,A possibilidade de avançar de maneira eficaz,Alimentação,72,331.94,0.13,Leste,Telefone,20792.72
+c17c7c8d-d000-442f-8f00-92fbd534c949,2025-03-03,da Conceição,Sra. Aurora Correia,O direito de atingir seus objetivos de maneira eficaz,Serviços,7,150.7,0.13,Centro,Online,917.76
+5bba025b-c2d8-4cd5-a486-de35543f4c2f,2025-03-19,Abreu S/A,Enzo Gabriel Aragão,A liberdade de inovar mais facilmente,Serviços,28,176.42,0.14,Oeste,Online,4248.19
+ab86b328-3ad1-4201-82a8-64ecad74d7d1,2024-02-06,Pacheco Ltda.,Emanuelly Silva,A possibilidade de inovar mais rapidamente,Alimentação,51,164.26,0.13,Norte,Telefone,7288.22
+ad049c6d-5290-4507-b31f-fba44967d6a8,2024-04-09,Mendes,Luiza Viana,O conforto de atingir seus objetivos mais rapidamente,Alimentação,29,384.93,0.18,Centro,Online,9153.64
+2bcfc23c-b100-4cd0-a731-b46b00499739,2024-08-05,Garcia,Ana Nogueira,O poder de concretizar seus projetos com confiança,Serviços,4,482.34,0.03,Sul,Online,1871.48
+ebbebabd-2d96-449a-88ae-6ab77647de80,2025-08-14,Aragão,Nicole Rocha,A segurança de avançar mais facilmente,Serviços,78,54.67,0.19,Sul,Representante,3454.05
+398d425a-d460-4c49-a23c-6ca26709c11b,2024-03-14,Almeida da Rocha S.A.,Ana Lívia Araújo,O conforto de realizar seus sonhos em estado puro,Utensílios,28,92.09,0.17,Norte,Online,2140.17
+9a65cea1-6858-4051-be74-c4a5186c5957,2024-11-12,da Luz Fogaça - EI,Alexia Costela,A liberdade de realizar seus sonhos com confiança,Utensílios,97,368.59,0.18,Norte,Representante,29317.65
+241f09b4-7ffc-4038-91d9-7c8e1fb5e89a,2024-09-12,Rezende Ltda.,Sophie Brito,A possibilidade de conseguir com toda a tranquilidade,Bebidas,97,337.67,0.01,Norte,Online,32426.45
+4806f0ab-166a-4b3c-9654-3fb263024832,2024-11-06,Gomes - ME,João Gabriel Andrade,A segurança de realizar seus sonhos de maneira eficaz,Alimentação,86,173.75,0.06,Leste,Loja Física,14045.95
+43801c19-ce7e-407c-b090-7645911d5fa5,2023-12-06,Pinto - ME,Luísa da Cruz,O poder de ganhar com força total,Bebidas,36,74.27,0.1,Centro,Representante,2406.35
+3a97f5d9-f17b-4920-a176-921eb6bd795d,2024-07-19,Costela S.A.,Felipe Ferreira,O direito de atingir seus objetivos antes de tudo,Utensílios,33,232.97,0.04,Centro,Telefone,7380.49
+d1853c97-f751-4fec-bed6-4a3f165b11c4,2024-08-10,Vieira Melo S/A,Emilly Vargas,A liberdade de conseguir mais rapidamente,Bebidas,14,28.2,0.15,Norte,Loja Física,335.58
+909721e6-8ec8-4eb0-8573-c3590eeddbf1,2024-12-13,da Rocha Lima Ltda.,Hadassa Costela,A simplicidade de avançar com toda a tranquilidade,Utensílios,75,496.13,0.05,Leste,Telefone,35349.26
+997b6c15-7372-4ebc-9b60-5c91777c707c,2024-11-07,Borges Pacheco - EI,Juan Souza,O poder de inovar naturalmente,Alimentação,82,252.95,0.01,Leste,Telefone,20534.48
+1f2cce41-27ec-41a0-a67a-5e11111f965f,2024-11-24,Barros Ltda.,Otávio da Cunha,A possibilidade de ganhar de maneira eficaz,Bebidas,51,98.66,0.15,Norte,Loja Física,4276.91
+9994b256-8735-4bdf-988a-f5cedae604eb,2024-04-10,Pereira,Maria Vitória Macedo,O conforto de ganhar direto da fonte,Serviços,46,244.54,0.07,Centro,Telefone,10461.42
+a9984e44-d782-4cb6-84e4-d25ba8de054c,2024-07-16,Campos S/A,Pedro Miguel Rezende,O prazer de mudar de maneira eficaz,Bebidas,44,195.19,0.13,Centro,Representante,7471.87
+4420edfd-6c42-4ed9-a7b4-619b0c3b5670,2024-07-10,Caldeira,Dr. Rhavi Cavalcante,A liberdade de mudar simplesmente,Utensílios,85,193.37,0.03,Leste,Loja Física,15943.36
+84d3a723-37d9-4585-bf88-fba709e447fa,2025-06-18,Rodrigues,Ana Beatriz Melo,A simplicidade de ganhar com toda a tranquilidade,Serviços,73,17.18,0.07,Sul,Online,1166.35
+ec523310-2736-421a-90c6-b29fa100ed7a,2025-04-24,Martins,Daniela Sousa,A certeza de conseguir mais rapidamente,Bebidas,84,475.1,0.08,Centro,Representante,36715.73
+c14eb516-c33b-4515-b992-b7f63d08bd62,2024-10-19,Mendes S.A.,Sra. Maria Luiza Sales,A certeza de evoluir de maneira eficaz,Serviços,77,170.52,0.03,Leste,Loja Física,12736.14
+38ffde59-a5ed-403a-b8db-91caa0e5ba8c,2025-06-10,Moraes Ltda.,Alana Pimenta,A liberdade de evoluir com toda a tranquilidade,Serviços,63,17.5,0.01,Centro,Representante,1091.47
+511a9e2f-b532-496c-9298-21820a03fbbc,2025-09-07,Pires Pereira - ME,Matheus Leão,A vantagem de conseguir com confiança,Bebidas,59,488.73,0.16,Centro,Loja Física,24221.46
+1311bc82-2b00-4337-b6a9-8e128442f970,2024-12-07,Machado e Filhos,Sra. Maria Vitória Ramos,A arte de concretizar seus projetos de maneira eficaz,Utensílios,23,468.27,0.04,Centro,Representante,10339.4
+6d9b3a76-f623-4820-a814-927f53e18743,2025-08-13,Pires,Isabella Cavalcante,O poder de inovar em estado puro,Utensílios,21,297.64,0.05,Oeste,Representante,5937.92
+a8c89971-482f-4e25-8312-5b803d3b3c55,2024-05-15,Caldeira Vieira S.A.,Maria Júlia Carvalho,A arte de avançar simplesmente,Bebidas,16,107.93,0.08,Oeste,Telefone,1588.73
+802c0803-e64d-42ae-b2ea-d6fa41c7ca88,2024-02-09,Lopes,Guilherme Novais,A arte de evoluir em estado puro,Alimentação,55,318.81,0.18,Oeste,Telefone,14378.33
+8b435106-1f25-4939-b84a-aecb1b7384d2,2024-11-05,Casa Grande,Yuri Machado,A liberdade de mudar em estado puro,Bebidas,46,265.32,0.05,Centro,Online,11594.48
+bb381ad2-1c4b-4950-b4b3-78a2020e5c03,2024-01-15,Freitas Vargas - EI,Eloá Montenegro,A vantagem de mudar de maneira eficaz,Bebidas,96,357.9,0.19,Centro,Loja Física,27830.3
+1c79870a-b9e4-4b4c-ba65-1e0870dda3bc,2025-05-18,Mendes,Bruno Pastor,O poder de inovar com confiança,Serviços,93,125.73,0.11,Leste,Representante,10406.67
+f82051c1-0a10-4ae1-b1b8-f0176c504035,2025-06-02,Caldeira,Sra. Maya Pinto,O prazer de inovar antes de tudo,Utensílios,9,217.21,0.07,Leste,Online,1818.05
+c0a14e80-4ea6-47fe-8c7d-473a783024d0,2023-12-27,Fernandes,Dra. Júlia Caldeira,O poder de concretizar seus projetos em estado puro,Utensílios,53,214.4,0.06,Centro,Loja Física,10681.41
+2d7cd73a-ed7f-4ac6-a989-c84af9f9375e,2024-05-03,Novaes Câmara e Filhos,Joaquim Costa,A liberdade de atingir seus objetivos naturalmente,Serviços,91,484.99,0.0,Leste,Telefone,44134.09
+40153606-a9a2-43e6-8427-29e11f2e9df4,2023-10-11,Vasconcelos,Cauã Gonçalves,A liberdade de ganhar direto da fonte,Serviços,5,433.29,0.18,Leste,Loja Física,1776.49
+95d9bbfb-d616-41e9-bfdd-93a200c19e71,2024-11-05,Pacheco,Dra. Milena da Cruz,A certeza de avançar com confiança,Serviços,90,374.83,0.12,Oeste,Online,29686.54
+1f09aa73-55a8-40d3-b980-0cbea1e4914d,2023-11-21,Correia S.A.,Ravi da Luz,O direito de inovar naturalmente,Bebidas,75,281.7,0.11,Norte,Representante,18803.47
+27753681-f3e6-45fe-9496-8d13a624e575,2025-06-03,Macedo Pastor S/A,Sr. Leonardo Silveira,O conforto de realizar seus sonhos com confiança,Alimentação,84,54.98,0.01,Sul,Online,4572.14
+a037892a-6419-48f6-aede-903aac0afdf1,2024-10-19,Nunes Cavalcanti S.A.,Lucas Freitas,A vantagem de realizar seus sonhos mais rapidamente,Alimentação,4,460.54,0.13,Centro,Online,1602.68
+7a6b5d56-e752-4154-ba4e-0956f15891b3,2025-09-11,da Mata Castro - ME,Antony Costa,O direito de atingir seus objetivos em estado puro,Utensílios,31,256.77,0.0,Norte,Representante,7959.87
+1008772e-5687-442d-b0fa-abec18e2ae0a,2024-07-01,Cunha S/A,Luiz Gustavo Fonseca,A vantagem de mudar de maneira eficaz,Serviços,40,66.91,0.17,Oeste,Loja Física,2221.41
+d832e7b2-c1eb-4db9-9a40-2b697c00610e,2025-08-20,Sales Gonçalves - ME,Bruno da Conceição,A vantagem de evoluir sem preocupação,Serviços,22,57.07,0.19,Sul,Loja Física,1016.99
+6d0054d1-a90d-4b32-9906-e98627d0fb1d,2024-12-16,Cassiano,Ryan Campos,O poder de atingir seus objetivos em estado puro,Utensílios,43,108.42,0.18,Leste,Telefone,3822.89
+e2aa86f8-f7b8-441d-9465-34c1044a734a,2023-10-28,Casa Grande Dias S/A,Dr. Marcos Vinicius Caldeira,O direito de concretizar seus projetos mais facilmente,Utensílios,94,161.47,0.02,Norte,Online,14874.62
+f0c08560-eb51-491e-ab85-5181f8788d75,2023-10-25,da Paz,Juliana Albuquerque,A certeza de realizar seus sonhos em estado puro,Bebidas,17,495.61,0.01,Leste,Telefone,8341.12
+b93df96a-0d86-49ee-bfed-2935ec902c48,2025-03-16,da Cunha,Esther Carvalho,A simplicidade de inovar naturalmente,Serviços,74,408.85,0.02,Norte,Telefone,29649.8
+8aa84b08-abb2-48b1-b765-3a2a00e4e7d8,2023-12-16,Rezende - EI,Allana Moura,O prazer de atingir seus objetivos com força total,Utensílios,53,201.32,0.01,Sul,Telefone,10563.26
+61253178-d342-4ae5-b21c-94f3b3bb22c0,2024-08-23,Guerra,Vinicius Vieira,A segurança de conseguir com toda a tranquilidade,Bebidas,50,281.79,0.0,Oeste,Telefone,14089.5
+ad99938e-8772-4318-a5d7-7ef69501c1b2,2023-11-20,Guerra,Alice Rios,A segurança de avançar com confiança,Utensílios,17,477.61,0.18,Sul,Representante,6657.88
+73c8be8b-dfd4-42fd-8400-b2d4a46cfe7d,2025-05-07,da Paz,Marcelo Vieira,A simplicidade de atingir seus objetivos mais facilmente,Utensílios,78,78.77,0.12,Sul,Representante,5406.77
+fa0f99d8-0bbf-4126-8b44-4adab213977a,2024-03-23,da Luz,Aylla Cirino,A certeza de concretizar seus projetos de maneira eficaz,Alimentação,93,412.96,0.13,Leste,Representante,33412.59
+33f04515-39ac-4ed0-9ef5-376283f4bb2d,2025-05-30,Monteiro Oliveira S.A.,Maria Costela,A possibilidade de ganhar em estado puro,Serviços,57,108.54,0.06,Leste,Telefone,5815.57
+fbea154b-a0a0-487b-90c5-c1839248f844,2025-02-17,Silveira da Rocha - ME,Dra. Maria Eduarda Fernandes,O poder de ganhar com toda a tranquilidade,Utensílios,78,272.39,0.01,Centro,Telefone,21033.96
+06be04db-f5e9-4dd8-867a-6ee3b7b47fe7,2024-08-07,da Paz - ME,Helena da Costa,A liberdade de inovar naturalmente,Alimentação,12,449.26,0.11,Oeste,Representante,4798.1
+e77be8f3-4e4c-4e36-bc64-6445f3746226,2024-07-28,Pinto,Gustavo Henrique Andrade,A vantagem de avançar com força total,Alimentação,58,361.3,0.13,Centro,Telefone,18231.2
+019b996e-7fa0-434c-8942-e53430a220e7,2023-11-18,Azevedo Rezende - ME,Ana Carolina Alves,O direito de concretizar seus projetos com força total,Utensílios,77,357.93,0.03,Sul,Representante,26733.79
+03d8b879-64af-4545-a1a5-24e662b824e0,2024-06-27,Cardoso,Luan Carvalho,A liberdade de avançar antes de tudo,Alimentação,14,81.33,0.03,Leste,Telefone,1104.46
+29745fd8-ce26-4efa-ac78-91fdd96e3c64,2024-01-16,Monteiro Pastor S.A.,Sophie Melo,A simplicidade de avançar sem preocupação,Utensílios,64,147.11,0.07,Centro,Loja Física,8755.99
+86668238-520a-4358-8772-f28b57944665,2024-09-20,Farias,Benjamin Abreu,O conforto de conseguir antes de tudo,Alimentação,68,499.23,0.19,Centro,Telefone,27497.59
+a8b95066-42dc-4777-940f-9e827332abd5,2024-01-22,Sampaio e Filhos,Bryan Farias,A arte de evoluir simplesmente,Serviços,51,172.68,0.17,Oeste,Online,7309.54
+fa4cc34a-9464-4c40-9a79-54ae6f6b4ac3,2025-04-29,Pereira - ME,Ana Beatriz Andrade,A vantagem de ganhar naturalmente,Utensílios,35,408.63,0.04,Centro,Representante,13729.97
+2faada98-8bb9-4585-8604-335192cb3278,2025-06-29,Vasconcelos S.A.,Maria Sophia Farias,A possibilidade de evoluir naturalmente,Serviços,50,204.03,0.12,Centro,Online,8977.32
+e606d1a6-3d59-4588-ab1a-430c73b7f234,2024-11-02,Martins e Filhos,Sr. Henry Fernandes,A arte de atingir seus objetivos mais facilmente,Alimentação,79,165.11,0.15,Oeste,Online,11087.14
+3e55e97d-812c-4292-9a3b-c5ffec92bd42,2024-11-10,Carvalho,Theodoro Jesus,O direito de atingir seus objetivos mais rapidamente,Utensílios,67,377.37,0.12,Sul,Telefone,22249.74
+05d5a366-6938-4157-9fad-aa93cec0a71b,2025-05-26,Fogaça e Filhos,Apollo Rocha,A certeza de evoluir com toda a tranquilidade,Alimentação,37,11.37,0.18,Centro,Telefone,344.97
+1d59b893-3893-4fb1-975b-c66b940077c8,2025-04-22,Pires e Filhos,Juan Pacheco,A certeza de avançar com força total,Utensílios,83,280.78,0.16,Sul,Telefone,19575.98
+53eec37c-75ea-4e65-99e4-2cc723c3375a,2025-01-20,Borges Cirino - EI,Isabel Cardoso,O conforto de avançar direto da fonte,Bebidas,54,110.88,0.02,Centro,Online,5867.77
+f3abe7dd-a9e2-4d6c-a697-a827cb991478,2024-04-22,Silveira S/A,Daniel Mendes,A certeza de mudar sem preocupação,Bebidas,99,151.61,0.14,Sul,Loja Física,12908.08
+a59d2901-bfea-4373-b9fb-c2b76e67efcd,2024-01-22,Aparecida,Davi Vargas,O conforto de concretizar seus projetos simplesmente,Bebidas,66,220.26,0.17,Centro,Online,12065.84
+bea20f9c-4d5c-405c-bacb-ef8beb9c73de,2023-12-23,Cunha e Filhos,Gael Henrique Costa,A arte de avançar com força total,Alimentação,94,131.23,0.16,Sul,Telefone,10361.92
+ef626541-7d1c-41f0-a859-596db03ed3eb,2023-12-25,Fernandes S.A.,Maria Alice Cunha,A segurança de realizar seus sonhos mais rapidamente,Bebidas,2,21.35,0.12,Leste,Loja Física,37.58
+50bd1718-aeef-4266-97c3-d6e4ecf706fd,2025-04-30,Vasconcelos Pimenta - EI,Rebeca Martins,A possibilidade de inovar com confiança,Alimentação,94,196.34,0.08,Oeste,Loja Física,16979.48
+e08866e9-d8fe-4fea-914a-78a65a67b732,2025-06-05,Pereira,Yuri Costa,A vantagem de ganhar mais rapidamente,Utensílios,19,233.68,0.07,Sul,Loja Física,4129.13
+7799bc03-ee5d-4047-a68f-82c1a2d5e518,2024-08-15,Machado Brito Ltda.,Maria Cassiano,O direito de concretizar seus projetos em estado puro,Utensílios,34,233.55,0.08,Sul,Telefone,7305.44
+016fcd46-8db1-4e20-ba70-54a527658f3b,2024-09-19,Almeida,Helena da Paz,A arte de avançar mais rapidamente,Alimentação,45,252.65,0.13,Leste,Online,9891.25
+2763401d-ae93-4eb7-9833-8194179afe71,2025-03-31,da Mota,Davi Lucas Souza,A possibilidade de avançar antes de tudo,Serviços,67,418.03,0.09,Norte,Telefone,25487.29
+d812d907-1076-4471-8aa5-3ec816c032db,2025-01-07,Caldeira,Pedro Caldeira,A possibilidade de inovar simplesmente,Utensílios,48,171.07,0.16,Oeste,Loja Física,6897.54
+69f062d0-403e-43be-a20a-028b16a92d2d,2025-04-10,Cunha,Pietro Melo,A liberdade de mudar com toda a tranquilidade,Utensílios,15,343.37,0.07,Norte,Representante,4790.01
+89a95e20-8dcf-418e-9eba-7b681a223637,2024-05-20,Moreira S.A.,Théo da Mata,A simplicidade de avançar com toda a tranquilidade,Serviços,45,95.46,0.07,Leste,Telefone,3995.0
+23c05541-f3af-45fa-826f-f8d3ca3779cd,2025-09-17,Nogueira Ltda.,João Vitor Vieira,A simplicidade de avançar de maneira eficaz,Serviços,58,233.07,0.05,Norte,Telefone,12842.16
+cc398bc1-d57c-4665-8ace-3194d7481111,2024-01-30,Marques Monteiro - ME,Henry Gabriel Azevedo,A arte de realizar seus sonhos direto da fonte,Utensílios,89,170.54,0.1,Leste,Loja Física,13660.25
+0afa44e8-ce40-4938-9846-ed41eebf0fa7,2025-01-28,Oliveira,Mariana Abreu,O poder de mudar mais rapidamente,Bebidas,74,34.57,0.13,Centro,Loja Física,2225.62
+23cb2582-4c72-4183-b183-5a2e47a3fd1e,2024-04-12,Ramos e Filhos,Zoe Leão,A liberdade de realizar seus sonhos de maneira eficaz,Utensílios,13,187.38,0.09,Oeste,Telefone,2216.71
+c75d6853-7190-4a91-9c31-1b3bb7a14deb,2025-03-05,Montenegro,Otto Farias,A arte de conseguir de maneira eficaz,Serviços,20,41.62,0.05,Leste,Telefone,790.78
+a949c342-3064-43f2-ad94-4f7cfe366e17,2024-03-14,Cirino,Ana Lívia Novaes,O prazer de atingir seus objetivos simplesmente,Utensílios,58,373.09,0.14,Sul,Online,18609.73
+3ed36a09-5f2e-49b8-98fd-1bba7de58a23,2024-02-09,Albuquerque Ltda.,Jade Cunha,A simplicidade de ganhar mais facilmente,Bebidas,33,483.22,0.1,Norte,Online,14351.63
+89815e69-5805-4d4d-9862-fc2b10f2be80,2024-10-25,Araújo e Filhos,Vitória Teixeira,A vantagem de mudar direto da fonte,Alimentação,75,360.44,0.17,Centro,Telefone,22437.39
+63fbae50-dab8-4010-9de5-05ec58bb9ddd,2024-02-05,Ferreira - EI,Lara da Mota,O direito de inovar antes de tudo,Bebidas,24,252.96,0.13,Sul,Telefone,5281.8
+a059376c-7a15-4900-a0a0-ed75521f21a7,2023-12-22,Rocha Alves - EI,Benício Albuquerque,A simplicidade de realizar seus sonhos simplesmente,Alimentação,26,233.74,0.06,Centro,Loja Física,5712.61
+ca7dff80-c4a8-497e-9bd8-98068b709c1d,2023-11-27,Brito Pereira Ltda.,Stella Marques,O prazer de inovar sem preocupação,Alimentação,34,180.66,0.06,Leste,Online,5773.89
+ad89d57d-5afa-4501-9b86-a0e3e21da471,2024-06-06,Melo,Henry Gabriel Cirino,A arte de ganhar com confiança,Serviços,5,397.51,0.09,Sul,Representante,1808.67
+0f04a3bb-25bd-4092-9e8c-5c430562c033,2025-02-08,Aparecida,Lucas Rios,A arte de atingir seus objetivos antes de tudo,Utensílios,74,231.13,0.1,Centro,Telefone,15393.26
+c3b7b6b7-7ce2-4d19-a939-4e39cf9b67f2,2025-06-25,Garcia - EI,Levi Moreira,A liberdade de inovar mais rapidamente,Alimentação,21,353.06,0.02,Oeste,Representante,7265.97
+da6347a2-6305-4f9a-9fd0-517e6d8f584d,2024-08-22,Azevedo da Costa - EI,Antonella Ferreira,O direito de evoluir simplesmente,Utensílios,86,135.6,0.09,Sul,Loja Física,10612.06
+418f0f0c-37b8-424f-9848-c7790716c6db,2023-12-22,Farias S.A.,Theodoro Costela,A segurança de mudar mais rapidamente,Alimentação,84,164.33,0.11,Sul,Loja Física,12285.31
+f3820fa2-7243-4a13-b186-8735a7f73c94,2025-10-03,Costela das Neves S.A.,Pedro Andrade,A arte de realizar seus sonhos direto da fonte,Serviços,78,116.96,0.07,Oeste,Online,8484.28
+0900454c-fa0f-4bb7-9ce3-53338be9f7e4,2024-06-20,Macedo,Antony Ferreira,O conforto de atingir seus objetivos mais rapidamente,Bebidas,38,352.18,0.13,Norte,Online,11643.07
+d513ce34-fa83-4b22-8aa3-a02d796093f6,2024-09-11,Fonseca Andrade - ME,Henry Gabriel Dias,A vantagem de evoluir direto da fonte,Bebidas,42,219.08,0.12,Sul,Online,8097.2
+e30a2ac8-d6b0-4751-979b-4ab0bdf2f1a5,2025-06-28,Jesus Correia S/A,Caleb Silveira,O prazer de avançar naturalmente,Utensílios,93,416.87,0.06,Norte,Loja Física,36442.78
+b3d54f4e-bf2c-433b-880c-078fee863c67,2024-03-21,Viana,Asafe da Paz,O direito de concretizar seus projetos naturalmente,Utensílios,16,162.84,0.13,Norte,Online,2266.73
+73625ba3-1f37-4739-8ef3-881749ba110b,2023-12-25,Cavalcante S/A,Sra. Ana Júlia Monteiro,A possibilidade de atingir seus objetivos com força total,Bebidas,16,492.49,0.09,Sul,Representante,7170.65
+03fb9e9a-b9fe-4bd2-9310-af95f0ec20df,2024-08-28,Pereira,Thomas Rocha,O conforto de avançar sem preocupação,Serviços,6,440.86,0.05,Sul,Online,2512.9
+09d614d6-a914-41c5-9597-609c79dba6c1,2025-07-19,Borges,Maria Sophia Câmara,O conforto de atingir seus objetivos mais facilmente,Alimentação,72,22.12,0.04,Centro,Representante,1528.93
+106e7dcd-db89-4c2f-a4fa-8a56e80af151,2025-07-20,Viana Caldeira - EI,Ana Júlia Pires,A vantagem de inovar com confiança,Alimentação,98,23.23,0.02,Oeste,Representante,2231.01
+2546fd4c-f24b-4853-87d6-cb08d2fb9ec5,2025-04-18,Guerra,Alexandre Costa,O poder de evoluir com toda a tranquilidade,Bebidas,83,85.36,0.02,Leste,Telefone,6943.18
+a35d91cf-c36d-4f73-b4a4-2a285ce91095,2025-05-13,Casa Grande,Sr. Nathan Macedo,A segurança de concretizar seus projetos direto da fonte,Alimentação,63,81.38,0.01,Sul,Telefone,5075.67
+6bdcf1c8-10c7-41db-b3af-b91fe2a2dbd4,2024-12-06,Abreu Ltda.,Isabela Cavalcanti,O conforto de concretizar seus projetos com toda a tranquilidade,Bebidas,74,498.14,0.05,Leste,Representante,35019.24
+5d5491a9-9589-408a-92a4-0abd68d2c65a,2024-12-04,Alves,Thales Santos,A segurança de conseguir com confiança,Bebidas,39,481.58,0.02,Centro,Telefone,18405.99
+531394aa-7fb3-48b3-9ab1-58af7fced479,2025-07-13,da Luz,Dra. Ágatha Vasconcelos,O poder de evoluir mais rapidamente,Serviços,39,258.06,0.18,Oeste,Online,8252.76
+b83dae65-9d39-4a02-881c-fd5334d17766,2025-01-26,Pastor,Maria Fernanda Andrade,A liberdade de mudar em estado puro,Bebidas,65,201.06,0.09,Centro,Representante,11892.7
+f4481ac0-581d-44a9-84b2-effd1e4ff677,2024-07-01,Barbosa,Ana Sophia Rodrigues,A possibilidade de conseguir com toda a tranquilidade,Serviços,87,306.23,0.19,Sul,Loja Física,21580.03
+b8de8adb-a0a5-4dfd-bc18-a071c0874f63,2023-12-08,Borges Ltda.,Ana Cecília Nascimento,O direito de ganhar direto da fonte,Bebidas,33,339.58,0.14,Sul,Online,9637.28
+52c32b73-099d-404f-9828-2d8b2a58e63e,2025-05-07,Almeida,Sofia Costela,O conforto de concretizar seus projetos com toda a tranquilidade,Serviços,28,319.82,0.11,Sul,Online,7969.91
+aabc7959-78c1-4d9a-9cea-2a47bd0019ec,2025-08-28,Alves S.A.,Enzo da Rocha,O direito de realizar seus sonhos de maneira eficaz,Utensílios,87,401.58,0.06,Oeste,Loja Física,32841.21
+d27e0c9c-5ad0-4dd0-8ee6-b1797236e689,2024-08-07,Câmara,Ana Beatriz Aparecida,A segurança de conseguir antes de tudo,Bebidas,70,416.29,0.12,Leste,Online,25643.46
+743856b8-3deb-4548-9404-3f94ca99ddc2,2024-02-23,da Cunha,Ana Carolina Aparecida,A simplicidade de atingir seus objetivos em estado puro,Bebidas,77,488.99,0.03,Leste,Representante,36522.66
+169059fb-5ba3-4b2c-a56a-7e83770a18cc,2025-04-27,Pires,Luiz Felipe Rios,A simplicidade de concretizar seus projetos de maneira eficaz,Bebidas,56,43.56,0.18,Oeste,Loja Física,2000.28
+9b2243b0-7ba6-4bd1-8b14-d19a322c0e92,2025-04-12,Cassiano,Srta. Yasmin Azevedo,A segurança de inovar simplesmente,Utensílios,59,186.45,0.01,Norte,Loja Física,10890.54
+36a39702-e4b6-4461-a1f4-ef7fcbb90b1a,2025-06-11,Fernandes,Sr. Enzo Machado,A possibilidade de inovar em estado puro,Bebidas,62,253.75,0.07,Sul,Loja Física,14631.23
+f86e9893-5222-4b7a-9d98-ba63bfe96a4e,2025-03-18,Martins,Bernardo Peixoto,A vantagem de avançar com toda a tranquilidade,Alimentação,90,172.94,0.02,Leste,Representante,15253.31
+5c789e89-6ea7-4352-82dd-d23893eeebd4,2024-07-09,Aparecida,Yago da Rocha,A vantagem de inovar em estado puro,Utensílios,19,491.17,0.04,Sul,Telefone,8958.94
+d9d1e6a3-4f75-4b58-be68-caaa39363063,2025-05-09,Sampaio - EI,Letícia Moreira,A simplicidade de conseguir com confiança,Bebidas,74,463.7,0.03,Leste,Telefone,33284.39
+57337c3b-59a5-42b4-bc24-95d3a51eb2be,2024-01-18,da Paz Ltda.,Maya Borges,A simplicidade de ganhar naturalmente,Serviços,76,68.87,0.06,Centro,Telefone,4920.07
+4d9b4f53-a881-42cf-994d-fd448ec37045,2025-04-04,da Conceição,Pietro Costa,A simplicidade de inovar simplesmente,Serviços,10,159.56,0.05,Leste,Representante,1515.82
+3a7f923f-ca0d-43e3-aea8-3be13956ddec,2025-09-21,Camargo S.A.,Vinícius Guerra,A possibilidade de inovar com força total,Alimentação,95,464.91,0.19,Sul,Online,35774.82
+8441fa0d-6143-4583-a543-5a4e6875407f,2024-10-11,Barros,Ana Julia Martins,A segurança de evoluir antes de tudo,Serviços,48,129.44,0.09,Leste,Telefone,5653.94
+62432997-f32b-4da7-b42b-1aa1f6b6a11c,2025-09-01,Rios,Ana Vitória Macedo,O prazer de conseguir antes de tudo,Bebidas,28,344.42,0.18,Centro,Online,7907.88
+9ec9fb18-380e-4a53-ba97-e53eca784d57,2024-05-11,Vargas,Brayan Abreu,A segurança de avançar com toda a tranquilidade,Bebidas,67,437.49,0.16,Norte,Loja Física,24621.94
+5b840992-01f5-42c1-ade2-cf3b6d29c7ad,2024-06-15,Fonseca,Isabella Dias,O prazer de avançar sem preocupação,Alimentação,14,175.59,0.07,Norte,Loja Física,2286.18
+b801ef41-697a-4e7e-a597-327de429a884,2024-03-09,Peixoto S.A.,Dr. Breno Novais,O prazer de atingir seus objetivos com força total,Utensílios,65,89.74,0.17,Sul,Loja Física,4841.47
+4cc286ab-0cb0-4684-a400-a0854fc4e6e2,2023-10-22,Sampaio Ltda.,Rael Borges,O conforto de concretizar seus projetos com confiança,Utensílios,31,58.38,0.09,Oeste,Online,1646.9
+841c59e5-3946-4fd0-bf19-e0902ab19a1c,2025-10-04,da Rocha - ME,Isaac Guerra,O prazer de avançar mais facilmente,Utensílios,22,127.55,0.18,Oeste,Telefone,2301.0
+36aaf925-f544-4bf3-80ea-846a39753077,2025-07-13,Jesus da Costa e Filhos,Ana Carolina Carvalho,A vantagem de mudar com força total,Utensílios,58,82.35,0.1,Leste,Representante,4298.67
+5dc89086-99ac-4439-a32a-e583658e7b34,2024-02-27,Farias Ltda.,Sabrina Sales,A vantagem de mudar naturalmente,Alimentação,42,322.76,0.13,Leste,Representante,11793.65
+ffc7b444-890a-4020-ba8d-7770cd317390,2023-10-16,Ferreira e Filhos,Luna Mendonça,A certeza de ganhar sem preocupação,Serviços,93,380.28,0.14,Oeste,Telefone,30414.79
+b384e9db-ccc7-441e-84b8-d2a4f5c36d19,2025-05-09,da Cunha - EI,Maria Flor da Cruz,A certeza de inovar naturalmente,Utensílios,64,431.23,0.16,Sul,Representante,23182.92
+8b258c57-b1a6-4d44-83c8-bf18cacbc54a,2024-03-10,Guerra,Mateus Vasconcelos,A vantagem de atingir seus objetivos mais rapidamente,Bebidas,42,350.54,0.0,Centro,Loja Física,14722.68
+d1d24c47-15a1-44f8-96a3-fa914aea313b,2024-03-25,Leão,Eduarda Peixoto,A liberdade de evoluir direto da fonte,Utensílios,4,371.41,0.04,Norte,Telefone,1426.21
+afd3d591-2c64-465f-9cd6-29e25083ebe4,2025-01-31,Machado,Paulo Freitas,O prazer de atingir seus objetivos direto da fonte,Serviços,47,189.99,0.02,Norte,Online,8750.94
+acc8c090-21af-49e8-83b8-36bf40d9e679,2025-03-27,Campos,Isabelly Fonseca,O conforto de atingir seus objetivos de maneira eficaz,Serviços,77,338.08,0.11,Oeste,Representante,23168.62
+3768cc2f-bbbd-40b2-b2be-eafdae159bbb,2025-08-12,Costela Monteiro S/A,Rebeca Lopes,A segurança de atingir seus objetivos de maneira eficaz,Bebidas,29,359.33,0.1,Leste,Telefone,9378.51
+9292d656-0478-4128-bd58-38b2b3625839,2025-04-16,Almeida,Lorenzo Viana,O conforto de evoluir de maneira eficaz,Utensílios,66,15.08,0.12,Centro,Representante,875.85
+30358e86-645d-4a09-8c9f-6f90bc8fc3ff,2024-09-19,Teixeira,Maria Cecília Casa Grande,A liberdade de ganhar com confiança,Bebidas,56,254.68,0.1,Norte,Representante,12835.87
+4b8adbdf-d6e4-4486-9edf-0f67be329f5d,2024-07-16,Alves,Dra. Maria Clara Gomes,O prazer de inovar direto da fonte,Alimentação,63,180.36,0.01,Norte,Loja Física,11249.05
+c0371de9-1646-4340-8330-3359f3197e1a,2024-11-05,Siqueira,Maria Alice Cavalcante,A vantagem de avançar sem preocupação,Bebidas,19,431.87,0.06,Centro,Telefone,7713.2
+5b7bd97a-a43c-4152-a98f-6fee098b9124,2025-07-14,Sá,Sra. Emanuelly Rocha,O prazer de realizar seus sonhos direto da fonte,Alimentação,79,136.64,0.01,Centro,Telefone,10686.61
+c6a33306-d202-4d2d-9797-c31d3bebc232,2025-05-08,Ribeiro S.A.,Bianca Sousa,A vantagem de mudar naturalmente,Bebidas,68,198.84,0.02,Norte,Representante,13250.7
+4c293008-9e71-4c54-8cee-e36e53a03c97,2025-08-28,Mendonça,Agatha Marques,O conforto de atingir seus objetivos naturalmente,Bebidas,24,214.34,0.06,Leste,Telefone,4835.51
+a5db8d0a-8e2b-4de5-a771-a5d527b7af6d,2024-08-27,Rezende Macedo S.A.,Gabriel Melo,A liberdade de mudar antes de tudo,Serviços,37,351.68,0.12,Oeste,Loja Física,11450.7
+abc5c618-29d3-43a6-982d-e4e0917f9753,2025-04-15,Azevedo,Isabella Fonseca,A segurança de inovar naturalmente,Bebidas,100,481.47,0.1,Leste,Telefone,43332.3
+48d9b79d-b1f7-4566-871a-22f683d7904c,2024-04-11,Souza,Lucas Gabriel Moraes,O direito de ganhar mais facilmente,Utensílios,26,218.05,0.16,Oeste,Representante,4762.21
+b0c261dc-6bcd-4922-a79b-64826d084394,2024-04-02,Almeida,Dr. Yuri Pastor,A liberdade de mudar com toda a tranquilidade,Alimentação,55,245.62,0.0,Sul,Online,13509.1
+9f79f293-c9cb-4666-b7c8-3b85aa55f9c7,2025-02-03,Freitas Gomes Ltda.,Emanuelly da Cunha,A possibilidade de mudar mais facilmente,Utensílios,2,25.98,0.09,Centro,Online,47.28
+b6c26bc3-0aab-48d3-ba67-79d6c876e2b3,2023-11-10,Casa Grande S.A.,Maria Cavalcanti,O poder de evoluir de maneira eficaz,Alimentação,100,393.65,0.12,Leste,Representante,34641.2
+a4f85f13-51a3-474f-822e-ae8f21f699d7,2024-09-30,da Conceição,Kamilly Souza,O direito de ganhar sem preocupação,Serviços,62,24.33,0.04,Oeste,Telefone,1448.12
+bd4ac412-32fd-4949-a75a-4d1297871c18,2023-10-28,Novais,Marina Cassiano,O conforto de avançar direto da fonte,Alimentação,59,50.35,0.07,Sul,Telefone,2762.7
+c4d872c3-c3a7-46d5-acc5-2b0cad573628,2025-02-11,Moreira Nascimento - ME,Luiz Henrique Peixoto,O direito de mudar com toda a tranquilidade,Serviços,59,166.15,0.04,Centro,Representante,9410.74
+a3ee71f7-34bb-4412-bdec-4380883ee3b1,2025-02-25,Mendes Viana S/A,Fernando Pastor,A simplicidade de ganhar com toda a tranquilidade,Utensílios,10,218.51,0.07,Centro,Loja Física,2032.14
+73b0a4d4-f1e9-4e26-b572-76d5f4d74f05,2024-11-30,Pereira S.A.,Dr. Nicolas Moraes,A simplicidade de realizar seus sonhos mais rapidamente,Serviços,20,253.58,0.11,Norte,Online,4513.72
+9dc8f451-b5d7-49da-bf6c-ee0e1ca1161e,2025-09-17,Araújo - ME,Thales Nogueira,O poder de evoluir direto da fonte,Utensílios,61,173.88,0.04,Sul,Telefone,10182.41
+acd68b5d-7129-4082-8fa6-bdb30bcac860,2024-06-06,Andrade,João Vitor da Costa,O conforto de realizar seus sonhos de maneira eficaz,Utensílios,69,413.81,0.04,Norte,Loja Física,27410.77
+0db1538d-0ab2-4bd5-89e2-4c730ddfa150,2023-12-30,Vasconcelos S.A.,Sr. João Miguel Machado,A segurança de conseguir de maneira eficaz,Serviços,35,30.8,0.03,Centro,Online,1045.66
+d5ed238f-9e10-420d-8265-fff845d5c13a,2025-04-08,da Costa,Lorenzo Rodrigues,A liberdade de realizar seus sonhos direto da fonte,Utensílios,10,437.66,0.02,Centro,Representante,4289.07
+b2984571-1627-4160-b873-55e4e4b98c71,2024-09-22,Leão S/A,Pedro Henrique Viana,A simplicidade de realizar seus sonhos com confiança,Serviços,73,424.27,0.1,Sul,Online,27874.54
+7a0b376d-f407-4737-9b3f-ade362ec0f73,2024-12-10,Campos Alves - EI,Olívia Sá,O direito de atingir seus objetivos com força total,Bebidas,93,271.32,0.13,Norte,Representante,21952.5
+039e36b6-b9d7-42f3-a19d-3526260102d8,2024-06-16,da Luz e Filhos,Augusto Guerra,A certeza de conseguir sem preocupação,Alimentação,43,334.44,0.18,Leste,Online,11792.35
+8037d294-3cd1-4bb3-9fab-b7415c8c288b,2023-10-10,Fonseca Ltda.,Ágatha Duarte,A arte de inovar sem preocupação,Bebidas,46,389.32,0.16,Leste,Online,15043.32
+27ad1d4f-4457-4df0-a8fb-6489325b9f26,2024-04-08,Cardoso S.A.,Brenda Rezende,A liberdade de evoluir em estado puro,Serviços,66,215.91,0.09,Leste,Representante,12967.55
+7b55f318-5cc5-4ad1-8cdd-bddebcb47a00,2025-04-22,Cavalcanti,Samuel Mendes,A possibilidade de atingir seus objetivos com toda a tranquilidade,Utensílios,91,297.07,0.04,Centro,Telefone,25952.04
+42f2f760-ccbe-404c-8e75-cb3150880811,2024-08-09,Costela,Brenda da Paz,A liberdade de realizar seus sonhos com confiança,Utensílios,80,190.46,0.15,Norte,Representante,12951.28
+c6f5809a-1054-49b6-96dd-6c1d13b2dca8,2025-08-16,Duarte Cirino S/A,Vitor Hugo Lopes,O direito de evoluir mais facilmente,Utensílios,26,135.09,0.02,Leste,Online,3442.09
+4a49d958-e736-4a05-80aa-28fd5f195e8b,2024-07-09,Barros,Sra. Maria Laura Dias,A possibilidade de ganhar antes de tudo,Alimentação,7,50.4,0.02,Leste,Loja Física,345.74
+24a0352d-4014-483a-b5ac-7b2bfbbe2b9d,2024-04-06,Campos,Daniela Oliveira,A possibilidade de ganhar antes de tudo,Alimentação,89,373.97,0.13,Leste,Representante,28956.5
+0475cc8d-5bf8-4b3d-9b77-8810c8c152f4,2024-02-20,Martins,Lorena da Mata,A liberdade de inovar simplesmente,Alimentação,40,66.8,0.18,Norte,Loja Física,2191.04
+f0016765-fdba-476c-8279-ad88a671cad1,2025-02-10,da Luz - ME,Stephany da Luz,A vantagem de ganhar naturalmente,Serviços,88,132.06,0.02,Oeste,Telefone,11388.85
+4d7c0b3e-7df2-426b-8be3-d0a63f128b2e,2024-10-18,Pimenta,Rafael Montenegro,A simplicidade de concretizar seus projetos simplesmente,Utensílios,84,444.18,0.11,Leste,Loja Física,33206.9
+2b13785d-0a39-46fe-9119-a43ca2f12ac8,2025-07-24,Oliveira,João Brito,A possibilidade de mudar direto da fonte,Bebidas,39,325.53,0.09,Norte,Telefone,11553.06
+3b9a16b7-0b42-4d63-8b52-7fb743239da3,2025-02-22,Gonçalves S/A,Theodoro Moura,O prazer de atingir seus objetivos com toda a tranquilidade,Utensílios,23,353.46,0.02,Sul,Online,7966.99
+9c05ad29-52b5-4227-b785-2b49bd9e8bc0,2024-03-10,Cardoso Vargas S/A,Léo Borges,A segurança de evoluir mais facilmente,Alimentação,10,104.34,0.1,Leste,Representante,939.06
+ec5e7768-c1c8-47b3-8ace-1acf6161b4f6,2023-11-25,Caldeira S.A.,Renan Araújo,A liberdade de inovar direto da fonte,Serviços,12,269.91,0.18,Leste,Representante,2655.91
+104c71b5-5844-4eaf-abd6-dfc3b25f5ab2,2025-02-04,Araújo S.A.,Heloísa Moraes,O poder de conseguir mais rapidamente,Alimentação,61,120.27,0.1,Sul,Representante,6602.82
+3a086f4e-dc39-40ce-8f00-2afdb79615d6,2025-08-26,Moraes Macedo S/A,Dr. Vinícius Fonseca,A certeza de conseguir direto da fonte,Alimentação,62,152.01,0.07,Leste,Telefone,8764.9
+d8ceb8ff-15ca-44dc-921c-55f29f5b6cff,2025-04-11,Pastor,Maya Ribeiro,O conforto de evoluir sem preocupação,Bebidas,24,196.98,0.17,Oeste,Online,3923.84
+b5d6108e-53db-4850-bbc4-0d772dd91ceb,2023-12-19,Barros S/A,Vinicius Garcia,O poder de realizar seus sonhos com toda a tranquilidade,Alimentação,99,493.76,0.08,Centro,Online,44971.66
+4cafb553-989e-472a-b8a1-becd4e1ca8f8,2025-06-21,Freitas S/A,Maria Alice Cunha,A simplicidade de ganhar simplesmente,Alimentação,64,381.4,0.11,Sul,Telefone,21724.54
+c18579ee-3c91-474e-90f3-4c4cc99b0a18,2024-12-16,Ribeiro,Sr. Pedro Henrique Souza,A simplicidade de mudar com toda a tranquilidade,Utensílios,90,97.32,0.15,Sul,Representante,7444.98
+7e3af4e8-c139-44dc-8099-aa504a4ad396,2025-09-03,Rios - EI,Breno Fonseca,O poder de concretizar seus projetos antes de tudo,Serviços,60,88.33,0.05,Leste,Loja Física,5034.81
+f5ac0860-97fb-4157-ae7b-49f8b2b0c066,2025-02-14,Rezende,Dra. Manuela Azevedo,A arte de avançar com toda a tranquilidade,Bebidas,16,192.09,0.1,Sul,Telefone,2766.1
+e4fa3f11-1ac9-4dce-a0ce-0b07e6527c3a,2025-03-05,Pacheco,Ravy Aragão,A simplicidade de mudar direto da fonte,Alimentação,13,287.01,0.03,Oeste,Telefone,3619.2
+7b0a1dc7-fa9e-4365-bcbb-151b8fe7a6b3,2024-10-06,da Cunha Freitas e Filhos,Sophia Viana,A arte de atingir seus objetivos com confiança,Utensílios,41,257.15,0.01,Sul,Representante,10437.72
+90b2ea59-4a81-4368-b917-1dd9e0ff517c,2024-08-11,Gomes Azevedo e Filhos,Oliver Aragão,A certeza de ganhar com força total,Utensílios,67,434.22,0.04,Centro,Loja Física,27929.03
+ec27e3b1-93ef-40ab-b582-98d642f25b9f,2024-04-02,Andrade Ltda.,Giovanna Montenegro,O conforto de concretizar seus projetos em estado puro,Bebidas,43,217.99,0.08,Leste,Online,8623.68
+865c44fe-5a85-4201-9f68-bcd45b8aea87,2025-09-03,Costa S/A,Luiz Otávio Monteiro,A arte de evoluir com confiança,Utensílios,38,105.55,0.02,Norte,Representante,3930.68
+8cad3016-fb83-493b-a052-888c5378d192,2024-09-25,Moraes,Lorenzo Caldeira,A certeza de evoluir com toda a tranquilidade,Serviços,49,88.45,0.05,Sul,Representante,4117.35
+afe11742-98d3-4855-8421-bc444bd950cf,2024-01-16,das Neves,Alexandre Albuquerque,A simplicidade de inovar de maneira eficaz,Utensílios,75,384.08,0.14,Centro,Representante,24773.16
+726add2c-dfca-4e3e-b14f-0bcf56759f61,2024-04-07,Abreu,Srta. Sofia Nogueira,A segurança de avançar em estado puro,Alimentação,79,322.25,0.17,Oeste,Representante,21129.93
+4781237d-5c71-4819-ae4d-fcf4a31df9f0,2024-05-25,Abreu Monteiro e Filhos,Joana Jesus,A certeza de evoluir antes de tudo,Alimentação,5,126.47,0.17,Leste,Online,524.85
+e5df7f5e-ec3e-4275-9624-5a1f9c36d0dd,2024-01-25,Garcia Ltda.,Sr. Oliver Cunha,O poder de evoluir mais facilmente,Serviços,48,327.24,0.09,Oeste,Online,14293.84
+50720d8b-cf02-4293-ae14-6262b52e4d0a,2024-09-13,Dias Costa S/A,Cauã Nogueira,A simplicidade de inovar com força total,Alimentação,22,370.32,0.03,Centro,Loja Física,7902.63
+4dfd4564-6b72-44fd-887a-abb64e965bf1,2024-01-22,Vasconcelos,Maysa Porto,A segurança de mudar em estado puro,Serviços,77,27.44,0.13,Oeste,Loja Física,1838.21
+2dbce00d-2d16-413e-b750-15f9a32c2fbf,2025-08-27,Azevedo,Gustavo Henrique Ramos,A liberdade de mudar com força total,Bebidas,73,24.88,0.03,Sul,Loja Física,1761.75
+4cea5237-7d75-4c11-b6fe-893b50505bbd,2025-01-06,Dias Vargas e Filhos,Dr. Gustavo Cirino,A liberdade de realizar seus sonhos de maneira eficaz,Alimentação,13,313.6,0.15,Leste,Loja Física,3465.28
+6dd4ca45-446d-403e-82e4-730880d8f9ee,2024-09-27,Andrade,Arthur Garcia,O direito de realizar seus sonhos mais facilmente,Alimentação,96,123.81,0.03,Norte,Online,11529.19
+a33b66cf-8a0b-40ab-a57c-6e867101255d,2024-02-09,Silveira Fogaça - ME,Allana Mendonça,O prazer de ganhar simplesmente,Serviços,50,498.39,0.05,Oeste,Telefone,23673.53
+538112a0-9f66-4b9a-a76a-44749ede61dc,2025-07-22,Oliveira Camargo e Filhos,Dr. Rhavi Azevedo,A segurança de atingir seus objetivos com confiança,Bebidas,15,205.87,0.2,Leste,Online,2470.44
+c52a48f4-4a51-4965-b7ef-b0c13e9eaaf0,2024-12-02,Correia - EI,Srta. Sarah Cassiano,O direito de mudar antes de tudo,Bebidas,90,188.97,0.1,Oeste,Telefone,15306.57
+fe3a5f4f-9f71-4dad-acca-b0a05c957911,2025-06-29,Ribeiro,Dr. Leonardo Fonseca,A vantagem de conseguir com força total,Alimentação,15,30.13,0.2,Norte,Representante,361.56
+7e34e980-2273-49f0-a9af-be113f97a2c4,2025-02-10,Duarte,Srta. Melina Monteiro,A possibilidade de inovar simplesmente,Serviços,3,301.5,0.19,Leste,Loja Física,732.64
+76a37d83-0373-4027-9037-ca5338613408,2024-11-05,Sales,Anthony Gabriel Oliveira,A liberdade de evoluir antes de tudo,Utensílios,76,99.22,0.1,Oeste,Telefone,6786.65
+9b17a8dd-ef93-45c9-97fb-a52970128d54,2024-07-31,Vargas,Maria Luiza Vargas,A arte de conseguir mais facilmente,Utensílios,50,318.69,0.17,Norte,Online,13225.64
+5e5bb75a-226c-4370-bfbf-530c1852c9d1,2024-09-02,Sá e Filhos,Clara da Cunha,A certeza de realizar seus sonhos de maneira eficaz,Serviços,22,183.92,0.04,Oeste,Online,3884.39
+7f1e66c4-1458-430f-bc94-095e8fd816e9,2025-02-01,Leão Albuquerque S.A.,Paulo Garcia,A segurança de concretizar seus projetos com força total,Serviços,20,477.56,0.03,Oeste,Representante,9264.66
+e17283ec-3392-423b-bfb5-6587aad04fe1,2025-04-17,Freitas,Rodrigo da Rosa,O conforto de ganhar antes de tudo,Alimentação,45,419.95,0.02,Norte,Loja Física,18519.79
+c9c2d8d4-d5f4-4cfb-ad95-a49a2f18be3f,2024-09-14,Costa Santos - ME,Daniel Santos,A arte de conseguir em estado puro,Bebidas,52,455.95,0.14,Oeste,Loja Física,20390.08
+5f089dc3-2fa4-4a0a-b1e9-c6ea250549ad,2024-10-30,Pimenta,Mirella Souza,A arte de ganhar direto da fonte,Serviços,17,350.4,0.07,Oeste,Loja Física,5539.82
+b97b8b63-8303-49f7-b94a-e3b1ce299e47,2024-12-14,Souza - EI,Evelyn Lopes,A possibilidade de atingir seus objetivos sem preocupação,Serviços,45,416.53,0.13,Centro,Loja Física,16307.15
+4c51e207-ee53-4ee8-acbe-1571cd296983,2025-08-31,Sousa - ME,Mariane Sales,O direito de mudar mais rapidamente,Utensílios,55,101.88,0.01,Sul,Representante,5547.37
+3c3f5918-0404-4b12-8966-507be87b0339,2024-10-21,Guerra Fernandes e Filhos,Giovanna Gonçalves,A segurança de realizar seus sonhos com toda a tranquilidade,Alimentação,23,33.72,0.19,Oeste,Representante,628.2
+7fde4406-5110-4d61-bdc1-4ceadae0f8bb,2024-05-31,Cunha Garcia e Filhos,Maria Laura Aragão,O direito de avançar com força total,Serviços,83,212.66,0.14,Leste,Online,15179.67
+17899c66-b9d7-4a4a-87ce-e0902a0bb14b,2024-04-20,Leão,Ryan Pacheco,A segurança de atingir seus objetivos com toda a tranquilidade,Alimentação,53,308.68,0.12,Oeste,Loja Física,14396.84
+b6193a18-5aac-4c54-a173-a36732d4a21b,2025-07-10,Camargo,Maria Laura Fernandes,O poder de concretizar seus projetos em estado puro,Alimentação,57,204.16,0.0,Norte,Telefone,11637.12
+6e68d013-5c5d-4be6-a235-3dc56835fa92,2024-01-20,Abreu,Maria Luísa Aparecida,A segurança de inovar antes de tudo,Alimentação,35,401.64,0.12,Leste,Representante,12370.51
+50b7e2e2-fcbd-4fbf-8c6b-0d1f87283b33,2024-11-15,da Luz,Sara Oliveira,A liberdade de inovar sem preocupação,Utensílios,95,45.06,0.19,Sul,Telefone,3467.37
+67ed1a2b-7013-4e38-9656-7b077361b63a,2024-05-30,da Mota - EI,Otávio Costa,O poder de atingir seus objetivos com confiança,Serviços,64,331.73,0.18,Leste,Loja Física,17409.19
+9b1e52c1-b95e-45c6-ace9-7c51a1d2a75d,2025-09-09,Machado,Sabrina Pereira,O prazer de atingir seus objetivos em estado puro,Bebidas,53,183.75,0.01,Sul,Representante,9641.36
+96661aa5-0aab-4757-b397-3cdcf47c26bf,2024-11-14,Macedo,Igor Nunes,O poder de atingir seus objetivos naturalmente,Serviços,24,101.03,0.06,Norte,Loja Física,2279.24
+82915000-3a7a-4c0b-a9c5-f6cc6bd5fcba,2025-01-03,Ribeiro,Francisco Azevedo,A liberdade de evoluir com força total,Serviços,49,192.83,0.19,Sul,Telefone,7653.42
+006cae34-bcd0-41d4-aee1-5977fa11e3f0,2024-07-13,Novaes - EI,Srta. Manuela Siqueira,O direito de inovar sem preocupação,Alimentação,29,453.68,0.07,Sul,Online,12235.75
+f683ce11-57b6-4d09-a61a-7d742b31e1ac,2024-03-23,Cassiano,Valentim Farias,A liberdade de atingir seus objetivos direto da fonte,Serviços,54,475.86,0.04,Oeste,Loja Física,24668.58
+2abbc181-a79c-4fdd-9a72-45dd6f8fd7fd,2023-11-30,Pereira Leão Ltda.,Raul Cavalcante,A simplicidade de avançar naturalmente,Serviços,47,322.01,0.15,Sul,Loja Física,12864.3
+99bc5d27-e55d-4b91-9d72-9894e778d21a,2024-11-23,Sampaio,Leonardo Barbosa,A liberdade de realizar seus sonhos de maneira eficaz,Serviços,25,88.75,0.09,Norte,Online,2019.06
+cbb0aaf6-d5a5-4974-9ebf-6b3ce73859f8,2025-09-25,Aragão Sousa S/A,Vitor Hugo Albuquerque,A possibilidade de ganhar mais facilmente,Bebidas,27,495.67,0.09,Norte,Loja Física,12178.61
+3ea283aa-5b10-43b0-a5ae-aedbc29e1896,2024-02-28,Cassiano,Sra. Caroline Aparecida,A segurança de mudar de maneira eficaz,Alimentação,17,493.44,0.07,Sul,Loja Física,7801.29
+6c462078-0e4d-4927-9329-51bf247d187f,2024-05-19,Leão,Danilo Barbosa,A segurança de concretizar seus projetos direto da fonte,Bebidas,38,51.48,0.11,Leste,Loja Física,1741.05
+ca648c14-54f1-47f6-84f1-c41da8c072de,2025-04-10,Correia,Mariane Pereira,A arte de avançar mais rapidamente,Bebidas,50,163.67,0.14,Oeste,Online,7037.81
+87828cd1-b713-4213-8161-93b0c6f76439,2023-11-28,Novais,Pietra Lima,A possibilidade de avançar com toda a tranquilidade,Bebidas,53,52.99,0.18,Centro,Online,2302.95
+359e81be-b5ee-49a9-9629-ae5d7a5dcaea,2024-09-28,da Conceição Duarte S/A,Caio Melo,A arte de atingir seus objetivos naturalmente,Utensílios,97,447.27,0.18,Sul,Telefone,35575.86
+2aad95ee-9a2b-4313-9e3b-20715f42c29b,2024-05-03,Santos Ltda.,Dr. Luiz Fernando Silva,A possibilidade de mudar simplesmente,Utensílios,21,429.16,0.14,Centro,Telefone,7750.63
+b6c77685-3a45-468a-a10e-8dc20a2e21e2,2023-11-06,Carvalho,Mariana Cunha,O poder de conseguir com confiança,Serviços,14,130.35,0.04,Centro,Loja Física,1751.9
+d000edce-f021-4500-820a-5b08d00f6d90,2025-05-03,Teixeira,Gael da Paz,O conforto de ganhar simplesmente,Utensílios,64,303.79,0.09,Centro,Online,17692.73
+b4d5dfd8-8646-4736-931e-7788da4f4b8e,2024-01-25,Mendes - ME,Rebeca Pimenta,O prazer de avançar de maneira eficaz,Utensílios,35,380.7,0.04,Centro,Loja Física,12791.52
+070d1902-9aa6-4af7-93a8-a0e8a029396a,2025-02-10,Rocha - ME,Maitê Dias,O conforto de realizar seus sonhos mais rapidamente,Serviços,97,129.14,0.07,Centro,Representante,11649.72
+f8d38398-bc74-4b5e-b016-49a6267abc9d,2024-10-04,Pereira S.A.,Helena Lopes,O direito de inovar de maneira eficaz,Serviços,91,332.97,0.11,Leste,Representante,26967.24
+b9230eed-a110-4bfc-bf1d-edee0c796788,2024-08-26,da Cunha,João Lucas Casa Grande,O direito de avançar em estado puro,Alimentação,98,234.75,0.1,Oeste,Telefone,20704.95
+2c41aef6-fb86-432d-9c2f-b23caa4ba1ae,2024-10-16,Gomes,Luan Casa Grande,A possibilidade de inovar com força total,Utensílios,27,54.44,0.1,Oeste,Loja Física,1322.89
+98ce31c2-4e7f-4991-bd0c-d6c15572a7bc,2025-01-02,Rios - ME,Caroline Dias,O prazer de inovar direto da fonte,Alimentação,91,489.51,0.14,Sul,Online,38309.05
+a12d9bcb-05bf-41b6-ada4-e555212da6b3,2025-02-09,Silva S/A,Eduardo Silva,A arte de evoluir direto da fonte,Serviços,26,269.48,0.13,Oeste,Telefone,6095.64
+ffa2d81a-39e9-43fd-9228-f40b82138f3f,2025-05-12,Porto Marques - ME,Bernardo da Costa,O prazer de ganhar mais rapidamente,Utensílios,28,407.78,0.19,Norte,Representante,9248.45
+024cfb04-27dd-4a06-8c5a-c516a682dd83,2024-08-26,Sampaio,Isabela Ribeiro,A vantagem de realizar seus sonhos sem preocupação,Bebidas,47,28.0,0.09,Oeste,Representante,1197.56
+512b5b90-b924-4761-a476-77de447a7b65,2024-10-22,Castro,Benjamim Pires,A certeza de inovar simplesmente,Utensílios,19,214.27,0.1,Norte,Telefone,3664.02
+b42df638-feb1-46c2-9c0e-c09c2d5ddb78,2025-04-02,Guerra Aparecida - ME,Fernanda da Cunha,O poder de conseguir em estado puro,Alimentação,86,349.3,0.12,Norte,Telefone,26435.02
+abc0daa8-7c81-494f-9d68-5bfd23fab1d1,2024-02-20,Pereira,Hellena Novais,A arte de atingir seus objetivos com força total,Serviços,39,343.89,0.08,Sul,Online,12338.77
+b58823cf-331a-4fb9-bb9a-ccaa871e26a6,2024-09-16,Sousa,Noah Vieira,O prazer de ganhar de maneira eficaz,Serviços,76,99.73,0.09,Centro,Telefone,6897.33
+48abb30c-371e-4f61-8280-cad49cf4dd75,2024-10-22,Mendonça,Davi Miguel da Luz,A simplicidade de inovar antes de tudo,Bebidas,16,291.84,0.03,Centro,Representante,4529.36
+9362982b-b16a-4830-abeb-21f364c23de7,2025-06-11,Montenegro Borges e Filhos,Leonardo Moreira,A segurança de evoluir de maneira eficaz,Utensílios,99,53.45,0.11,Norte,Telefone,4709.48
+01743a9a-d560-4ebe-940f-8bbee61720a4,2024-09-01,Alves Fernandes S.A.,Ester Pastor,A possibilidade de realizar seus sonhos simplesmente,Alimentação,63,278.55,0.08,Norte,Representante,16144.76
+6ae597bf-e2ce-4c11-b3f1-b689ae03c83d,2024-10-24,Ramos Nascimento S/A,Antônio Duarte,A arte de mudar com confiança,Alimentação,77,83.73,0.0,Leste,Online,6447.21
+49016c97-39a5-4ab5-ba1b-0072ed311f6f,2025-06-30,da Mata Carvalho - EI,Thiago Moraes,O prazer de inovar direto da fonte,Alimentação,74,33.62,0.12,Leste,Loja Física,2189.33
+340bf66c-2507-4c41-add2-b2fa59beabff,2024-12-20,Campos,Juan Leão,O conforto de conseguir de maneira eficaz,Serviços,17,141.49,0.05,Leste,Telefone,2285.06
+2288a20f-a01b-4fc6-9877-36da9484e567,2025-05-24,Almeida e Filhos,Marina Leão,A segurança de atingir seus objetivos antes de tudo,Serviços,44,58.38,0.16,Norte,Representante,2157.72
+50c15da6-2812-4c18-b853-a9b708dbd7fe,2024-11-28,Jesus S/A,Maria Alice Montenegro,O direito de evoluir com confiança,Serviços,94,282.66,0.19,Sul,Loja Física,21521.73
+a533ccb7-df09-4881-a6b9-2ae377257adb,2025-09-19,Araújo,Lavínia Cirino,O prazer de atingir seus objetivos mais rapidamente,Utensílios,27,117.58,0.17,Leste,Loja Física,2634.97
+a82fe2cb-a068-4757-ad56-76cd417607e9,2025-06-27,Câmara,Cauã Porto,A liberdade de inovar sem preocupação,Alimentação,37,407.17,0.09,Centro,Telefone,13709.41
+e75cdb6f-efa5-439c-879d-8d334e8d8605,2023-10-10,Moreira Aparecida Ltda.,Eloá Farias,A arte de atingir seus objetivos simplesmente,Bebidas,93,412.35,0.09,Norte,Online,34897.18
+09424b9c-18e0-48f1-9b6b-256c58248087,2024-07-20,da Luz Ltda.,Luana Rodrigues,A possibilidade de inovar naturalmente,Utensílios,97,109.87,0.04,Centro,Telefone,10231.09
+0127a3bf-267b-4a26-b12f-08e3ee95be39,2025-06-30,Vargas,Rafaela Silva,O direito de mudar sem preocupação,Alimentação,95,228.78,0.1,Leste,Online,19560.69
+0d4cc676-a4d6-4120-982a-f0ae7469cddf,2025-08-03,Silva S.A.,Caio Caldeira,O prazer de concretizar seus projetos simplesmente,Utensílios,79,239.35,0.1,Norte,Online,17017.78
+2caf1e43-954a-4a5b-a4c6-a46d0c3fe11a,2024-06-15,da Rosa,Eloah Macedo,A arte de avançar de maneira eficaz,Bebidas,26,100.47,0.15,Norte,Telefone,2220.39
+dae4b473-f3a0-489a-965d-187dd6c47cba,2024-03-02,Silva,Natália Gonçalves,A simplicidade de mudar com confiança,Alimentação,47,420.37,0.03,Centro,Online,19164.67
+db902ed6-5884-4ecb-a7dd-cfa08bbbab6f,2024-07-14,Ramos,Lunna Cirino,A simplicidade de concretizar seus projetos mais rapidamente,Utensílios,30,369.14,0.19,Leste,Loja Física,8970.1
+5e2985dc-5e28-4e39-86c1-c8dd8e3db99e,2025-08-10,Freitas,Isabelly Castro,A liberdade de evoluir com toda a tranquilidade,Alimentação,41,280.45,0.09,Leste,Telefone,10463.59
+3185f8ae-1aac-452c-8107-4fdd537d6e0a,2023-10-31,Cirino,Fernanda Fonseca,A vantagem de evoluir direto da fonte,Utensílios,89,431.5,0.01,Leste,Online,38019.46
+34b48bc3-654a-4e78-bc06-75ecc4806f0f,2025-01-26,Pastor,Beatriz Andrade,A possibilidade de concretizar seus projetos de maneira eficaz,Serviços,58,183.6,0.0,Oeste,Online,10648.8
+1f4b7352-cbe5-4631-b743-784e9767bfb9,2025-07-01,Aparecida,Ravi Lucca Siqueira,A simplicidade de atingir seus objetivos com confiança,Serviços,15,24.05,0.08,Sul,Loja Física,331.89
+a5fffbcb-1077-4dbe-ab88-1201282be121,2024-12-29,Caldeira - ME,Raul Monteiro,O prazer de concretizar seus projetos de maneira eficaz,Utensílios,85,117.36,0.14,Oeste,Loja Física,8579.02
+a5009856-e2c0-4ad7-95dd-000578ad8072,2024-06-12,da Cruz Ltda.,Daniel Silva,A possibilidade de concretizar seus projetos com força total,Utensílios,54,117.91,0.01,Norte,Representante,6303.47
+8289c87f-00d2-40dd-8d97-aa9b08cde615,2025-07-10,Nascimento Pimenta Ltda.,Anthony Pacheco,A liberdade de atingir seus objetivos mais facilmente,Bebidas,97,244.98,0.1,Centro,Telefone,21386.75
+8cd9549a-2825-44f4-869a-d476133382f3,2024-08-23,Monteiro da Luz S.A.,Pedro Miguel Souza,A segurança de mudar com força total,Utensílios,16,167.32,0.11,Oeste,Loja Física,2382.64
+444b2b1b-60e4-4e4e-962b-ce59d7b89fa5,2024-01-03,Caldeira Vasconcelos S/A,Gabriel Camargo,A arte de inovar de maneira eficaz,Utensílios,68,44.8,0.19,Sul,Online,2467.58
+843b4a9b-8680-4953-81cc-fa3517596f59,2024-08-08,Carvalho Monteiro Ltda.,Otávio Albuquerque,A vantagem de mudar sem preocupação,Alimentação,88,432.7,0.15,Centro,Representante,32365.96
+2f86cc06-64c7-4168-8fc5-a35f914b55ed,2025-08-09,Garcia Camargo S/A,Cecilia Vargas,A possibilidade de ganhar naturalmente,Serviços,94,89.72,0.06,Leste,Representante,7927.66
+3c1a6197-9514-4c50-9a96-93c34b3273ec,2024-04-10,Cavalcante Cunha - ME,Sr. Diego Cardoso,A vantagem de avançar com força total,Bebidas,75,386.23,0.0,Oeste,Telefone,28967.25
+90ab464b-6284-48a7-8029-2fb5474f6814,2024-07-19,Dias,Lavínia Nascimento,O prazer de concretizar seus projetos em estado puro,Utensílios,79,273.13,0.13,Centro,Telefone,18772.22
+892a296f-bbd8-4032-a2ec-b3e80c2af1f0,2024-12-18,Monteiro,Juliana Moreira,A arte de inovar direto da fonte,Alimentação,96,53.91,0.17,Centro,Representante,4295.55
+9bfebe0a-4f90-4d89-9242-ea1d4551d7b5,2025-05-02,da Rocha,Maria Eduarda Dias,A segurança de concretizar seus projetos mais facilmente,Serviços,34,175.36,0.08,Norte,Online,5485.26
+620eea75-5ca3-467f-a654-90073f84089e,2024-02-14,Ferreira,Sra. Nina Nogueira,O direito de concretizar seus projetos naturalmente,Alimentação,29,422.71,0.02,Sul,Loja Física,12013.42
+437e33f7-7392-4974-b904-da250d7472e8,2024-12-16,Silveira,Sophia Pastor,A vantagem de avançar naturalmente,Alimentação,84,494.21,0.05,Oeste,Representante,39437.96
+2d7cdbbe-db99-4ca9-9922-8454794ae721,2025-06-21,Freitas S.A.,Hadassa das Neves,O conforto de inovar antes de tudo,Bebidas,79,82.0,0.08,Sul,Loja Física,5959.76
+3e2b1a31-8e86-4b95-9e8c-c5e7ae35f326,2024-07-21,da Cruz e Filhos,Lunna Sá,A vantagem de avançar de maneira eficaz,Alimentação,89,317.55,0.1,Norte,Telefone,25435.76
+fa543a94-c9f2-4dd5-b433-02dae74381b1,2024-08-24,Carvalho,Ana Vitória Fonseca,O prazer de realizar seus sonhos mais rapidamente,Serviços,16,476.49,0.02,Sul,Representante,7471.36
+15b38c3c-218f-4d43-9b99-c6ae2357cba6,2024-01-23,Siqueira S.A.,Ana Sophia Martins,O conforto de avançar em estado puro,Alimentação,6,312.17,0.05,Leste,Representante,1779.37
+055f1d0c-9a49-4832-bb35-392ae7f79ee4,2024-10-14,Monteiro Ferreira S.A.,Marcelo da Mata,A simplicidade de atingir seus objetivos sem preocupação,Utensílios,86,126.07,0.11,Norte,Online,9649.4
+ec35386f-2002-4e67-bff9-f8920d0cbb30,2025-05-25,Fernandes,Mariah Correia,A segurança de avançar mais facilmente,Alimentação,22,369.92,0.07,Norte,Telefone,7568.56
+6639ebba-a049-4f35-add5-2ef67ca7120d,2024-12-13,Freitas,Ana Luiza Pires,O poder de mudar em estado puro,Bebidas,29,17.87,0.02,Centro,Online,507.87
+be52fa71-1c72-412c-8eeb-56f8f1a9e92b,2024-11-09,Pires,Maria Helena Monteiro,A liberdade de realizar seus sonhos em estado puro,Serviços,54,313.91,0.08,Norte,Online,15595.05
+3a2a4d30-ef7b-42bf-a277-8bb19fc9185f,2025-06-25,Nascimento,Dra. Isabelly Pastor,O poder de realizar seus sonhos direto da fonte,Utensílios,40,120.62,0.18,Norte,Online,3956.34
+b4eaaee8-50ab-4372-a4cc-d99a98f49f25,2025-09-25,da Luz e Filhos,Dra. Sara Carvalho,A simplicidade de mudar simplesmente,Serviços,76,464.54,0.02,Centro,Loja Física,34598.94
+9b0b89b7-4d4b-4091-b344-248da75ced59,2024-10-06,Azevedo,Davi Lucca Machado,A liberdade de inovar em estado puro,Alimentação,100,319.83,0.09,Leste,Online,29104.53
+c11b8cee-cf92-47e0-8c0f-2e0d88be7b02,2024-07-30,da Luz,Dr. Thomas Moraes,A segurança de atingir seus objetivos com toda a tranquilidade,Bebidas,66,450.86,0.07,Sul,Online,27673.79
+28e1f498-c01a-44af-9c44-f1a61069335f,2024-04-17,Moreira,Mateus Duarte,A arte de realizar seus sonhos sem preocupação,Bebidas,21,209.56,0.1,Norte,Telefone,3960.68
+e9b3da9d-ee45-4f84-b11c-b5c261bcf9ef,2025-09-24,Ferreira,Theodoro Marques,O conforto de mudar naturalmente,Bebidas,28,360.37,0.16,Oeste,Telefone,8475.9
+0d2292fa-3fed-4371-98e4-df4ebe0512b2,2024-06-27,Fonseca,Vinícius Farias,A vantagem de conseguir mais facilmente,Utensílios,40,261.17,0.06,Oeste,Representante,9819.99
+e5936651-f6dd-4341-9183-21873b34935e,2025-09-03,Peixoto,Eloá Peixoto,O prazer de conseguir com força total,Utensílios,69,143.4,0.19,Sul,Loja Física,8014.63
+b0b8fd94-8bd4-4512-9343-677e2b83b07f,2024-02-05,Silveira,Milena Duarte,O direito de ganhar mais rapidamente,Utensílios,48,210.66,0.05,Leste,Telefone,9606.1
+a0d8bad6-5fe5-47b5-ac6f-72e11c3e958f,2024-12-11,Santos S/A,Maria Sophia Costela,A liberdade de atingir seus objetivos com força total,Serviços,94,319.85,0.16,Norte,Loja Física,25255.36
+5d422264-4a47-4fa9-9dc2-1b954f7d9cff,2025-04-15,Silveira Nunes S.A.,Davi Lucca Sales,O direito de mudar naturalmente,Utensílios,21,285.0,0.08,Sul,Loja Física,5506.2
+c1e0c51b-d109-40b1-9d73-7387db735949,2024-08-15,Marques,Helena Oliveira,A liberdade de evoluir sem preocupação,Utensílios,17,119.16,0.05,Leste,Loja Física,1924.43
+71b55542-1de1-40d0-993c-dac94fda3d8d,2024-10-26,Siqueira S.A.,Dra. Aurora Pinto,A simplicidade de realizar seus sonhos de maneira eficaz,Bebidas,36,368.26,0.03,Sul,Online,12859.64
+90ee062e-4b26-457c-a1f5-6258dbd87f20,2024-02-27,Pimenta,Fernando Câmara,O prazer de mudar com confiança,Alimentação,50,393.69,0.12,Oeste,Online,17322.36
+0c965d35-777f-4015-85a8-e1734cffd179,2024-06-30,Mendonça S/A,Dr. João Miguel Fogaça,A possibilidade de realizar seus sonhos simplesmente,Bebidas,99,462.94,0.03,Norte,Telefone,44456.13
+dde03039-b02c-4e58-93c6-7495a1a16083,2025-07-16,Gonçalves,Luiz Miguel Santos,O conforto de mudar com confiança,Bebidas,35,355.19,0.16,Sul,Online,10442.59
+23076972-8264-4c39-bbe1-dd023de91d35,2024-08-08,Dias,Heloisa Campos,O poder de atingir seus objetivos sem preocupação,Alimentação,53,415.45,0.07,Norte,Loja Física,20477.53
+0b73d092-e2be-4008-93ce-6b7ff88f8ca7,2025-07-13,Oliveira Campos e Filhos,Srta. Maria Fernanda da Paz,O direito de evoluir de maneira eficaz,Alimentação,42,88.33,0.12,Oeste,Representante,3264.68
+47f02bac-f9c5-4f21-98d0-884ca4602ea6,2025-08-23,Araújo - EI,Lunna da Costa,O poder de evoluir direto da fonte,Serviços,80,491.01,0.07,Leste,Online,36531.14
+a25f2d3a-1f1f-4caf-a493-e324e742139b,2024-12-12,Almeida,Vitor da Mata,A arte de atingir seus objetivos naturalmente,Bebidas,70,479.48,0.1,Sul,Online,30207.24
+75d3626d-6aca-482e-ae79-67d87c570d63,2024-01-13,Aragão,Théo Farias,A liberdade de conseguir sem preocupação,Alimentação,31,232.68,0.16,Leste,Telefone,6058.99
+42379a1d-22a5-489a-bb3d-a67d812cb9b1,2024-01-10,Marques e Filhos,Luiz Henrique da Rosa,O direito de ganhar mais rapidamente,Bebidas,59,490.19,0.05,Centro,Telefone,27475.15
+edbce021-e278-4a7d-8d52-a20d295d0b87,2023-12-07,Duarte Ltda.,Théo Porto,A arte de evoluir mais facilmente,Alimentação,68,195.76,0.11,Centro,Telefone,11847.4
+b5209f5b-d674-4a04-b31d-650fdb54c394,2025-04-08,Alves Ltda.,Dra. Pietra Sales,A vantagem de avançar antes de tudo,Alimentação,3,253.69,0.12,Centro,Online,669.74
+eeea481d-b22b-4f80-b724-bdc41933a084,2024-01-22,Montenegro,Maria Helena Borges,O conforto de mudar direto da fonte,Bebidas,83,163.28,0.13,Leste,Online,11790.45
+b751fb26-6a12-413f-8629-ae9fbec3cca7,2023-10-23,Rezende,Isis Nogueira,O prazer de atingir seus objetivos de maneira eficaz,Bebidas,4,154.76,0.01,Centro,Online,612.85
+c343e528-5b34-4a7d-9992-677f3c298ea6,2024-12-19,da Cruz S/A,Isaac da Paz,A possibilidade de atingir seus objetivos de maneira eficaz,Alimentação,66,92.42,0.01,Centro,Representante,6038.72
+1e0efaa9-6ca8-4840-a600-3627494205da,2024-04-11,da Rosa,Caio Pinto,O poder de conseguir mais facilmente,Serviços,17,324.54,0.15,Sul,Representante,4689.6
+aa832ab2-1176-4955-9714-bd98aacfbfef,2023-12-01,Cardoso S/A,Luiz Henrique Sales,A vantagem de atingir seus objetivos com força total,Alimentação,65,59.13,0.07,Oeste,Loja Física,3574.41
+5b3c5229-a697-43fd-bf06-ba70593e524c,2023-11-24,Cunha - EI,Liam da Rocha,A vantagem de avançar mais rapidamente,Serviços,91,140.4,0.09,Oeste,Loja Física,11626.52
+1632ed4a-34fc-4681-8577-087c41004ae9,2024-06-21,Nogueira da Rosa e Filhos,Dr. Yan Pimenta,A possibilidade de atingir seus objetivos simplesmente,Alimentação,29,362.23,0.08,Sul,Loja Física,9664.3
+cb1bd9db-7e64-4883-99df-eb2129adb45c,2023-12-11,Pastor,Lucas Gabriel Rocha,O poder de evoluir com toda a tranquilidade,Alimentação,7,244.27,0.17,Oeste,Online,1419.21
+6705cd9e-f892-452a-b2d2-a1c784d99a8a,2025-07-15,Sales,Isabela Aragão,O prazer de avançar em estado puro,Bebidas,15,58.14,0.1,Oeste,Representante,784.89
+a961a9ef-8091-45c3-ba33-feed8ed93e38,2025-05-20,Dias,Ana Oliveira,O conforto de mudar sem preocupação,Alimentação,40,380.46,0.1,Leste,Loja Física,13696.56
+95fbba69-9445-4a93-acec-3bed5efa87ac,2024-08-13,Teixeira,Dr. Gabriel das Neves,O conforto de mudar sem preocupação,Bebidas,71,354.92,0.09,Leste,Loja Física,22931.38
+79acf6d8-fd70-4d18-a725-d7121912c458,2024-04-06,Mendes Peixoto Ltda.,Clarice Novais,A certeza de atingir seus objetivos com confiança,Alimentação,59,11.68,0.18,Leste,Telefone,565.08
+761eafb4-dc4c-47ac-bf2a-daa49d96b130,2024-03-25,Montenegro,Dra. Beatriz da Mota,A arte de mudar de maneira eficaz,Utensílios,58,250.78,0.13,Oeste,Online,12654.36
+dd60737d-b35c-4efd-ae43-4d6983adfa5e,2025-02-19,Mendes,Giovanna Sampaio,O conforto de realizar seus sonhos com força total,Alimentação,7,33.03,0.19,Oeste,Loja Física,187.28
+1f7b2676-9850-4711-b5aa-4d9670720ce7,2024-09-16,Fonseca da Cruz S.A.,Daniela Garcia,A liberdade de conseguir naturalmente,Alimentação,43,178.82,0.06,Oeste,Representante,7227.9
+8baba551-6510-4935-a921-42bd4f4f5b0f,2023-10-29,Carvalho,Ana Beatriz Fogaça,A segurança de inovar mais facilmente,Alimentação,16,424.65,0.02,Norte,Representante,6658.51
+3ccb83f8-90e2-4f4d-a24d-293d51f5abb4,2024-10-12,Monteiro,Nathan Ribeiro,A vantagem de conseguir em estado puro,Bebidas,50,309.03,0.02,Sul,Loja Física,15142.47
+67584801-94da-432c-b612-87f48614ff9e,2023-12-30,Aragão,Maria Fernanda Guerra,O prazer de conseguir com força total,Utensílios,46,68.91,0.17,Leste,Representante,2630.98
+d347829a-378a-4c9b-b3b5-4b315a21bdfe,2025-06-01,Abreu,Srta. Rafaela Lima,A simplicidade de concretizar seus projetos mais facilmente,Serviços,4,85.3,0.11,Norte,Online,303.67
+4f12344e-8a93-421d-b09f-746760031453,2025-04-17,da Rosa,Dra. Juliana Nunes,A vantagem de inovar direto da fonte,Alimentação,74,41.57,0.18,Oeste,Telefone,2522.47
+aa150b66-454b-44a7-91e6-130367222ecc,2024-06-12,Cunha,Emilly Teixeira,A liberdade de concretizar seus projetos mais rapidamente,Alimentação,44,454.64,0.11,Norte,Telefone,17803.7
+f9c093a3-c3d3-4872-ab95-f69ed3a015ad,2024-12-05,da Costa,Raquel Nascimento,A simplicidade de avançar mais rapidamente,Serviços,81,267.6,0.06,Sul,Telefone,20375.06
+f5ccd587-1ad7-4272-b086-92ad743c318a,2025-09-22,Duarte,João Vitor da Mata,A vantagem de conseguir antes de tudo,Serviços,83,444.13,0.14,Norte,Loja Física,31702.0
+fc03c7e3-35b7-4c07-b4d0-a8b4fb6aee2d,2024-07-06,Costa,Pedro Lucas da Costa,O poder de realizar seus sonhos com toda a tranquilidade,Utensílios,100,35.11,0.19,Leste,Loja Física,2843.91
+c95aa165-a34c-4185-9b4f-e63372b51770,2024-08-04,Ferreira Moura e Filhos,Gael Vieira,A segurança de realizar seus sonhos naturalmente,Serviços,19,411.75,0.11,Leste,Representante,6962.69
+3fafeccb-230a-452d-9868-c28ae8518f01,2025-09-23,Rezende Viana e Filhos,Olívia Ribeiro,O direito de conseguir com força total,Utensílios,22,186.76,0.03,Norte,Online,3985.46
+153cfbfa-742c-4c92-bac5-c715a2989afa,2024-09-24,Jesus - ME,Sr. Luan Moreira,A segurança de conseguir com toda a tranquilidade,Bebidas,91,285.52,0.19,Norte,Loja Física,21045.68
+aed84fb8-f5b7-491a-a96c-2184e2222fb6,2025-07-14,Monteiro,Srta. Maria Vitória Cassiano,O conforto de concretizar seus projetos direto da fonte,Alimentação,29,125.44,0.11,Oeste,Loja Física,3237.61
+08db56a6-0148-4641-87bf-d177cee01ccc,2024-06-28,Macedo - EI,Henrique Mendes,A arte de mudar mais facilmente,Serviços,69,239.34,0.15,Oeste,Online,14037.29
+75bae35a-b5a6-4aa9-9c0b-9374a3934e3a,2024-05-07,Almeida Jesus S.A.,Ágatha Rodrigues,A vantagem de ganhar simplesmente,Utensílios,14,76.01,0.0,Norte,Representante,1064.14
+e5a4647d-9340-47ac-9908-1f0409567df2,2024-01-29,Silva,Ana Sophia da Mata,A simplicidade de realizar seus sonhos mais facilmente,Utensílios,40,339.12,0.18,Sul,Representante,11123.14
+53bffb2d-d3c5-4f58-8a00-a5b34f01f417,2025-09-21,Lopes S/A,João Lucas Andrade,O prazer de evoluir em estado puro,Bebidas,98,55.26,0.15,Centro,Online,4603.16
+d89ef949-8d80-43cd-82ba-112ddd0252f5,2024-08-19,Vasconcelos Costela Ltda.,Srta. Raquel Carvalho,O poder de conseguir direto da fonte,Alimentação,34,246.5,0.03,Leste,Online,8129.57
+e7837e09-dddf-47e5-b469-97e212c55d81,2025-01-10,Fonseca,Srta. Maysa Rodrigues,O prazer de conseguir naturalmente,Alimentação,84,442.08,0.08,Sul,Telefone,34163.94
+fabc772b-f0e1-48f8-a0c5-02953f14618a,2024-08-17,Mendonça,Maysa Aragão,A simplicidade de ganhar com força total,Serviços,54,137.53,0.19,Oeste,Representante,6015.56
+24117d3b-f18f-482a-846a-8f6203060d27,2024-06-04,Nascimento,Ana Beatriz da Cunha,A simplicidade de evoluir mais rapidamente,Serviços,54,344.7,0.04,Oeste,Telefone,17869.25
+a6ebfb8e-ad54-4e77-b3a0-126a2d287f29,2025-04-11,Borges - ME,Ana da Mata,A liberdade de concretizar seus projetos de maneira eficaz,Serviços,47,441.7,0.11,Norte,Telefone,18476.31
+ea96b7e7-d2c1-4b4c-913a-ee64e5434066,2024-12-03,Lima e Filhos,Daniel Costa,A possibilidade de realizar seus sonhos antes de tudo,Bebidas,47,159.78,0.02,Sul,Online,7359.47
+61aa8744-bb6c-44f5-b10a-abd3271e0da3,2024-11-23,Casa Grande Costa - ME,Danilo Campos,A liberdade de evoluir mais rapidamente,Bebidas,54,451.27,0.03,Sul,Loja Física,23637.52
+9c2e814b-9cc4-4ff2-96fa-c59b6b42b073,2024-09-24,Nogueira,Arthur da Luz,O direito de atingir seus objetivos simplesmente,Utensílios,75,212.17,0.03,Leste,Online,15435.37
+72a012a8-6c2f-4f5b-9c3f-39b354508152,2025-05-08,da Mota,Cecilia Mendonça,O poder de conseguir mais facilmente,Utensílios,92,73.59,0.04,Centro,Online,6499.47
+4a2e4a8a-2e01-4df4-97dc-70288dbe914d,2024-04-04,Sá,Sr. Otávio Correia,A segurança de evoluir mais rapidamente,Bebidas,39,129.57,0.04,Centro,Online,4851.1
+63f06730-d7a1-46dc-bc1d-ba20b90121df,2025-01-05,Almeida - EI,Marina da Rosa,A liberdade de concretizar seus projetos sem preocupação,Utensílios,50,257.84,0.06,Norte,Representante,12118.48
+37bb3641-b834-4623-b302-776ccbbb6f70,2023-12-29,Barros,Dra. Maria Eduarda Sá,O conforto de evoluir simplesmente,Alimentação,97,153.08,0.06,Sul,Telefone,13957.83
+6f306bb1-afe1-4a41-8347-0c4f71175ab0,2025-06-24,Albuquerque e Filhos,Sr. Théo Campos,A liberdade de concretizar seus projetos simplesmente,Utensílios,93,369.91,0.16,Leste,Loja Física,28897.37
+e0e682c0-128b-43dc-9516-ca67172e31c7,2024-08-02,Moura S.A.,Sra. Maria Isis Rocha,A certeza de atingir seus objetivos com força total,Utensílios,35,108.63,0.04,Sul,Loja Física,3649.97
+2282ec1c-1875-47e7-9d48-7a8640bd1e39,2025-08-03,Vieira Moura S/A,Mathias Nunes,O poder de ganhar de maneira eficaz,Serviços,1,181.31,0.17,Sul,Telefone,150.49
+59403fc9-13b3-48f2-929f-dbc0ede41cbf,2024-03-13,Sales,Srta. Ana Cecília Campos,O prazer de evoluir antes de tudo,Bebidas,12,205.83,0.03,Sul,Telefone,2395.86
+20a70993-6612-4e97-8eaa-30e6168ba478,2025-02-11,Mendonça e Filhos,Sr. Gael Gomes,A vantagem de realizar seus sonhos simplesmente,Bebidas,25,18.29,0.15,Leste,Online,388.66
+f1d5608f-b184-4493-8148-776ef5c72c40,2023-10-07,Alves,João Miguel Melo,O poder de ganhar sem preocupação,Bebidas,35,39.72,0.09,Norte,Online,1265.08
+727a7c6e-1b76-47a6-a14e-e0863ddcc063,2024-09-19,Caldeira Jesus - EI,Pedro Henrique Ferreira,A simplicidade de conseguir mais rapidamente,Alimentação,13,216.02,0.06,Norte,Telefone,2639.76
+6e973cd6-2880-48ce-9e0c-01b7bc13bbfb,2023-10-15,Cassiano,Marina Castro,A simplicidade de ganhar sem preocupação,Serviços,74,472.92,0.13,Oeste,Representante,30446.59
+f0d46c60-98a6-496d-8cfd-bea1c8426996,2025-08-09,Moreira e Filhos,Rebeca da Costa,O direito de avançar em estado puro,Alimentação,43,363.91,0.02,Centro,Loja Física,15335.17
+4b3259f6-3b96-426e-91bb-54e802d9c4ab,2025-03-27,Vasconcelos Sousa Ltda.,Sra. Sophie Rocha,A segurança de conseguir com confiança,Utensílios,25,496.29,0.06,Leste,Online,11662.82
+f1fec45a-9709-453a-87a1-93c844ed529a,2024-04-22,Cunha Casa Grande Ltda.,Dr. Alexandre Marques,A possibilidade de avançar de maneira eficaz,Bebidas,44,338.74,0.09,Leste,Representante,13563.15
+f5cd5942-aadb-4cb5-a346-7bc1d48e8a6e,2025-04-18,Caldeira,Evelyn Sampaio,O conforto de realizar seus sonhos com confiança,Bebidas,58,63.53,0.07,Centro,Online,3426.81
+ee2de49d-1c45-4988-a0c0-998e9792d05c,2024-08-25,Lopes,Erick Martins,A simplicidade de ganhar naturalmente,Alimentação,1,377.93,0.18,Oeste,Telefone,309.9
+223081dc-d9e9-4f7a-abd1-52d0714cd874,2023-12-02,Barbosa,Mariana da Conceição,A simplicidade de evoluir em estado puro,Utensílios,31,35.53,0.05,Sul,Telefone,1046.36
+a5aaef4c-e221-4480-a3aa-d064d72643d1,2025-03-18,Nascimento - EI,Brenda da Mata,A possibilidade de realizar seus sonhos com confiança,Alimentação,66,71.99,0.14,Centro,Representante,4086.15
+86f14c25-a937-45b6-bc28-6a13d9035356,2024-10-31,Porto,Benício Macedo,O conforto de mudar com confiança,Bebidas,36,205.68,0.15,Centro,Representante,6293.81
+11284a71-03cb-495a-8a82-27f53d1dcf11,2024-08-23,Pinto S/A,Cauã Costela,O poder de evoluir com força total,Bebidas,38,214.72,0.03,Centro,Loja Física,7914.58
+c9475cfa-1228-4fe6-9787-22b18f226d6d,2024-03-28,Duarte - ME,Letícia Gomes,A liberdade de evoluir de maneira eficaz,Alimentação,64,452.27,0.0,Sul,Telefone,28945.28
+88e3d263-297d-4528-bf54-6c48fd3bb457,2024-10-13,da Luz,Oliver Nunes,O prazer de conseguir de maneira eficaz,Utensílios,6,170.22,0.09,Centro,Loja Física,929.4
+7af03924-a1c3-456b-b37e-536064ea8e5d,2025-09-18,Marques,Isaque Novais,A segurança de mudar sem preocupação,Alimentação,64,270.82,0.06,Sul,Telefone,16292.53
+a7208242-fb92-4c93-aa46-0095435da7f1,2024-09-16,Aparecida,José Miguel Gomes,A liberdade de avançar mais rapidamente,Serviços,51,298.15,0.08,Leste,Telefone,13989.2
+7fddba84-09f6-4309-affc-25421a25c70a,2024-09-19,Campos,Dra. Mirella Caldeira,A liberdade de ganhar direto da fonte,Serviços,88,330.16,0.01,Sul,Loja Física,28763.54
+a88537af-ddf4-4c81-a01f-a7e0ea14eaf0,2025-06-30,Rezende Ltda.,Nina da Paz,A arte de conseguir mais facilmente,Serviços,11,279.67,0.12,Leste,Loja Física,2707.21
+a59c1ebd-c643-4f67-9d02-aedb9148a14a,2025-08-03,Barbosa e Filhos,Sr. Vicente Novaes,A vantagem de inovar mais facilmente,Bebidas,16,302.65,0.12,Norte,Telefone,4261.31
+43709ba6-6381-4850-9d09-b6ee7737169f,2024-08-06,Pires,Pedro Henrique Ramos,O conforto de concretizar seus projetos mais facilmente,Alimentação,30,256.4,0.01,Oeste,Representante,7615.08
+be82dab1-580f-4a9a-bcbb-a374a5b0ccc0,2025-02-10,da Mota,Ana Marques,A possibilidade de realizar seus sonhos sem preocupação,Serviços,81,292.03,0.16,Leste,Telefone,19869.72
+202c5212-7ba1-4462-a08f-87581933e552,2024-10-08,Câmara,Anna Liz da Luz,A certeza de inovar de maneira eficaz,Utensílios,14,46.01,0.03,Centro,Telefone,624.82
+0db02819-2c4a-46a5-822e-8c0f3275f690,2024-07-25,Campos Melo S.A.,Benjamim Sousa,O prazer de atingir seus objetivos simplesmente,Alimentação,36,130.27,0.07,Centro,Online,4361.44
+8a691766-7990-4698-b217-c2c8a7c8220b,2024-12-18,Almeida Araújo S/A,Dra. Letícia Porto,O conforto de ganhar direto da fonte,Utensílios,76,313.24,0.1,Leste,Online,21425.62
+e84e5556-034c-40c5-a945-6b419cacd7d4,2025-08-24,Vieira S.A.,Dra. Raquel da Mata,O conforto de avançar com confiança,Bebidas,76,201.13,0.01,Leste,Telefone,15133.02
+984bc3d4-b0d8-4863-b136-328cef103890,2024-08-04,Dias,Breno Gomes,O direito de inovar direto da fonte,Bebidas,89,191.73,0.2,Centro,Telefone,13651.18
+f0a8ca30-48f8-4536-bb4e-475c38f59a3c,2025-06-21,Cassiano Câmara - ME,Vinicius Rios,O conforto de inovar direto da fonte,Serviços,36,430.32,0.11,Norte,Representante,13787.45
+a3c13f88-4d4e-4e60-afa5-308ad182bea0,2025-01-24,Albuquerque,Yuri Souza,A arte de evoluir em estado puro,Alimentação,80,27.39,0.11,Centro,Loja Física,1950.17
+2f12ff2c-3917-4941-8f8c-7f9633b46f69,2025-02-27,Porto - ME,Maria Flor Peixoto,A segurança de mudar simplesmente,Bebidas,23,475.17,0.08,Norte,Representante,10054.6
+5762349c-54e7-4627-8abf-d425c28c535d,2024-10-06,Silva Ltda.,Pedro Lucas Vasconcelos,A simplicidade de ganhar simplesmente,Utensílios,11,53.65,0.03,Oeste,Online,572.45
+829aa0c3-2365-4d97-8d27-835d8681e448,2023-12-18,da Paz,Sr. Luiz Fernando Pereira,O prazer de avançar naturalmente,Alimentação,14,176.61,0.01,Sul,Telefone,2447.81
+68c62854-17c4-426c-8123-ce64441aa2ad,2025-05-13,da Luz,Luna Sá,A liberdade de atingir seus objetivos sem preocupação,Serviços,86,183.21,0.16,Norte,Online,13235.09
+4442759b-b8d3-4317-be82-5ddd3ab47e6c,2024-08-09,Carvalho S/A,Sr. Arthur Miguel Andrade,A possibilidade de evoluir em estado puro,Utensílios,87,46.62,0.17,Centro,Telefone,3366.43
+a6c8d0f3-57ad-4957-a6f9-9412dd71e1f0,2024-05-02,Andrade,Manuella Pimenta,A certeza de avançar direto da fonte,Serviços,17,491.9,0.09,Oeste,Representante,7609.69
+3e5cdcea-142e-4c85-a252-1e619c548d07,2025-01-20,da Luz,Lorena Barros,A segurança de realizar seus sonhos mais facilmente,Alimentação,70,328.12,0.01,Oeste,Telefone,22738.72
+8501831c-ac37-4b8a-bc55-3a86331335fa,2023-11-27,Ferreira e Filhos,Kaique Barbosa,A segurança de mudar de maneira eficaz,Alimentação,63,83.88,0.15,Oeste,Telefone,4491.77
+bc183ed4-7d2a-4877-a9d2-78b3b786d70b,2025-04-11,Martins,Srta. Evelyn Mendonça,A simplicidade de realizar seus sonhos de maneira eficaz,Serviços,64,207.51,0.03,Oeste,Telefone,12882.22
+f711a750-7a98-4b2b-926d-6fabcccf59a6,2025-04-15,Aparecida,Maria Isis Cassiano,A liberdade de atingir seus objetivos simplesmente,Bebidas,16,169.82,0.03,Centro,Telefone,2635.61
+fb43f0bf-1de2-44cb-8c00-dd200b582339,2024-08-21,da Cruz Ltda.,Dra. Stephany Oliveira,A simplicidade de concretizar seus projetos naturalmente,Utensílios,50,37.83,0.01,Sul,Representante,1872.59
+5cdcb4d3-9633-457b-89d7-56719e0da08c,2024-03-14,Nunes Correia S/A,Joaquim Farias,O conforto de concretizar seus projetos em estado puro,Serviços,100,56.01,0.03,Norte,Telefone,5432.97
+73923c40-8203-4750-bcf0-403e9a266703,2025-03-01,Mendes e Filhos,Guilherme Duarte,O poder de atingir seus objetivos direto da fonte,Bebidas,86,223.07,0.09,Leste,Loja Física,17457.46
+0e5747fd-8893-4e3d-8f09-2b71c3fbced5,2025-05-23,Casa Grande e Filhos,Ian Sousa,A certeza de evoluir simplesmente,Bebidas,66,227.45,0.13,Norte,Online,13060.18
+791ba021-7083-4aa5-8a32-6e0c0b3be95b,2024-01-27,Costela - ME,Gael Henrique Andrade,A vantagem de avançar antes de tudo,Utensílios,67,433.34,0.09,Oeste,Online,26420.74
+78d25f89-bd3a-4c3c-a061-8acdd6ac9398,2024-08-30,Moreira,Jade Gonçalves,A possibilidade de atingir seus objetivos em estado puro,Bebidas,73,490.85,0.15,Oeste,Telefone,30457.24
+6a1ca18c-04b2-4deb-b629-cf0405d3db2a,2023-10-24,Marques - ME,Srta. Ana Júlia Farias,A arte de avançar com força total,Utensílios,63,287.08,0.2,Norte,Telefone,14468.83
+02004bc6-bdba-47a3-bede-12fc95ae02c0,2023-11-12,Novais,Vitória da Cunha,A liberdade de realizar seus sonhos sem preocupação,Alimentação,84,429.88,0.03,Sul,Online,35026.62
+f06fadd7-467d-4fca-bdde-8a1bae7b89bc,2024-04-28,Azevedo e Filhos,José Albuquerque,O poder de concretizar seus projetos em estado puro,Alimentação,28,363.04,0.15,Norte,Telefone,8640.35
+4fdf62c8-e55c-43f8-aeec-04ff83b9e97a,2024-05-30,Silva,Mirella Fernandes,O prazer de evoluir naturalmente,Serviços,53,346.19,0.12,Sul,Telefone,16146.3
+e3377122-69cb-4c30-9e2b-675bb38b9d7e,2024-10-22,Siqueira,Isabelly Silveira,A arte de ganhar em estado puro,Serviços,52,83.41,0.16,Sul,Representante,3643.35
+4e517e5d-6f68-4330-9668-36004b2503d2,2025-01-19,Montenegro,Fernanda Martins,A simplicidade de concretizar seus projetos mais facilmente,Utensílios,53,462.75,0.14,Leste,Telefone,21092.15
+735693d0-332e-4b76-b17f-50abe2db9f77,2024-11-13,Nascimento Ltda.,Stella Pinto,A simplicidade de avançar de maneira eficaz,Serviços,56,51.04,0.19,Leste,Online,2315.17
+27004c22-3195-4d03-b986-c95b8f0aef2e,2024-10-09,Fonseca Ltda.,Daniel Albuquerque,A certeza de evoluir mais rapidamente,Bebidas,37,225.78,0.12,Oeste,Telefone,7351.4
+f1354396-cda2-41aa-be53-5433dc84dfd9,2023-11-21,Aparecida,Vitor Gabriel Azevedo,A arte de ganhar simplesmente,Utensílios,22,273.44,0.06,Leste,Telefone,5654.74
+90131dc2-70f5-4d7b-82b9-95e3b000ce45,2025-08-05,da Costa Camargo S/A,Vitor Hugo Nogueira,A certeza de realizar seus sonhos sem preocupação,Utensílios,65,277.7,0.1,Leste,Loja Física,16245.45
+c2fabbf9-c2d9-49ee-9732-641b17020ada,2025-05-09,Caldeira,Vitor Hugo Mendes,O prazer de mudar antes de tudo,Utensílios,70,61.06,0.13,Centro,Representante,3718.55
+c337df6e-886a-48a0-aac6-73b06ff7f4f3,2025-09-21,Guerra Rios S/A,Théo Moura,A liberdade de inovar de maneira eficaz,Utensílios,88,35.7,0.01,Leste,Loja Física,3110.18
+c82efe9b-7352-4698-9ba1-98e6edf1f412,2024-10-02,Campos,Dr. Enrico Martins,O conforto de mudar sem preocupação,Alimentação,52,402.62,0.18,Leste,Representante,17167.72
+2586fcff-9b24-4186-9dea-dd4117378642,2023-12-21,Costa Barbosa Ltda.,Maria Albuquerque,O direito de inovar antes de tudo,Alimentação,59,159.17,0.17,Norte,Online,7794.55
+0271bd3f-246d-433e-9ad2-c18af19d7245,2023-11-03,Rodrigues Mendes Ltda.,Enzo Barbosa,A vantagem de atingir seus objetivos em estado puro,Bebidas,27,325.29,0.18,Oeste,Representante,7201.92
+bf622d8f-c165-4338-8702-9b017ac766d4,2024-12-12,Machado Siqueira - ME,Kamilly da Mata,O direito de realizar seus sonhos com toda a tranquilidade,Alimentação,62,184.75,0.17,Oeste,Online,9507.24
+bb04ae93-6064-46f0-ba45-4a9b7c138a4f,2024-01-19,Barros Martins Ltda.,Gabriel Nogueira,A possibilidade de conseguir em estado puro,Alimentação,23,243.54,0.03,Leste,Loja Física,5433.38
+540f8a12-b8f3-49b8-ba22-6f90e5a4f12f,2024-03-30,Sá,Marcelo Carvalho,A segurança de evoluir em estado puro,Alimentação,92,30.19,0.06,Sul,Representante,2610.83
+53506221-e93d-41ea-99eb-39b39f02f7a5,2024-01-06,Montenegro e Filhos,Enzo Gabriel Pastor,A segurança de concretizar seus projetos em estado puro,Serviços,40,52.06,0.03,Centro,Loja Física,2019.93
+7d5d5ed7-499d-49dc-9d1a-3cf36ca3a9c3,2024-06-04,Novais,Ana Júlia da Conceição,A certeza de mudar sem preocupação,Serviços,53,204.91,0.19,Oeste,Online,8796.79
+1ae68ee1-df20-4db0-919a-8efb13ef4e7b,2024-11-27,da Mota - EI,Ana Julia Jesus,A vantagem de realizar seus sonhos simplesmente,Alimentação,78,116.65,0.07,Centro,Telefone,8461.79
+5c64e7d5-392a-4901-a167-fe3083c11541,2025-03-15,Ribeiro,Sofia Marques,A vantagem de avançar mais facilmente,Alimentação,17,485.13,0.01,Oeste,Online,8164.74
+9da0a375-4c4b-49b7-99c6-77277991dabd,2025-04-20,Aragão,Luara Rezende,A liberdade de evoluir com confiança,Alimentação,70,80.71,0.05,Leste,Telefone,5367.22
+a049a0e2-d412-4543-86d4-0e05107d434e,2024-12-08,Nascimento S/A,Léo Rezende,A segurança de evoluir com força total,Serviços,3,253.72,0.18,Sul,Telefone,624.15
+9b0701b9-94af-403e-b02b-9abbaeb4b94f,2025-03-01,Araújo,Antonella da Rocha,A vantagem de conseguir mais facilmente,Bebidas,17,489.51,0.06,Oeste,Telefone,7822.37
+fd249c69-716c-4c35-867f-50c46a176b22,2024-03-07,Novaes,Pedro Lucas da Paz,O conforto de atingir seus objetivos com força total,Utensílios,38,334.91,0.06,Centro,Loja Física,11962.99
+7155ce8b-6c92-4b4d-9aa7-9447a01d64b9,2024-07-23,Melo Rocha e Filhos,Melina da Cunha,O prazer de inovar com confiança,Serviços,41,318.32,0.03,Oeste,Online,12659.59
+f3f99361-f6f7-4a84-82c2-046db1d5033f,2025-01-10,da Luz - EI,Dra. Joana Caldeira,A liberdade de conseguir sem preocupação,Bebidas,99,91.61,0.08,Sul,Telefone,8343.84
+cf60df0c-a786-4a45-a815-e01850464497,2025-01-18,Pastor,Eloá Aragão,O poder de atingir seus objetivos com confiança,Utensílios,72,31.1,0.07,Norte,Representante,2082.46
+6c20fb57-dcc8-4c5c-a81d-6d012b54d450,2023-11-02,Souza Porto Ltda.,José Miguel Pinto,A simplicidade de realizar seus sonhos com toda a tranquilidade,Utensílios,91,167.73,0.03,Leste,Telefone,14805.53
+c3f1cb54-3454-4651-ad68-4577ec5e611a,2025-08-03,Monteiro Vargas Ltda.,Ayla Pimenta,A segurança de realizar seus sonhos de maneira eficaz,Alimentação,26,36.61,0.12,Oeste,Representante,837.64
+7ca06df2-1aa6-439a-9d58-f02d87f1157b,2024-01-13,Cardoso,Srta. Manuela Martins,A certeza de evoluir mais facilmente,Serviços,36,229.3,0.07,Sul,Representante,7676.96
+2250613d-7115-4ca0-b053-0aee025ed737,2024-10-21,Souza Sampaio S.A.,Júlia Borges,A simplicidade de inovar simplesmente,Utensílios,19,428.41,0.18,Sul,Telefone,6674.63
+e75cfe82-743f-45bb-8e95-5f7c25359a1e,2024-05-11,Barros,Dr. Breno da Costa,A certeza de evoluir antes de tudo,Bebidas,16,382.36,0.19,Leste,Representante,4955.39
+a778f086-4403-4977-baf4-d1af3c1b54fd,2025-01-20,Lopes,Vitor Hugo Garcia,A vantagem de evoluir sem preocupação,Utensílios,25,157.63,0.11,Centro,Online,3507.27
+7abff60c-e011-480e-a329-ab9b6b82d53f,2025-06-17,Nascimento Ltda.,Srta. Eloá Jesus,O poder de inovar com confiança,Serviços,21,306.01,0.18,Sul,Representante,5269.49
+0a47d7ae-3693-49d2-9b61-a1f35b3f2c4b,2025-02-27,Leão S/A,Vitória Silva,A possibilidade de evoluir com confiança,Utensílios,4,384.09,0.06,Centro,Loja Física,1444.18
+1d99c233-a5be-4271-a6b1-5e336d3670e2,2025-03-06,Farias S/A,Ana Júlia da Cruz,O prazer de conseguir mais facilmente,Alimentação,40,57.31,0.01,Leste,Telefone,2269.48
+0c9dd441-9de2-403f-86f2-36c2a34d6878,2024-02-14,Borges,Lucas da Cunha,O conforto de conseguir em estado puro,Utensílios,70,37.74,0.01,Sul,Telefone,2615.38
+00c42255-6fcb-45e9-b7e6-c760567a6f90,2025-02-23,Cavalcante,Ester Mendonça,A vantagem de avançar mais facilmente,Utensílios,60,107.33,0.03,Centro,Representante,6246.61
+2eaf0107-33be-4738-bdcd-28eecb4ab056,2025-03-11,da Cunha e Filhos,Miguel Moraes,O prazer de atingir seus objetivos sem preocupação,Alimentação,13,371.01,0.2,Leste,Online,3858.5
+824fa413-f46b-46da-bf5b-47274ee32736,2024-04-13,Santos Ltda.,Letícia Moreira,A liberdade de evoluir simplesmente,Alimentação,65,32.34,0.01,Sul,Telefone,2081.08
+55244935-1a1f-4e32-96b3-f13fe714708d,2025-04-07,das Neves,Sra. Júlia Rezende,O conforto de inovar sem preocupação,Bebidas,90,196.18,0.2,Sul,Telefone,14124.96
+936f5d34-01db-40e1-aa0b-f9746ed0cebc,2023-12-22,Lopes Cavalcante S.A.,José Miguel Almeida,O poder de realizar seus sonhos mais rapidamente,Alimentação,31,141.3,0.09,Norte,Representante,3986.07
+09289c38-60cd-4d55-be6b-a85c2f1c48e7,2024-01-11,Costa S/A,Olivia Sá,A simplicidade de mudar sem preocupação,Alimentação,20,295.9,0.19,Leste,Online,4793.58
+acbff8f3-e0e8-473a-8f8a-b60a693861ef,2025-09-11,Farias Castro - EI,Sophie da Luz,O direito de conseguir simplesmente,Serviços,38,374.51,0.05,Centro,Loja Física,13519.81
+19f6af49-dc91-4007-ad89-b43da33d3def,2025-09-15,Carvalho Machado e Filhos,Lucca Marques,O direito de ganhar sem preocupação,Serviços,66,245.54,0.06,Sul,Telefone,15233.3
+b1e10624-e0f2-4991-8f16-c4a49cbc15a0,2024-07-20,da Luz S.A.,Augusto Ribeiro,A possibilidade de concretizar seus projetos antes de tudo,Alimentação,22,76.8,0.11,Leste,Online,1503.74
+a9a10b3b-1056-44d8-a7ba-0be2e1459480,2024-09-23,Costa - EI,Mateus Brito,A vantagem de realizar seus sonhos mais facilmente,Utensílios,78,260.5,0.19,Norte,Representante,16458.39
+500bcc1f-f443-49bc-8dd1-a208f7f491c1,2024-11-10,Brito Sales e Filhos,Antony Teixeira,O poder de realizar seus sonhos naturalmente,Serviços,86,438.03,0.19,Centro,Online,30513.17
+eaae0fa4-5787-46c7-b18f-dce3a1092e70,2024-01-05,Aragão,Vitor Gabriel Pimenta,A simplicidade de mudar com confiança,Bebidas,18,222.17,0.07,Sul,Online,3719.13
+89ca39fa-15fb-469f-ae84-ac32d4ee3a48,2023-11-18,Marques Caldeira - ME,Maria Sophia Pires,A liberdade de realizar seus sonhos em estado puro,Serviços,25,263.0,0.02,Sul,Representante,6443.5
+e38411b5-2dd7-4453-9dde-9c245c2e8a11,2024-01-25,Lopes,Liz Sampaio,A arte de atingir seus objetivos antes de tudo,Alimentação,37,27.28,0.12,Centro,Representante,888.24
+6ae9857e-be2b-4819-9b2b-b29cfafc6903,2024-04-26,Guerra S/A,Gabrielly Jesus,A segurança de ganhar simplesmente,Bebidas,74,436.43,0.05,Centro,Online,30681.03
+ef0efd9e-5982-48b7-a088-0f15951f507c,2024-04-23,Montenegro da Paz S.A.,Enrico da Costa,O poder de mudar sem preocupação,Alimentação,68,139.58,0.1,Norte,Loja Física,8542.3
+42529162-fbc4-4043-9671-99b518b6f4bb,2024-05-21,Abreu das Neves - ME,Srta. Maria Luísa Gonçalves,O poder de concretizar seus projetos naturalmente,Alimentação,98,402.7,0.0,Centro,Telefone,39464.6
+37158f7d-2564-4e3e-9455-75b002f206ca,2024-09-10,Novaes,Dra. Aurora da Cunha,O prazer de avançar com força total,Utensílios,14,36.7,0.04,Leste,Representante,493.25
+8c84fe9b-2c3b-48d4-a75d-daf8eef92f8c,2025-03-25,Vieira,Benjamim Souza,A simplicidade de concretizar seus projetos mais facilmente,Bebidas,61,431.91,0.19,Oeste,Online,21340.67
+20bcb3ed-9f21-4dd3-a235-1bdccd3a69be,2023-11-14,Sousa da Cruz e Filhos,Sra. Lavínia Almeida,A possibilidade de concretizar seus projetos antes de tudo,Bebidas,42,55.03,0.03,Centro,Online,2241.92
+1cbc0abe-d0f7-4792-be7e-09a9ab4b2f06,2024-04-09,Nunes da Mata Ltda.,Sr. Théo Pereira,A liberdade de atingir seus objetivos em estado puro,Serviços,51,79.97,0.02,Leste,Loja Física,3996.9
+739ecfd2-399a-4ecc-9e69-69b252760703,2025-07-14,Barbosa S.A.,Sr. Bernardo Nunes,A segurança de realizar seus sonhos com confiança,Serviços,67,361.96,0.02,Sul,Loja Física,23766.29
+1a98460f-27be-44f6-adce-24147d972c22,2025-02-14,da Costa Costela S.A.,Vicente Cassiano,A vantagem de concretizar seus projetos naturalmente,Alimentação,96,183.33,0.09,Sul,Telefone,16015.71
+683e78e4-5f05-4cec-99f9-29992c013a0a,2024-06-26,Mendonça,Srta. Anna Liz da Cunha,A certeza de conseguir mais facilmente,Bebidas,91,461.7,0.19,Sul,Telefone,34031.91
+12aa4f6e-f9c2-479c-9e27-57f9d996727d,2024-12-18,Sousa,Sra. Sarah Carvalho,O poder de concretizar seus projetos em estado puro,Utensílios,13,23.75,0.18,Norte,Telefone,253.18
+2bee8ca5-8765-45db-946b-20a0c2997468,2025-03-26,Dias,Nicole da Rocha,A possibilidade de atingir seus objetivos com confiança,Utensílios,49,31.39,0.01,Centro,Telefone,1522.73
+078d338d-c14c-46cd-ad6c-d1fd6ebe55cb,2025-02-05,Mendonça S/A,Gabriel Caldeira,A simplicidade de realizar seus sonhos antes de tudo,Utensílios,89,121.12,0.03,Norte,Representante,10456.29
+d71b2add-2258-4ca1-885c-fd731eb4fbbb,2024-04-06,Leão,Alana Pastor,A simplicidade de inovar antes de tudo,Bebidas,57,240.48,0.01,Leste,Loja Física,13570.29
+43de4059-72ec-4a8d-bcda-2d8b87035a10,2024-02-04,Gomes,Danilo Sales,A simplicidade de atingir seus objetivos direto da fonte,Serviços,80,201.13,0.1,Leste,Representante,14481.36
+42faf85e-e2a4-4cca-9dd4-e7b546f13067,2023-12-10,Mendes,Luan da Mata,A arte de atingir seus objetivos de maneira eficaz,Serviços,38,482.98,0.08,Sul,Telefone,16884.98
+c968f184-32a7-4100-bc7f-67773db78e7b,2023-12-22,Brito,Ryan Azevedo,O conforto de conseguir em estado puro,Utensílios,46,185.16,0.1,Sul,Loja Física,7665.62
+4d6c402b-633a-4727-aa9f-37a22202b0be,2023-10-11,Fernandes e Filhos,Luiz Henrique Mendes,A certeza de conseguir em estado puro,Serviços,55,108.63,0.11,Norte,Representante,5317.44
+9052dcae-0a23-40ce-b3b7-efb9ea518d82,2025-04-12,Silva Rios - EI,Daniel Pastor,A segurança de inovar antes de tudo,Alimentação,55,411.3,0.1,Oeste,Representante,20359.35
+c0f48025-5847-4f71-8666-1bdb423ed579,2025-01-19,Novais,Isis Silva,A liberdade de realizar seus sonhos mais facilmente,Alimentação,22,444.32,0.13,Leste,Representante,8504.28
+34d6b575-a1f0-4816-8eca-eaca1f5be3cd,2025-02-28,Pacheco,Aylla Carvalho,O poder de conseguir naturalmente,Bebidas,14,393.66,0.01,Oeste,Telefone,5456.13
+bbb3fb85-844f-4f05-9e57-55478886ec63,2024-11-05,da Conceição,Mirella Montenegro,A simplicidade de ganhar de maneira eficaz,Serviços,62,256.76,0.2,Sul,Representante,12735.3
+f89f7302-e5df-4bdc-a1d8-e81c870be32a,2024-12-01,Nascimento,Dante Farias,O prazer de ganhar mais rapidamente,Utensílios,88,238.28,0.1,Sul,Loja Física,18871.78
+bd60cb8b-61a1-4fdd-97c4-e5d4d98dd11a,2024-02-26,da Cunha Peixoto S/A,Maria das Neves,A certeza de evoluir com toda a tranquilidade,Bebidas,12,125.73,0.1,Sul,Telefone,1357.88
+4b54e815-f14f-44c5-97af-411980743747,2025-09-01,Costa,Francisco Silva,O direito de conseguir em estado puro,Serviços,6,101.75,0.07,Leste,Telefone,567.76
+acabe1d3-e975-40b0-b9ac-085399991dce,2024-02-12,Cavalcante,Samuel Albuquerque,O poder de avançar com toda a tranquilidade,Serviços,73,77.52,0.07,Oeste,Online,5262.83
+396a0e93-97c6-4366-b7c9-ec6e2d0bb1f6,2025-04-13,Vasconcelos da Paz e Filhos,Nina Peixoto,O conforto de evoluir mais facilmente,Bebidas,99,236.09,0.07,Leste,Online,21736.81
+43a87cfb-8740-4831-a7b3-ad16f26bbc0f,2024-05-03,Guerra,Cauê Rezende,O poder de atingir seus objetivos direto da fonte,Serviços,75,310.39,0.12,Centro,Telefone,20485.74
+e4dd29b5-4bf6-46da-abfc-7b9bc96b7b9c,2025-05-02,Nunes Pacheco - ME,Sra. Joana Cavalcanti,A liberdade de conseguir com confiança,Alimentação,39,17.86,0.06,Centro,Online,654.75
+762cd83e-1d7f-4b61-a14e-9a2e5d5ffa84,2024-08-03,Ferreira Dias - ME,Ana Júlia Vargas,A liberdade de realizar seus sonhos em estado puro,Serviços,54,123.32,0.05,Leste,Loja Física,6326.32
+abc74d97-4569-439d-987b-90beb0a88fb9,2025-08-28,Ramos - EI,Francisco da Rocha,O poder de conseguir naturalmente,Alimentação,93,333.81,0.01,Centro,Online,30733.89
+caf16ac1-5d7b-44f3-b63c-d330e396adb9,2025-04-13,Barros da Paz Ltda.,Sr. Josué Montenegro,O poder de conseguir naturalmente,Serviços,2,349.66,0.18,Sul,Loja Física,573.44
+3b4d1197-ec83-4f76-81bd-de36290792e5,2024-02-23,Novaes S/A,Dr. José Pedro Caldeira,A certeza de atingir seus objetivos com toda a tranquilidade,Serviços,57,201.41,0.02,Norte,Telefone,11250.76
+760a505c-1796-4a92-a71f-9551cb6dad61,2025-01-12,Mendes,Milena Fernandes,A segurança de mudar simplesmente,Alimentação,57,214.23,0.18,Norte,Telefone,10013.11
+0d0597ec-539c-46dc-8f5b-53cef05adf52,2023-11-20,Câmara Ltda.,Dra. Bruna Araújo,A segurança de mudar antes de tudo,Alimentação,24,217.34,0.06,Oeste,Representante,4903.19
+1af44e3e-8abe-4f9e-bc26-7d2a9681cb31,2024-08-17,Novais - ME,Vitor Gabriel Moraes,A possibilidade de avançar em estado puro,Alimentação,80,114.28,0.07,Centro,Online,8502.43
+ca229a54-4d1c-409c-8ff6-1b50a8cbfe6c,2025-07-14,Leão,Luiz Henrique Azevedo,A segurança de atingir seus objetivos em estado puro,Bebidas,100,439.32,0.14,Norte,Loja Física,37781.52
+c8466c6d-2de4-44d1-ac59-61299b1b8412,2024-09-22,Machado,Carolina Mendonça,A liberdade de realizar seus sonhos sem preocupação,Utensílios,75,111.92,0.19,Sul,Telefone,6799.14
+5b0c1d92-8e07-4908-b3be-270a59bfb6d8,2024-07-12,Barbosa,Henrique Camargo,A segurança de ganhar simplesmente,Utensílios,11,54.07,0.02,Oeste,Representante,582.87
+40734612-d505-4ba4-86fd-b5c49f1701e4,2024-05-11,Carvalho,Alice Viana,O poder de evoluir de maneira eficaz,Bebidas,24,236.85,0.17,Centro,Loja Física,4718.05
+005568ff-a180-4e51-92b0-c5fe0a82ce44,2024-06-25,da Rocha,Marcela da Mota,A liberdade de evoluir naturalmente,Bebidas,84,481.41,0.2,Sul,Representante,32350.75
+3d313ba1-e4e2-40ed-bdbf-a3ed2e24d7ef,2024-05-19,da Cruz Almeida e Filhos,Dra. Brenda Castro,O conforto de atingir seus objetivos simplesmente,Alimentação,31,293.24,0.01,Oeste,Online,8999.54
+66778d2d-ee1f-4f55-9963-aa4757423758,2023-11-14,Ribeiro,Ravi Lucca Garcia,A vantagem de mudar com toda a tranquilidade,Utensílios,45,229.72,0.08,Sul,Telefone,9510.41
+bb7ece3b-068e-4563-aff7-5a1fc557fe2b,2025-05-21,Pimenta e Filhos,Sabrina da Paz,O prazer de evoluir com força total,Utensílios,46,471.1,0.0,Sul,Loja Física,21670.6
+97bec5f6-5d50-4ea2-8139-eada6e178206,2025-08-30,Cardoso S/A,Lucca Cirino,A liberdade de evoluir mais rapidamente,Serviços,81,489.8,0.12,Oeste,Representante,34912.94
+1d22b10f-2a9b-460a-8294-6a0fde5dba7a,2024-06-25,Porto,Luara Pacheco,O prazer de inovar com toda a tranquilidade,Alimentação,6,63.7,0.08,Oeste,Online,351.62
+83a0c27e-6607-43ea-9593-3aa3bccfa23c,2024-04-03,da Rocha Cassiano - ME,Gustavo Costa,O prazer de concretizar seus projetos com toda a tranquilidade,Alimentação,58,118.88,0.03,Norte,Online,6688.19
+f2b7418c-61b5-47d5-a083-2050bd2124f5,2024-12-27,Vargas Jesus - EI,Laura Duarte,A vantagem de conseguir simplesmente,Serviços,40,152.3,0.03,Oeste,Loja Física,5909.24
+ab5b06dc-1990-48d3-9d40-28a94c038874,2024-12-28,Freitas S/A,Enrico Porto,A simplicidade de mudar naturalmente,Utensílios,20,229.93,0.06,Oeste,Telefone,4322.68
+80501de9-a036-43e5-ae34-6c86e037fe98,2025-09-23,Borges,Dra. Ana Clara Gomes,A possibilidade de inovar com força total,Utensílios,79,98.22,0.19,Oeste,Representante,6285.1
+18262212-4765-4cd2-82d1-873a6cfd15cf,2024-10-23,Teixeira Rios S/A,Carlos Eduardo Alves,A arte de ganhar mais facilmente,Bebidas,71,195.5,0.06,Norte,Loja Física,13047.67
+b7e838af-991c-42ad-b85a-25ee559db962,2025-09-28,Farias,Dr. Noah da Paz,A segurança de evoluir antes de tudo,Serviços,17,30.84,0.18,Centro,Representante,429.91
+1d4c8b07-b71d-4283-af89-c088951c323a,2025-09-20,Ferreira Sales S/A,Vitor Hugo Mendes,A possibilidade de concretizar seus projetos sem preocupação,Alimentação,3,189.49,0.03,Leste,Representante,551.42
+c76510b4-1f14-4745-aae9-f279223f6860,2024-09-05,Rezende,Beatriz Machado,A liberdade de inovar com confiança,Alimentação,10,134.94,0.04,Leste,Representante,1295.42
+a57cb1b4-a78f-4a2b-a817-5b47d674b12c,2025-02-19,Moreira - EI,Joana Oliveira,A vantagem de inovar de maneira eficaz,Alimentação,80,422.78,0.09,Sul,Loja Física,30778.38
+f1489c1e-82cf-4988-8d53-b61859428de2,2025-03-25,Freitas da Conceição S.A.,Sara Correia,A simplicidade de avançar naturalmente,Bebidas,75,250.85,0.05,Oeste,Online,17873.06
+4934aa12-eb19-4e8a-b39b-853da8db2d2d,2024-03-24,Cavalcante Cirino S.A.,Yasmin Barbosa,A segurança de mudar com força total,Utensílios,78,73.2,0.19,Centro,Online,4624.78
+f8eae25e-e268-4865-8235-43194b8d4de5,2024-01-26,Nascimento Machado - EI,Bruno Peixoto,O prazer de evoluir antes de tudo,Alimentação,88,283.13,0.01,Leste,Telefone,24666.29
+c2e476fd-febb-4249-95af-55abf500f56a,2024-08-11,Sampaio,Luiz Otávio Melo,A arte de evoluir de maneira eficaz,Bebidas,60,222.81,0.17,Sul,Online,11095.94
+3d9aebb4-ea56-4dad-ac19-d3a1323c369a,2025-07-31,Vargas Barbosa Ltda.,Alexia Jesus,A vantagem de evoluir sem preocupação,Alimentação,71,78.01,0.1,Leste,Loja Física,4984.84
+d95d564a-5046-4bb8-bfac-4682d0ac6d6c,2024-06-12,Ribeiro,Maya Albuquerque,A vantagem de ganhar direto da fonte,Serviços,72,128.78,0.07,Oeste,Online,8623.11
+d2a8932a-9e4a-4db4-9048-07f1fd64bbe2,2024-05-13,Aparecida,Stella Porto,A segurança de conseguir mais rapidamente,Bebidas,68,302.43,0.15,Centro,Loja Física,17480.45
+3d95eecc-c9fd-446d-b1ef-2d6de851f413,2024-03-26,da Rosa,Theodoro Casa Grande,O prazer de atingir seus objetivos antes de tudo,Bebidas,15,245.25,0.08,Oeste,Loja Física,3384.45
+7a1e8d58-4a80-42aa-b26b-8be895681df9,2024-07-23,Cassiano,Dr. Luiz Miguel Câmara,A certeza de mudar mais facilmente,Bebidas,48,367.13,0.17,Sul,Representante,14626.46
+f2c93dac-1d5a-4489-9734-2dab3b2b0d3e,2024-10-08,Camargo,Srta. Ana Pacheco,A possibilidade de conseguir simplesmente,Serviços,2,246.86,0.15,Oeste,Online,419.66
+4244c824-9705-4378-8528-37be04d94500,2024-09-22,Vargas Teixeira - ME,Paulo Novaes,A liberdade de realizar seus sonhos com confiança,Utensílios,22,317.29,0.02,Leste,Representante,6840.77
+b14a48ae-fb8b-46f6-9470-eb8adb6148c7,2025-07-11,Cassiano Ltda.,Dra. Catarina Garcia,A simplicidade de concretizar seus projetos com toda a tranquilidade,Utensílios,41,497.75,0.18,Norte,Telefone,16734.35
+e08d199e-fb6f-4078-9165-a7ec23a07e58,2023-10-21,da Luz,Esther Oliveira,A certeza de conseguir com força total,Alimentação,31,170.91,0.01,Centro,Telefone,5245.23
+877e9f2d-b7e9-4e91-92d2-9b5f0f9c06f6,2024-04-27,Sá Novais Ltda.,Aylla Caldeira,O poder de realizar seus sonhos mais facilmente,Serviços,79,387.94,0.02,Oeste,Loja Física,30034.31
+045c3282-33b7-4ad9-95c1-3a3e4db1c901,2024-01-04,Câmara,Maria Helena Siqueira,A simplicidade de realizar seus sonhos com toda a tranquilidade,Bebidas,97,385.48,0.19,Centro,Loja Física,30287.16
+9c2ff71d-a494-462f-8729-cd52e47b277c,2025-03-17,Monteiro Cardoso e Filhos,Ana Júlia Moura,O prazer de concretizar seus projetos mais rapidamente,Utensílios,21,433.03,0.01,Sul,Telefone,9002.69
+1045fda7-f7d4-41a0-a934-5fdfb157db72,2023-11-15,Nogueira,Luan Costela,A certeza de ganhar mais facilmente,Bebidas,65,431.44,0.13,Sul,Loja Física,24397.93
+9d0b4e39-327e-4571-aae8-4f526ca78cb6,2024-11-20,Gonçalves,Erick Azevedo,A arte de evoluir sem preocupação,Alimentação,58,234.23,0.02,Norte,Telefone,13313.63
+f4a791c4-4148-471c-aa0d-ef247a03e0f1,2024-03-18,Sousa S.A.,Theodoro da Costa,A possibilidade de evoluir simplesmente,Bebidas,43,365.2,0.09,Norte,Online,14290.28
+0cb6829c-5956-4784-845e-7b4f1fab71ae,2025-08-30,Azevedo das Neves - EI,Antonella Vasconcelos,A possibilidade de concretizar seus projetos com confiança,Serviços,8,16.66,0.06,Leste,Telefone,125.28
+b488460b-733d-4b53-b97d-4e7d51483fbc,2025-03-05,das Neves e Filhos,Thiago Vargas,O poder de inovar com força total,Bebidas,47,430.1,0.19,Norte,Representante,16373.91
+2fee968f-81c6-403b-ac5e-4d5381a88421,2024-12-07,Cavalcanti Siqueira Ltda.,Eloah Santos,A simplicidade de concretizar seus projetos com confiança,Serviços,55,277.83,0.06,Sul,Online,14363.81
+e2b1da32-d94e-4401-abcb-764181dadae6,2025-05-01,Rezende Ramos - EI,Ana Júlia Casa Grande,A vantagem de inovar mais rapidamente,Alimentação,12,267.32,0.19,Centro,Online,2598.35
+99ba7e19-498c-4167-b457-05aac9b7a9fe,2024-08-22,Martins S.A.,Luna Macedo,A segurança de evoluir com força total,Utensílios,86,345.89,0.19,Norte,Online,24094.7
+7a1b1a95-04de-44d1-8644-329246cf329d,2024-07-22,Pinto - EI,Dr. Antônio Gonçalves,O direito de concretizar seus projetos simplesmente,Serviços,98,125.06,0.13,Norte,Online,10662.62
+3f2efaf4-cadd-47e6-adb1-4a89ae6215d8,2024-02-03,Machado,Dr. Breno Moreira,O poder de concretizar seus projetos simplesmente,Bebidas,24,240.9,0.03,Leste,Loja Física,5608.15
+2991e6ae-bdd6-4614-b9c1-d5d2bad824ea,2025-04-18,Correia S.A.,Stella Pimenta,A vantagem de evoluir naturalmente,Serviços,47,300.47,0.06,Norte,Telefone,13274.76
+459dd2a8-4a24-4197-9c30-f5b18438275d,2025-04-21,Albuquerque,Diego das Neves,A possibilidade de evoluir direto da fonte,Bebidas,88,427.16,0.06,Centro,Representante,35334.68
+978206ec-f525-465a-a63b-bbf70ffcfec4,2024-01-16,da Luz Siqueira S/A,Sra. Joana da Mata,O conforto de concretizar seus projetos com força total,Bebidas,75,85.49,0.19,Sul,Loja Física,5193.52
+a203b40b-8930-4d17-bf3b-21eff61c68a7,2024-03-31,Cassiano - ME,Manuella Moraes,O poder de concretizar seus projetos simplesmente,Bebidas,52,277.79,0.06,Sul,Loja Física,13578.38
+6a5e3d31-4dba-4ea9-af41-5e9950b9e784,2025-08-30,Nascimento Peixoto e Filhos,Bryan Correia,A liberdade de evoluir em estado puro,Bebidas,77,404.47,0.06,Oeste,Representante,29275.54
+84d2ea44-fa0e-498d-9662-decf6c7e0e8a,2024-03-05,Campos Ltda.,Dra. Eloá Sá,A liberdade de concretizar seus projetos com toda a tranquilidade,Bebidas,74,359.66,0.05,Sul,Representante,25284.1
+f6f3bd26-cb11-4218-ba7d-ae061ddcebe1,2025-02-02,Cassiano e Filhos,Sr. Bernardo Castro,A liberdade de conseguir com toda a tranquilidade,Bebidas,21,242.13,0.06,Leste,Loja Física,4779.65
+570b60c7-72ae-49c7-831d-05fb98c5eafb,2024-08-02,Mendonça,Arthur Miguel Gomes,O direito de concretizar seus projetos de maneira eficaz,Bebidas,14,194.43,0.04,Sul,Loja Física,2613.14
+fdf8e46f-0fc3-456d-a376-2d6965b55b24,2024-06-22,Alves,Ester Rios,O prazer de conseguir com toda a tranquilidade,Serviços,26,111.89,0.03,Oeste,Loja Física,2821.87
+748a585c-b444-4ad4-91dd-8a9e8cd1a7fc,2024-08-26,Camargo Rios S.A.,Otávio Alves,A segurança de mudar com toda a tranquilidade,Alimentação,77,317.71,0.01,Leste,Online,24219.03
+45eb26cf-03d4-4af2-ad79-72cc7811bd81,2024-09-05,Montenegro,Sr. Otávio Rios,A vantagem de evoluir com confiança,Alimentação,81,459.61,0.16,Sul,Representante,31271.86
+484bb7e9-2a2e-4de8-8dd0-1b29b0915dc4,2024-12-07,da Paz,Arthur Gabriel Vieira,A segurança de evoluir mais rapidamente,Alimentação,11,478.96,0.13,Sul,Loja Física,4583.65
+4fe00529-3a3d-47bf-904d-1216eea928d9,2024-06-09,Azevedo e Filhos,Dr. Gustavo Henrique Sales,A simplicidade de evoluir simplesmente,Utensílios,90,419.92,0.02,Leste,Telefone,37036.94
+699a368a-7b92-41bd-8ce6-640237e5642c,2023-10-21,Ribeiro Ferreira - EI,Heloisa Carvalho,A vantagem de conseguir antes de tudo,Serviços,64,26.09,0.07,Centro,Online,1552.88
+636e77cc-8134-48e8-93b7-d3fcc67ca901,2024-07-25,da Luz,Henry Cassiano,A segurança de mudar simplesmente,Utensílios,55,205.32,0.16,Centro,Telefone,9485.78
+86d72aab-7b40-4f15-9fb2-7cfc3ba24a60,2024-03-03,Pereira Siqueira S.A.,Luna Gonçalves,O poder de inovar com confiança,Utensílios,14,476.08,0.14,Norte,Online,5732.0
+c10b5947-b7c2-4a46-b96b-fda6e189c3cf,2024-05-08,da Mota S.A.,Matteo Barbosa,O prazer de concretizar seus projetos sem preocupação,Bebidas,54,288.51,0.15,Leste,Representante,13242.61
+d3eebac2-cad7-437b-a37e-d1a3d99bebc5,2024-07-28,Ramos,Luiz Felipe Pires,O conforto de atingir seus objetivos antes de tudo,Utensílios,80,28.44,0.14,Oeste,Loja Física,1956.67
+0eab7dbd-e69f-4e3d-b05d-55c79e7a29a8,2024-05-07,Cavalcante Moreira S.A.,Théo Nascimento,A certeza de evoluir sem preocupação,Utensílios,27,42.26,0.17,Leste,Loja Física,947.05
+24f1ea8b-2dc5-4c3e-9728-346f1e7fba56,2024-05-19,Cavalcanti Camargo - ME,Yuri Moreira,O direito de mudar mais facilmente,Alimentação,43,140.04,0.02,Leste,Telefone,5901.29
+4c3f706d-8d6e-45df-a4fe-346d6eb96c81,2024-02-05,Viana - ME,Dr. Kaique Santos,A simplicidade de conseguir simplesmente,Utensílios,44,401.36,0.05,Sul,Loja Física,16776.85
+e3da3f2e-7d66-42ca-8585-49801202fc1d,2024-07-27,Guerra,Stephany Costa,A possibilidade de atingir seus objetivos mais facilmente,Alimentação,50,12.7,0.05,Centro,Online,603.25
+5af197aa-136c-4768-b292-dd345313e706,2025-01-13,Novais,Bruna da Cruz,A vantagem de ganhar sem preocupação,Alimentação,39,35.75,0.09,Leste,Loja Física,1268.77
+1371e62f-2dea-4a37-95a4-89bc554e2e5a,2024-11-15,Leão,Alexandre Nascimento,O poder de avançar com toda a tranquilidade,Serviços,32,110.35,0.0,Sul,Telefone,3531.2
+db42ca9a-292a-47d5-9ebe-b3b7f624b846,2024-06-13,Gonçalves Silveira - EI,Sra. Fernanda Campos,O poder de ganhar simplesmente,Bebidas,58,386.35,0.08,Leste,Telefone,20615.64
+83314cb8-95e0-4564-b07d-b42c9dc29b0e,2025-03-11,Novais Borges Ltda.,Breno Brito,O poder de atingir seus objetivos com toda a tranquilidade,Bebidas,37,124.24,0.19,Sul,Representante,3723.47
+0de4bc76-c664-406b-a164-7cc3310335f4,2024-05-27,Fernandes,Camila da Mota,A liberdade de conseguir simplesmente,Serviços,1,126.34,0.17,Oeste,Representante,104.86
+e98efa96-1f2b-4b38-a68e-6317e697fc25,2024-11-26,Garcia,Luara Cunha,A simplicidade de realizar seus sonhos com toda a tranquilidade,Utensílios,72,209.31,0.02,Leste,Online,14768.91
+14e762e8-b29c-47a2-990f-a5e82a64b625,2025-05-28,Freitas,Allana Vargas,O conforto de concretizar seus projetos com confiança,Alimentação,37,416.15,0.19,Sul,Telefone,12472.02
+7f3fd33a-988b-48a7-913d-eec598626ede,2025-02-16,Gomes,Lavínia Sá,A arte de mudar de maneira eficaz,Bebidas,92,481.31,0.07,Sul,Online,41180.88
+165b1653-608c-41a1-a11c-c643f145c832,2023-12-03,Santos,Isadora da Rosa,A liberdade de ganhar sem preocupação,Utensílios,7,414.38,0.13,Centro,Loja Física,2523.57
+5c4c656d-f3f2-4897-9ddd-c8bc5b4f0e2f,2024-01-03,Carvalho S.A.,Natália Abreu,A possibilidade de realizar seus sonhos em estado puro,Serviços,64,12.66,0.2,Leste,Online,648.19
+4202035d-3644-48a5-aea7-4e3c3d173453,2025-02-04,Costela e Filhos,Kevin Borges,A certeza de conseguir mais facilmente,Serviços,36,479.02,0.1,Oeste,Representante,15520.25
+82a45885-674d-4e8d-9a3b-4c40471f1f1f,2025-01-22,da Mata,Sarah Peixoto,O conforto de evoluir com força total,Utensílios,94,58.37,0.06,Centro,Online,5157.57
+92d4cc74-5d95-456a-8ff4-61323ddfa34b,2025-03-17,Souza Brito S.A.,Srta. Marina Pereira,A arte de conseguir com toda a tranquilidade,Serviços,67,346.6,0.09,Sul,Representante,21132.2
+60de81da-323d-46b8-bba6-9bc494578923,2024-05-25,Almeida,Calebe Nogueira,O poder de ganhar com confiança,Bebidas,50,139.78,0.08,Leste,Loja Física,6429.88
+465635de-aa61-4fcf-ab60-6093acdcc8b7,2024-12-12,Oliveira,Noah Santos,O prazer de avançar naturalmente,Bebidas,29,310.21,0.14,Oeste,Representante,7736.64
+f9256ce0-382e-4392-9873-82fbf6db0ab7,2024-12-09,Cassiano,João Miguel Carvalho,A simplicidade de avançar com confiança,Utensílios,3,256.35,0.18,Norte,Representante,630.62
+709021b3-8251-4825-a0be-1835dfc61d91,2024-12-28,Peixoto S.A.,Ravi Lucca da Mata,A liberdade de atingir seus objetivos sem preocupação,Serviços,57,82.72,0.17,Sul,Telefone,3913.48
+4ce07892-b4c0-4760-9842-e2805429cb77,2024-06-17,Rocha Ltda.,Yan Pinto,A certeza de concretizar seus projetos com toda a tranquilidade,Serviços,51,437.9,0.03,Leste,Representante,21662.91
+251b7cd8-fdf7-4a3d-bfec-df9225ea16b0,2024-01-17,da Conceição,Rodrigo Melo,O direito de avançar com toda a tranquilidade,Utensílios,96,242.08,0.13,Centro,Representante,20218.52
+24a098bf-1183-45f6-84fe-2eb77621dbf6,2025-06-29,Martins - ME,Maria Cecília Freitas,A certeza de avançar com toda a tranquilidade,Serviços,25,190.79,0.12,Oeste,Telefone,4197.38
+1d83dc7a-5bbe-435b-b987-1ba76cf3503b,2024-05-01,Moraes,Laura Souza,A segurança de concretizar seus projetos mais rapidamente,Bebidas,76,402.4,0.03,Leste,Online,29664.93
+803a630a-4371-4147-a89f-f19841854a9a,2025-02-04,Siqueira,Erick Rodrigues,O conforto de atingir seus objetivos mais rapidamente,Serviços,48,411.95,0.16,Centro,Online,16609.82
+d2f220e2-cdf9-4c85-a082-27d041cf7c1a,2024-07-08,Oliveira S.A.,Cecilia Macedo,O conforto de concretizar seus projetos de maneira eficaz,Utensílios,29,384.22,0.04,Sul,Telefone,10696.68
+5376d76a-bc3b-453b-8dc5-54d315720939,2025-08-15,Vasconcelos Almeida - EI,Matheus Fonseca,A certeza de inovar sem preocupação,Alimentação,24,455.62,0.04,Sul,Loja Física,10497.48
+d85caf0e-edf5-4111-b8e2-26cd67c52e28,2025-08-14,Ramos - ME,Igor da Paz,O direito de mudar de maneira eficaz,Bebidas,65,365.12,0.11,Leste,Representante,21122.19
+ab971488-4397-4df7-81c2-510ea3fa6917,2025-07-31,da Costa Fonseca - EI,Dr. Lucas Gabriel Pimenta,O poder de evoluir mais facilmente,Bebidas,44,145.56,0.03,Norte,Representante,6212.5
+0925f117-dd9c-4c18-be90-2cceb80a17cd,2024-09-10,Novais Alves - ME,Maria Eduarda da Conceição,A segurança de ganhar com toda a tranquilidade,Serviços,73,112.26,0.01,Sul,Telefone,8113.03
+e607eb9a-4d24-4fcd-b589-4913f9688fb6,2024-04-19,Nunes - EI,Rhavi Jesus,A certeza de inovar de maneira eficaz,Alimentação,23,348.04,0.16,Oeste,Online,6724.13
+2a312b8e-46b7-4c3d-9e2d-c9b7e4542596,2024-07-18,Nogueira,Sr. Vicente Viana,A certeza de mudar sem preocupação,Bebidas,91,439.98,0.01,Leste,Loja Física,39637.8
+cc6da338-cc9c-4090-9de1-3fc8b884f48d,2023-10-29,Melo Fonseca Ltda.,Maria Sophia Araújo,A arte de conseguir mais rapidamente,Alimentação,44,155.54,0.08,Norte,Telefone,6296.26
+6eb350c9-9eed-42a0-9cb1-147483d3f33d,2024-07-07,Cavalcanti,Joaquim Guerra,O direito de ganhar em estado puro,Bebidas,46,107.43,0.16,Norte,Telefone,4151.1
+b167863b-06a5-4091-963f-e586834a1aea,2024-11-14,Sá,Ana Júlia Novais,A possibilidade de realizar seus sonhos com confiança,Utensílios,53,491.31,0.14,Leste,Representante,22393.91
+b0cec080-8c3b-4293-abf7-f212f6b70d9d,2024-08-08,Cavalcante Barbosa - ME,Dra. Emilly Siqueira,O conforto de realizar seus sonhos sem preocupação,Bebidas,56,140.49,0.16,Centro,Telefone,6608.65
+4c010654-6807-4481-948d-f51a9d238d7c,2023-12-31,Pastor,Gustavo Carvalho,A vantagem de avançar naturalmente,Serviços,63,216.1,0.11,Centro,Loja Física,12116.73
+0e252537-679f-44c8-b94c-4d1601d74dc9,2023-10-13,da Costa,Luiza Cassiano,A arte de conseguir de maneira eficaz,Bebidas,26,466.86,0.0,Centro,Representante,12138.36
+1a4b6e32-aa3c-473b-bdc3-3340c3077191,2024-11-04,Moura - ME,Paulo Rodrigues,A certeza de evoluir em estado puro,Bebidas,90,62.46,0.09,Norte,Online,5115.47
+16b0123e-aa3e-44e0-97be-6e906ca54b6c,2024-08-09,Gomes e Filhos,Matteo Melo,A segurança de atingir seus objetivos com força total,Serviços,89,465.05,0.11,Sul,Representante,36836.61
+c3300b56-cbd5-46c1-89d4-a648df51774d,2024-07-10,Ribeiro Borges S.A.,Dra. Gabriela Azevedo,O poder de avançar mais rapidamente,Serviços,38,121.73,0.14,Oeste,Representante,3978.14
+95fb6f68-b855-4ff1-b85f-9fb8ffb499b2,2025-05-02,Cunha,José Pedro Viana,A vantagem de mudar sem preocupação,Bebidas,95,77.57,0.05,Oeste,Online,7000.69
+896c1e89-cf12-4fb2-ac78-5c89f836aeb9,2024-02-17,Cardoso,Maitê Fernandes,A simplicidade de realizar seus sonhos de maneira eficaz,Alimentação,61,151.34,0.18,Norte,Online,7570.03
+b6fab666-7401-4633-a0d4-be9781cba9db,2024-06-05,Siqueira,Emilly Porto,O poder de mudar de maneira eficaz,Bebidas,82,289.29,0.14,Leste,Online,20400.73
+9d3c2d5c-8a53-43a1-bdb8-400c70fc4d12,2024-06-09,Carvalho Rocha e Filhos,Maria Júlia Cavalcante,O poder de evoluir mais facilmente,Utensílios,24,123.23,0.05,Norte,Loja Física,2809.64
+12362cd4-47d5-4064-8535-3f2fdc9a7cb4,2023-11-08,Gomes,Sr. João Lucas Guerra,O conforto de atingir seus objetivos sem preocupação,Serviços,84,440.76,0.11,Centro,Representante,32951.22
+840a8d71-81f2-452c-8489-1903c81bd30e,2025-08-11,Melo,Nathan da Mota,O poder de atingir seus objetivos mais rapidamente,Utensílios,36,442.18,0.07,Norte,Telefone,14804.19
+eb07ae14-b922-41cf-b48e-9f1851fdd0c3,2025-01-10,Cardoso,Lucas da Rosa,A segurança de realizar seus sonhos antes de tudo,Bebidas,44,36.92,0.01,Leste,Representante,1608.24
+9aac6eba-a34b-47a7-9bee-3f075f265ec8,2025-03-31,da Cruz - ME,Henry Campos,O direito de mudar antes de tudo,Utensílios,51,81.22,0.06,Sul,Online,3893.69
+672b5a42-cef2-49de-bd6e-f96f2d979775,2025-01-18,Lima,Melina Cavalcante,A segurança de avançar com confiança,Alimentação,16,37.96,0.12,Oeste,Telefone,534.48
+a6bdd1d4-d6d9-42dd-b923-cbd71bd11f6a,2025-07-25,Pereira Marques - EI,Valentina Jesus,O direito de evoluir mais facilmente,Alimentação,22,318.46,0.17,Oeste,Loja Física,5815.08
+10dd3497-589a-4aac-9021-a82b53cbace1,2024-07-17,Fernandes,Dr. Guilherme Moura,A vantagem de atingir seus objetivos antes de tudo,Utensílios,67,102.31,0.15,Norte,Loja Física,5826.55
+763aa9fc-f90c-46c8-8813-81e3dd145889,2024-09-29,da Rosa,Henrique Camargo,A segurança de inovar com força total,Utensílios,71,177.66,0.2,Leste,Loja Física,10091.09
+47f79efc-45cb-44e3-9fab-d444d0c8849c,2024-10-24,Guerra,Ravi Lucca Santos,A possibilidade de atingir seus objetivos mais facilmente,Bebidas,22,80.77,0.14,Oeste,Representante,1528.17
+f1abab84-c02b-4bba-a658-4ab127f7f776,2025-06-25,da Rocha - EI,Bento Albuquerque,A segurança de concretizar seus projetos naturalmente,Utensílios,62,54.91,0.14,Leste,Loja Física,2927.8
+8755779a-2550-45db-9880-ab9e1090794b,2023-11-02,das Neves,Antony Alves,A segurança de inovar com confiança,Utensílios,88,317.8,0.03,Oeste,Online,27127.41
+0ef7176f-7a24-4258-a65a-dd562fd555e1,2023-12-16,Siqueira e Filhos,Davi Lucca Santos,A segurança de mudar direto da fonte,Alimentação,96,285.66,0.06,Sul,Representante,25777.96
+ac3a8654-c373-4f95-879a-869a81b8464a,2024-07-08,Nascimento,Marcelo Oliveira,A segurança de realizar seus sonhos direto da fonte,Utensílios,42,110.77,0.12,Centro,Telefone,4094.06
+0aa98e2e-78c7-47b1-a19b-912e6cce02c3,2024-07-06,Lopes - ME,Eloah Vieira,A arte de ganhar de maneira eficaz,Utensílios,43,107.95,0.03,Leste,Representante,4502.59
+01bf2af2-c942-4ade-93b3-10c8aba0f78a,2025-07-10,Costela,João Guilherme Guerra,O prazer de mudar simplesmente,Alimentação,52,141.02,0.03,Oeste,Online,7113.05
+1c429396-f362-4002-9e52-6ea455374cce,2023-10-31,Rezende - EI,Ana Sophia Barros,A vantagem de mudar naturalmente,Bebidas,78,393.86,0.18,Leste,Online,25191.29
+f9929556-4413-4f76-8575-0d81afd760a5,2025-03-01,Pires,Vitor Novaes,A arte de concretizar seus projetos naturalmente,Utensílios,12,487.81,0.02,Leste,Loja Física,5736.65
+8f277285-f540-4843-8f9c-73e4051dc9c6,2023-12-25,Borges Albuquerque Ltda.,João Miguel da Mata,O conforto de ganhar mais facilmente,Bebidas,26,278.57,0.04,Norte,Online,6953.11
+1659a411-8b7f-4e6a-a467-d77168f4a8cf,2024-10-12,Nogueira,Aurora Alves,A vantagem de ganhar mais rapidamente,Bebidas,46,31.54,0.01,Leste,Loja Física,1436.33
+c44c864c-804c-4e41-8ef2-c33ba8a46eb5,2024-12-11,da Mota,Pietra Duarte,O conforto de avançar direto da fonte,Alimentação,1,468.34,0.05,Sul,Loja Física,444.92
+68a28930-e8d3-4d88-8223-f1f86f2235d5,2023-11-04,Santos Cirino S/A,Dr. Yuri Rocha,A simplicidade de realizar seus sonhos sem preocupação,Serviços,6,95.0,0.16,Leste,Online,478.8
+6ad85838-b9ce-42a0-a81b-1785148fffdf,2024-02-02,Moura S/A,Pedro Pereira,A simplicidade de conseguir mais rapidamente,Serviços,20,120.51,0.03,Leste,Online,2337.89
+b88bab0c-6750-4b61-a894-a57644e193fc,2024-09-08,Porto,Maria Clara Correia,A segurança de avançar simplesmente,Bebidas,55,96.72,0.03,Centro,Online,5160.01
+186ce838-9c5b-43ee-b4c4-d53a6c4ac05d,2024-10-19,Rezende,Nicolas Vieira,A liberdade de evoluir naturalmente,Serviços,62,346.56,0.08,Sul,Loja Física,19767.78
+6f447dcf-b397-49d9-809a-adce5aac1315,2025-08-14,Cardoso,Milena Ribeiro,A simplicidade de realizar seus sonhos com confiança,Serviços,99,228.07,0.15,Centro,Online,19192.09
+90455a86-7cc6-434e-a16c-685d5e7cf9bb,2025-01-02,Brito,Emanuel Barbosa,O direito de mudar sem preocupação,Serviços,38,105.05,0.13,Norte,Loja Física,3472.95
+4416091f-b022-4cd0-a8aa-3d49f7f7f2b8,2025-02-08,Pimenta - EI,Lorenzo Nascimento,A liberdade de concretizar seus projetos simplesmente,Utensílios,70,353.89,0.11,Sul,Representante,22047.35
+be48dd5d-21eb-4083-aa5d-049b5d304f88,2024-04-08,Silveira,Theodoro Costa,A possibilidade de ganhar de maneira eficaz,Alimentação,96,354.51,0.1,Centro,Online,30629.66
+d31323c5-a145-4a35-b8d4-7950b64986c8,2024-09-26,Costela Lopes - EI,Srta. Maria Eduarda da Paz,A simplicidade de conseguir sem preocupação,Serviços,53,293.01,0.06,Centro,Online,14597.76
+7f3e3df8-c120-4fa1-9db9-6f836fd7b2cd,2024-03-29,Araújo Melo - ME,Sra. Gabriela Melo,O conforto de inovar com toda a tranquilidade,Utensílios,1,290.43,0.13,Oeste,Loja Física,252.67
+59d78912-e9e6-4e3b-b937-725959615ea9,2023-10-25,Cassiano,Maya Fogaça,O conforto de realizar seus sonhos com toda a tranquilidade,Serviços,61,367.45,0.14,Sul,Representante,19276.43
+027ed6c0-8323-46ad-9636-cf1803e56807,2024-12-30,Costa Rocha S.A.,Clarice da Rosa,A possibilidade de avançar de maneira eficaz,Utensílios,15,363.26,0.03,Leste,Telefone,5285.43
+fea0371c-ea73-42d0-9b58-fff8d4e7f0e9,2024-05-18,Teixeira,Bruna Ramos,A certeza de evoluir em estado puro,Alimentação,16,447.04,0.05,Centro,Online,6795.01
+5dd77f8b-da1e-4a57-928d-6bc121fe64da,2024-12-31,Mendes,Sr. Liam da Cunha,A vantagem de ganhar sem preocupação,Serviços,86,159.54,0.07,Oeste,Telefone,12760.01
+0e0fa11b-5aa9-47d4-806c-c194e18bb8b7,2025-07-06,Aparecida,Ana Clara Pastor,A segurança de ganhar de maneira eficaz,Bebidas,94,108.56,0.02,Sul,Representante,10000.55
+cfd12458-e184-4e5e-85d1-d2c3964005c9,2025-03-16,Borges Monteiro - ME,Ravi Lucca Mendonça,O prazer de conseguir com toda a tranquilidade,Alimentação,21,296.94,0.01,Oeste,Online,6173.38
+602e32e8-95d1-4253-856e-22e313b4a79b,2025-02-28,Monteiro - EI,Srta. Ana Sophia Costa,A segurança de mudar de maneira eficaz,Utensílios,99,367.49,0.15,Oeste,Telefone,30924.28
+213b334d-7523-4582-a1f4-509762a46fb2,2025-06-08,Cardoso - EI,José Pedro Rodrigues,A liberdade de evoluir em estado puro,Utensílios,46,268.1,0.04,Norte,Online,11839.3
+134a4b2c-7ad6-4dd2-9f19-afa6787d56e4,2023-12-16,Mendonça S.A.,Ana Clara da Cruz,A possibilidade de atingir seus objetivos com toda a tranquilidade,Bebidas,17,212.38,0.13,Norte,Loja Física,3141.1
+c363f1fa-cfec-47f6-b6e8-b9d76ce24614,2025-03-19,das Neves Rodrigues Ltda.,Sra. Yasmin Albuquerque,A simplicidade de evoluir com força total,Utensílios,95,194.98,0.12,Oeste,Representante,16300.33
+f8075f79-c6ec-4587-8d94-a75cd853fe53,2025-04-26,Barbosa Casa Grande e Filhos,Dr. Benício Cassiano,O direito de avançar direto da fonte,Utensílios,96,315.08,0.03,Leste,Online,29340.25
+73641768-1d19-4713-9e62-da422c8ca704,2024-09-25,da Luz,Olívia Moura,O prazer de atingir seus objetivos simplesmente,Alimentação,57,186.44,0.04,Oeste,Representante,10202.0
+74a17f3c-f43c-421f-9ba7-ea5fb3051f74,2024-04-05,Silva Porto e Filhos,Maysa Vargas,O conforto de realizar seus sonhos com toda a tranquilidade,Serviços,32,407.76,0.14,Norte,Online,11221.56
+3ceea555-5347-44c0-967b-60ad7fc1d808,2025-03-22,Melo,Julia Monteiro,A vantagem de mudar mais rapidamente,Serviços,32,493.24,0.08,Sul,Telefone,14520.99
+9bdd32f6-94c0-4829-8425-4079cdb18685,2024-11-03,Campos,Joaquim Macedo,O direito de ganhar mais rapidamente,Alimentação,27,234.14,0.12,Leste,Loja Física,5563.17
+5c41093e-a756-40fe-abca-1289d6eaad9d,2025-09-08,Melo,Mariah Cirino,A arte de evoluir sem preocupação,Bebidas,37,194.24,0.13,Oeste,Telefone,6252.59
+e95dd295-dfe6-471c-88ae-f875128b2edc,2024-01-24,Rodrigues,Ana Carolina Cavalcanti,O direito de concretizar seus projetos de maneira eficaz,Alimentação,46,456.96,0.05,Oeste,Loja Física,19969.15
+72e1a09f-b25f-4d9d-9dec-baf42594c447,2025-05-18,Vieira S/A,Vicente Fogaça,A simplicidade de avançar com força total,Bebidas,36,225.19,0.13,Centro,Online,7052.95
+49a48941-e097-48e4-8843-48d2467c7f03,2025-08-14,da Rosa,Maya Casa Grande,A possibilidade de realizar seus sonhos direto da fonte,Utensílios,60,88.3,0.07,Leste,Loja Física,4927.14
+7becc815-8632-44e7-b057-b0d60afebb26,2024-05-03,Rios,Dr. Isaque da Mota,A possibilidade de inovar sem preocupação,Alimentação,2,205.42,0.0,Sul,Online,410.84
+cbcdd1b5-aa7b-4cae-adb1-cc2ab368ca8a,2025-06-09,Andrade S.A.,Sr. Arthur Miguel Ramos,O prazer de ganhar de maneira eficaz,Alimentação,60,262.93,0.05,Oeste,Online,14987.01
+472ccbe8-7105-45ab-b201-479b7081da18,2025-03-21,Gomes,Cecília da Cruz,A possibilidade de evoluir com força total,Utensílios,60,90.94,0.18,Norte,Loja Física,4474.25
+ca2670c1-0d18-4ac4-805f-0798dc5a55eb,2025-04-27,Machado Abreu S/A,Heitor Camargo,A certeza de realizar seus sonhos com toda a tranquilidade,Serviços,67,163.47,0.17,Leste,Loja Física,9090.57
+d36bcb71-769a-495e-9c79-002a349ee438,2025-06-03,Viana Garcia S.A.,Dr. José Cassiano,A liberdade de ganhar de maneira eficaz,Bebidas,14,80.29,0.14,Norte,Online,966.69
+4c3b73b9-d613-43ef-ba5f-894391c9934b,2024-11-10,Cirino,Calebe Dias,O prazer de atingir seus objetivos sem preocupação,Serviços,5,251.5,0.0,Norte,Representante,1257.5
+4c53ca7e-abed-4a8f-958f-7c43cdfba642,2024-03-04,Nunes,Renan Moura,A simplicidade de concretizar seus projetos sem preocupação,Utensílios,72,339.94,0.15,Leste,Representante,20804.33
+52beb0ac-06da-4293-8462-5a4c187aa03d,2023-12-14,Albuquerque,Arthur Gabriel Nascimento,O conforto de ganhar simplesmente,Bebidas,46,294.61,0.02,Leste,Representante,13281.02
+89803d80-ef86-4a0e-b95b-586e587a8e49,2025-07-25,Nogueira Azevedo S/A,João Guilherme da Mota,O direito de atingir seus objetivos mais rapidamente,Alimentação,18,216.55,0.19,Centro,Online,3157.3
+aebc2333-761a-464e-b528-9b8e9e9ea556,2024-12-27,Casa Grande,Nina Marques,A possibilidade de concretizar seus projetos mais facilmente,Bebidas,33,129.73,0.17,Oeste,Online,3553.3
+22a2d5be-b49d-4274-9d54-011c4b138aaf,2024-01-10,Pacheco,Pedro Miguel Carvalho,A simplicidade de realizar seus sonhos direto da fonte,Utensílios,96,112.83,0.06,Leste,Telefone,10181.78
+b551c442-6a5b-4c54-968b-2bd46ba5cef3,2025-08-25,Andrade Machado - ME,Yago Machado,A segurança de evoluir com confiança,Bebidas,2,353.32,0.14,Sul,Online,607.71
+28e5349d-6497-4fe3-9cf7-0ea835fb223b,2024-03-26,Moraes S.A.,Calebe Castro,A vantagem de inovar em estado puro,Utensílios,79,217.29,0.02,Oeste,Loja Física,16822.59
+73d8e8b6-e654-4aeb-997f-15d6877f341e,2024-09-09,Alves Rodrigues e Filhos,Gabrielly Rodrigues,A segurança de concretizar seus projetos sem preocupação,Alimentação,78,230.83,0.13,Sul,Loja Física,15664.12
+f094d26c-fb80-4b37-b1fe-3f95eabb3c6f,2024-09-17,Garcia - ME,Melissa Monteiro,O poder de concretizar seus projetos com toda a tranquilidade,Alimentação,22,393.5,0.03,Leste,Loja Física,8397.29
+bcc97c77-4bf6-4a57-92a0-3bdf03fe553e,2025-06-12,Silva,Daniela Casa Grande,O poder de evoluir direto da fonte,Alimentação,60,27.3,0.16,Sul,Online,1375.92
+4d48cc96-81fc-4f04-9a73-f1100a1c62e2,2023-10-29,Pastor,Lorenzo Pires,A arte de concretizar seus projetos em estado puro,Bebidas,56,213.85,0.16,Oeste,Loja Física,10059.5
+3497e4f8-57b5-4fcb-9405-631a74553802,2025-03-26,Nascimento,Juan Castro,A segurança de ganhar sem preocupação,Serviços,66,409.05,0.16,Centro,Representante,22677.73
+386838fa-8a68-4580-9c89-f26ce4930970,2025-04-23,Pacheco - EI,Melina Brito,O conforto de mudar com confiança,Serviços,73,225.27,0.15,Centro,Representante,13978.0
+3120fa82-068e-4148-9993-084cab957f22,2025-10-05,Gomes - EI,Emanuelly Pacheco,O conforto de atingir seus objetivos com toda a tranquilidade,Utensílios,6,489.34,0.18,Sul,Loja Física,2407.55
+7993bf47-8efb-42b0-a2e6-fe288512ddb5,2024-03-02,Lopes Duarte S.A.,Maitê Cirino,O direito de realizar seus sonhos com força total,Alimentação,70,477.86,0.06,Sul,Representante,31443.19
+fb062cca-ef13-4cb9-9b04-9c5c97c9785b,2024-02-15,Caldeira,Clarice Rezende,A arte de avançar de maneira eficaz,Serviços,44,342.21,0.06,Norte,Representante,14153.81
+ad69360d-ba05-403f-a885-344860135443,2024-09-20,Vieira,Alexia Ramos,A segurança de concretizar seus projetos simplesmente,Serviços,49,64.5,0.01,Sul,Telefone,3128.89
+54f5f35d-e911-45e6-8417-aa490f88a0d7,2024-10-02,Azevedo Fonseca e Filhos,Ana Cecília Aragão,O poder de evoluir sem preocupação,Alimentação,74,18.18,0.12,Sul,Representante,1183.88
+972c1085-ee55-4d0e-9724-2c742c95a692,2024-11-03,Rezende,Srta. Maria Isis Brito,O conforto de ganhar simplesmente,Utensílios,18,31.19,0.06,Oeste,Online,527.73
+23e1cdde-40fd-4fcb-b94c-848d31b5734d,2024-11-05,Cassiano Novais - EI,Eduarda Mendonça,O prazer de conseguir direto da fonte,Bebidas,80,308.31,0.15,Oeste,Representante,20965.08
+92d1ee2e-da76-4707-ab41-71b2fccf88d3,2024-01-27,Porto Ltda.,Rafael Garcia,A segurança de mudar em estado puro,Bebidas,79,229.93,0.18,Leste,Loja Física,14894.87
+f3255cb2-6d0d-4129-ab80-d9efa655a17d,2025-01-06,Santos S/A,Alexandre Silveira,A arte de concretizar seus projetos em estado puro,Serviços,1,121.25,0.11,Centro,Telefone,107.91
+93b9b90b-9b60-4367-a0de-49909f091e10,2024-10-31,Aparecida,Nathan Correia,A certeza de ganhar antes de tudo,Alimentação,62,493.36,0.09,Oeste,Representante,27835.37
+05e4850f-cf12-4f93-9ab8-dee6a05f99f2,2024-06-14,Farias,Bruno Rios,A simplicidade de mudar mais rapidamente,Bebidas,64,458.98,0.01,Oeste,Representante,29080.97
+db3a5acf-cb89-4b87-b6c5-7e7624ae01aa,2025-04-08,Rezende Alves e Filhos,João Gabriel Martins,O poder de atingir seus objetivos mais facilmente,Serviços,80,246.63,0.09,Oeste,Telefone,17954.66
+217288a3-5170-475b-b6ae-58223356e1bd,2025-01-12,Pinto Borges e Filhos,Ana Júlia Pires,A arte de inovar de maneira eficaz,Utensílios,81,59.3,0.13,Centro,Telefone,4178.87
+e561575a-bcab-4701-be8c-672be0575fe9,2024-10-18,Campos Rezende - EI,Cauã Barbosa,A segurança de realizar seus sonhos sem preocupação,Utensílios,72,123.31,0.14,Oeste,Online,7635.36
+c76057ec-9195-46c8-8c8c-33ec354fbd69,2024-08-12,Freitas Siqueira S.A.,Ana Sampaio,A simplicidade de evoluir mais facilmente,Alimentação,27,292.18,0.19,Centro,Online,6389.98
+3100db88-1383-440b-a0dc-c1c278d58a62,2025-07-18,Porto da Cruz - ME,Dra. Daniela Fernandes,A liberdade de atingir seus objetivos com força total,Alimentação,79,220.44,0.18,Oeste,Online,14280.1
+4212f7f0-04a2-4b32-8404-81b8227e81ca,2024-05-23,Porto Ltda.,Rhavi Sousa,O conforto de inovar de maneira eficaz,Alimentação,27,62.25,0.05,Leste,Online,1596.71
+82fc0c50-1648-4854-9532-315bbc120a09,2025-09-30,da Cunha,Heitor Souza,A arte de inovar simplesmente,Utensílios,53,330.83,0.03,Norte,Loja Física,17007.97
+2d4ec13c-c8ac-41d2-9f1b-9674d9dc23f7,2024-03-09,Pimenta,Vitor Gabriel Freitas,A vantagem de inovar de maneira eficaz,Utensílios,61,341.42,0.12,Oeste,Telefone,18327.43
+0377a1f0-63fa-4add-bcf3-926f960cd5db,2024-01-13,Machado,Mateus Ferreira,A arte de realizar seus sonhos com confiança,Serviços,74,151.73,0.16,Sul,Loja Física,9431.54
+0001ec55-d573-4036-9010-5ae0668b3345,2024-10-28,Rodrigues Ltda.,Helena Rezende,A simplicidade de evoluir simplesmente,Alimentação,87,262.12,0.17,Norte,Representante,18927.69
+72ee4204-b78e-4404-9ab6-dcd97c9d9809,2025-10-03,Siqueira,Dom Oliveira,A liberdade de inovar mais rapidamente,Alimentação,59,102.87,0.16,Leste,Representante,5098.24
+50f53ace-a51c-474f-86af-bad5ce9003f4,2025-07-04,Rocha,Maria Clara Cassiano,A segurança de mudar antes de tudo,Utensílios,86,412.21,0.06,Norte,Representante,33323.06
+0443366e-d236-4965-8aa5-311a45b2637b,2023-10-17,Freitas Viana Ltda.,Rafael da Costa,A arte de evoluir com confiança,Utensílios,50,250.0,0.16,Sul,Loja Física,10500.0
+9cb27a3a-0dc8-4874-95f7-7e8a89ee052b,2024-01-16,Leão,Ana Sophia Silveira,O poder de evoluir com toda a tranquilidade,Bebidas,53,68.78,0.11,Oeste,Loja Física,3244.35
+5c2c8f60-046d-44ac-9a81-935ced241f2f,2024-11-18,Rezende,Alícia Farias,A arte de ganhar antes de tudo,Bebidas,95,373.63,0.01,Leste,Loja Física,35139.9
+8f5f0344-b540-40ee-81fe-b1b8a6d6b14b,2024-03-07,Rocha,Vinícius Costa,O poder de conseguir direto da fonte,Serviços,44,212.29,0.1,Norte,Representante,8406.68
+998c46c5-ab5c-4e0d-8460-3f65fb473929,2023-11-16,Rocha,Arthur Miguel da Rosa,O prazer de conseguir direto da fonte,Bebidas,67,264.65,0.01,Oeste,Online,17554.23
+1e0081fe-e0be-47cc-8274-140c21b1b5cc,2024-01-03,Porto - EI,Sofia Cardoso,A arte de ganhar em estado puro,Serviços,54,80.77,0.16,Oeste,Telefone,3663.73
+2dc84a70-d629-4141-af50-ff8d928cee0c,2025-04-16,Pimenta,Davi Lucca Rocha,A liberdade de conseguir em estado puro,Serviços,47,258.25,0.19,Leste,Loja Física,9831.58
+f1a14f7e-0262-4af6-ba2f-3566d2354dea,2024-04-11,Carvalho S/A,Brenda Pinto,A simplicidade de atingir seus objetivos mais rapidamente,Utensílios,45,325.89,0.12,Centro,Online,12905.24
+4585d39f-edeb-4357-bd11-739da1e2fda7,2024-09-10,Sá S.A.,Bryan Nascimento,O conforto de ganhar com confiança,Alimentação,66,458.95,0.04,Norte,Loja Física,29079.07
+04e42af7-04f5-4367-bdf4-edfe6b36f97a,2024-08-22,Barbosa,Marcela Silveira,A certeza de ganhar direto da fonte,Alimentação,21,51.82,0.16,Sul,Representante,914.1
+adb4a92c-4e39-4c23-a63b-2a10dd2acd29,2025-05-16,Albuquerque da Mota - EI,Otto Cavalcanti,A liberdade de concretizar seus projetos com toda a tranquilidade,Utensílios,55,320.25,0.01,Sul,Online,17437.61
+8697ef1b-8732-4c6b-9375-8634962cdd61,2025-01-29,Dias,Cauã da Costa,O prazer de concretizar seus projetos mais rapidamente,Bebidas,100,442.76,0.2,Oeste,Telefone,35420.8
+40408fde-a141-47d4-be36-e0c36f444546,2025-05-30,da Mota Melo - EI,Josué da Cunha,O conforto de inovar em estado puro,Bebidas,89,370.55,0.07,Oeste,Representante,30670.42
+2cc79c4f-db7d-4a40-80b6-ca53cf96af49,2024-07-23,Novaes,Pietro da Cruz,O poder de atingir seus objetivos simplesmente,Alimentação,93,279.41,0.02,Norte,Telefone,25465.43
+d97ef79a-77bb-4dda-9b7f-a5d8cfbca2ba,2023-12-28,Teixeira,Yasmin Carvalho,O prazer de mudar em estado puro,Utensílios,60,294.56,0.05,Centro,Online,16789.92
+c3d7a9b8-1383-46ba-80c0-094aa57af516,2025-06-11,Costa,Emanuella da Conceição,A simplicidade de ganhar antes de tudo,Alimentação,77,192.71,0.15,Oeste,Loja Física,12612.87
+9db88213-7dcf-455e-ba74-1bf20a7c566e,2024-04-01,Caldeira Porto S/A,Alice Ferreira,A possibilidade de concretizar seus projetos mais facilmente,Bebidas,94,144.92,0.0,Oeste,Loja Física,13622.48
+8dce335d-b6a6-41aa-b980-431407a07d60,2024-02-08,Nunes da Rocha e Filhos,Ravi Lucca da Paz,A arte de ganhar com força total,Serviços,18,242.13,0.07,Oeste,Representante,4053.26
+3889c5d4-a482-4a2b-9915-e8dbfd2b77b0,2025-03-04,Souza,Enrico da Mota,A arte de atingir seus objetivos mais facilmente,Utensílios,17,140.94,0.03,Norte,Telefone,2324.1
+b292420c-3fb5-48d9-8545-5475524a4a5e,2025-07-12,Fernandes,Sra. Isadora Cardoso,A liberdade de realizar seus sonhos com força total,Bebidas,31,43.68,0.01,Norte,Representante,1340.54
+5a951dbf-b45e-48a0-ae56-b804a9195496,2023-12-26,Costa,Bianca Sá,A possibilidade de ganhar antes de tudo,Bebidas,93,363.71,0.18,Sul,Representante,27736.52
+02412da3-9601-4a09-93d5-33ced6f4c653,2024-02-26,da Conceição Lima Ltda.,Alexia Rodrigues,A certeza de mudar com força total,Alimentação,40,322.65,0.08,Leste,Loja Física,11873.52
+ce8291c2-0ce4-4f6f-8ed7-05f68c0429cf,2024-04-04,Farias Silva S.A.,Kaique Sales,O conforto de ganhar de maneira eficaz,Utensílios,48,442.32,0.05,Oeste,Online,20169.79
+1864439d-b144-453f-979f-05af571cd891,2025-07-24,Leão,Emanuella das Neves,A segurança de avançar direto da fonte,Utensílios,88,279.55,0.13,Norte,Online,21402.35
+fbe02e09-a976-4e19-9510-9da2460d7d62,2023-10-14,Borges Cardoso e Filhos,Liam Sá,O direito de ganhar simplesmente,Bebidas,79,106.41,0.06,Oeste,Loja Física,7902.01
+5132dab2-4465-4986-a5ab-cef47990f53d,2025-01-15,Pires,Ester Farias,O direito de conseguir direto da fonte,Utensílios,98,80.79,0.06,Sul,Loja Física,7442.37
+4332418b-1535-4426-915f-f54b4c9464b0,2025-05-17,Moreira Teixeira - EI,Vitória Freitas,O poder de ganhar antes de tudo,Bebidas,72,390.82,0.09,Norte,Loja Física,25606.53
+734669d1-9e1a-4387-888f-8f25b3612cd7,2025-01-21,da Conceição - EI,Mathias Peixoto,O prazer de evoluir mais facilmente,Bebidas,41,113.08,0.06,Oeste,Representante,4358.1
+ca3e7fcb-c221-4090-a293-e6cbd22fd692,2023-12-27,da Cunha,Sr. Benicio Machado,A vantagem de inovar antes de tudo,Alimentação,65,305.76,0.05,Leste,Telefone,18880.68
+f21382d3-4d28-43be-9b7d-cd35520ce4b9,2025-09-15,Freitas,Nicole Ferreira,A arte de inovar em estado puro,Bebidas,64,364.01,0.1,Oeste,Online,20966.98
+8e890c84-1501-4750-92b6-9254e1e8a8b1,2025-01-25,Rodrigues,Vitória Marques,A vantagem de mudar naturalmente,Alimentação,98,121.03,0.12,Oeste,Telefone,10437.63
+b0d54cc6-6e94-410d-9421-c14780225d16,2024-12-02,Nascimento,Sr. João Guilherme Pinto,A possibilidade de concretizar seus projetos de maneira eficaz,Bebidas,5,462.41,0.13,Leste,Representante,2011.48
+248b742c-6de1-4c9f-b403-cfb07420be9c,2025-04-11,Ramos Abreu Ltda.,Milena Albuquerque,A segurança de evoluir antes de tudo,Alimentação,72,319.62,0.16,Oeste,Representante,19330.62
+b17d6f17-1ebe-4969-b7e4-9837f8d4aab0,2024-07-29,Albuquerque,Calebe Teixeira,A arte de atingir seus objetivos mais rapidamente,Utensílios,93,198.68,0.08,Leste,Online,16999.06
+0efa3ff0-7471-4f19-bb29-41850f094036,2025-06-07,Vieira Ltda.,Amanda Rios,A liberdade de realizar seus sonhos em estado puro,Bebidas,42,169.05,0.06,Leste,Online,6674.09
+8a6017bf-0037-4512-9183-81e4fcae0117,2025-08-03,Caldeira Moreira S/A,Diego da Costa,A arte de avançar mais rapidamente,Utensílios,88,203.29,0.13,Norte,Loja Física,15563.88
+db8a37c3-4a81-4cd0-9810-52fcc52485cb,2024-07-14,Castro Pinto - ME,Dr. Yan Porto,A liberdade de realizar seus sonhos sem preocupação,Utensílios,35,250.92,0.03,Oeste,Representante,8518.73
+6d50fea0-6f6c-4d83-8a63-6890ace68279,2025-07-11,da Luz,Bruno Silva,A simplicidade de inovar naturalmente,Serviços,80,122.49,0.09,Leste,Representante,8917.27
+d0fe3d7b-c074-4c49-bc35-4b3bd28256fc,2025-03-04,Gonçalves,Cauê Casa Grande,A simplicidade de avançar mais rapidamente,Serviços,35,130.74,0.07,Norte,Telefone,4255.59
+3e54e4bf-8db4-49a0-86da-565cb9622731,2024-09-11,Albuquerque,Pedro Lucas Pinto,A possibilidade de realizar seus sonhos com confiança,Alimentação,4,305.13,0.14,Oeste,Telefone,1049.65
+c1f775ac-6ca9-49b5-8ac1-50c96c09c0e6,2023-10-06,Silva Pacheco S/A,Danilo Silveira,O poder de ganhar sem preocupação,Alimentação,60,12.78,0.01,Centro,Online,759.13
+39d66a6c-6cee-46e7-85e8-a43b9e872041,2025-02-10,Sousa,Sr. Anthony Gabriel Ferreira,A possibilidade de realizar seus sonhos sem preocupação,Serviços,68,38.99,0.1,Norte,Representante,2386.19
+af5ec7f6-d0bc-44b7-a3ce-1e448a07dd31,2024-04-22,Novais,João Gabriel Ramos,A segurança de avançar com toda a tranquilidade,Utensílios,1,419.71,0.06,Centro,Online,394.53
+97d19585-762c-4572-8d98-8ca3fbd104e8,2025-08-31,Souza Cunha S.A.,Calebe Novais,O conforto de evoluir com força total,Bebidas,76,27.71,0.15,Norte,Online,1790.07
+144cb1ef-04e7-4dc4-9029-218bb30ee753,2025-02-07,Dias S/A,Davi Lucca Cavalcanti,O prazer de inovar com força total,Serviços,81,130.13,0.17,Oeste,Representante,8748.64
+e36fcfd7-f97d-4508-b2ae-98d49dfde55e,2025-01-21,Viana,Caio Rocha,O poder de ganhar antes de tudo,Serviços,91,308.59,0.03,Oeste,Representante,27239.24
+8badc752-e2a9-48b2-8430-ff72a2656d6c,2025-03-20,Rios,Gael Henrique Camargo,O prazer de mudar com toda a tranquilidade,Utensílios,51,365.26,0.13,Norte,Representante,16206.59
+141d1003-0f25-4464-ad12-e3146debf69c,2024-01-03,Novaes,Emanuel Gonçalves,A vantagem de ganhar simplesmente,Bebidas,93,134.38,0.18,Norte,Representante,10247.82
+9603f5aa-9902-41b8-96d5-65af21c93c35,2025-03-14,Moraes Ltda.,Marcos Vinicius Silva,A simplicidade de realizar seus sonhos simplesmente,Utensílios,71,305.8,0.12,Sul,Loja Física,19106.38
+b2e5f92c-b543-4b36-8f4d-35606a48861d,2023-10-23,Costa,Maria Fernanda Gomes,A liberdade de ganhar direto da fonte,Serviços,50,426.43,0.08,Centro,Representante,19615.78
+1500face-e770-442d-86ad-404988bc3fac,2023-12-10,Pimenta Gomes S/A,Léo Pires,A segurança de mudar com confiança,Bebidas,66,110.57,0.16,Oeste,Telefone,6130.0
+8b29d3ec-4013-4ad7-bdbe-2854ffc0e8a8,2024-04-25,Dias Carvalho e Filhos,Catarina Fernandes,A vantagem de avançar de maneira eficaz,Utensílios,51,190.92,0.13,Centro,Online,8471.12
+ba9b9358-24dd-4a5c-8838-f474d0e25e8e,2025-09-04,Ribeiro da Conceição e Filhos,Srta. Catarina Câmara,A possibilidade de atingir seus objetivos simplesmente,Serviços,24,424.11,0.15,Norte,Loja Física,8651.84
+4fe796a5-1d8f-4428-9aa9-942cd1284223,2023-11-16,Leão e Filhos,Carlos Eduardo Sales,O direito de ganhar direto da fonte,Alimentação,11,149.29,0.17,Norte,Online,1363.02
+c084d280-4bc5-4ed3-b047-f5ca1b8b7998,2025-05-17,Ferreira,Ryan Correia,A liberdade de avançar sem preocupação,Bebidas,94,399.88,0.19,Leste,Representante,30446.86
+d52a0c71-66d8-4c55-ac9b-415b000e0048,2025-06-28,Aragão,Zoe da Luz,A vantagem de conseguir direto da fonte,Utensílios,37,347.99,0.12,Oeste,Loja Física,11330.55
+38362d13-e2a6-4946-84dd-16d00baa0681,2024-06-14,Casa Grande,Antônio Lima,A arte de atingir seus objetivos mais rapidamente,Utensílios,73,29.23,0.11,Norte,Loja Física,1899.07
+c6e597d3-795f-488f-82fd-396cf04b2e98,2024-10-10,Vargas,Ravi Lopes,A segurança de avançar em estado puro,Bebidas,37,288.47,0.17,Norte,Loja Física,8858.91
+278b5f1f-581e-466f-87ca-5e8c9bcbb2bc,2023-11-27,Aragão,Maitê Dias,A possibilidade de conseguir simplesmente,Serviços,14,56.22,0.1,Centro,Loja Física,708.37
+def49b49-ad4f-4edf-8f5b-1679cd61dfab,2024-08-23,Souza,Dante Pacheco,O prazer de concretizar seus projetos mais rapidamente,Utensílios,58,239.13,0.13,Oeste,Telefone,12066.5
+5c908c7e-18d7-4be9-91ad-43e9025cc854,2025-03-29,Rocha,Josué Fonseca,O prazer de realizar seus sonhos antes de tudo,Bebidas,83,128.89,0.05,Centro,Online,10162.98
+52b2f7af-338e-43dc-b65a-d2607fb3cae4,2024-10-28,Caldeira,Gael Caldeira,O direito de atingir seus objetivos de maneira eficaz,Utensílios,42,271.7,0.15,Centro,Loja Física,9699.69
+045775cc-1117-484e-9d73-e7be26addf83,2024-04-02,da Mata Costela S/A,Matheus Novais,A vantagem de realizar seus sonhos antes de tudo,Utensílios,6,74.02,0.12,Centro,Loja Física,390.83
+2df5c502-612f-4617-a409-bbc0072cc773,2024-12-07,Nunes Moraes Ltda.,Srta. Maria Vitória Nunes,O poder de atingir seus objetivos mais facilmente,Utensílios,99,188.72,0.13,Leste,Telefone,16254.45
+266e28a1-e53f-4a52-997e-5e534dcc4b42,2025-05-02,da Rosa - EI,Catarina Montenegro,A segurança de conseguir em estado puro,Serviços,30,204.63,0.03,Sul,Loja Física,5954.73
+68f29489-9383-4ff3-8373-2ea87a710494,2025-04-26,Vargas,Sr. Mateus Guerra,A vantagem de ganhar mais rapidamente,Serviços,21,405.51,0.17,Oeste,Telefone,7068.04
+98f15ed1-b8c2-4a25-ab03-452bac776eb1,2024-07-02,Almeida,João Guilherme Sá,A simplicidade de evoluir mais facilmente,Alimentação,50,448.92,0.04,Leste,Representante,21548.16
+53b5cf93-9768-4c2f-b201-794f5771d0f1,2024-04-21,Pacheco,Isaac Fernandes,O direito de evoluir mais rapidamente,Alimentação,90,391.81,0.01,Norte,Loja Física,34910.27
+24bce0a5-9145-4172-adfb-2f30be3ad1dd,2024-08-10,Caldeira,Ana Lívia Gomes,O conforto de inovar sem preocupação,Utensílios,58,219.53,0.08,Sul,Loja Física,11714.12
+cbadbe1a-d0dc-4714-94a8-dbd5864e8975,2024-09-26,Sampaio,Maria Laura Macedo,A certeza de evoluir direto da fonte,Utensílios,70,76.92,0.11,Sul,Representante,4792.12
+9cf40c30-5ba2-491f-a955-eac714236a8f,2024-08-01,Gomes S/A,Luiz Gustavo Brito,A certeza de realizar seus sonhos mais rapidamente,Alimentação,34,414.63,0.16,Norte,Loja Física,11841.83
+a7dfab8a-a7da-42ff-90dc-ae7077a6ccec,2023-12-22,Pinto,Dra. Agatha Garcia,A segurança de avançar de maneira eficaz,Alimentação,37,74.67,0.11,Centro,Online,2458.88
+52bb47cb-36dd-40f5-8c66-b5df60f63f50,2024-11-25,Siqueira,José Miguel Farias,A vantagem de mudar antes de tudo,Bebidas,90,275.28,0.12,Oeste,Telefone,21802.18
+28698d91-4d6b-4ab2-a7db-dcc50a739d08,2024-12-16,Câmara,Gustavo Rocha,A arte de concretizar seus projetos sem preocupação,Utensílios,87,410.49,0.17,Centro,Telefone,29641.48
+48fe9946-6db5-4b4a-8665-dad44e3dd360,2024-05-10,Pimenta,Maria Laura Souza,A liberdade de concretizar seus projetos naturalmente,Alimentação,26,437.95,0.13,Norte,Telefone,9906.43
+4c57ad26-746b-4bf2-a8ac-735430fc7635,2024-06-24,Gonçalves S.A.,Aurora Silva,A vantagem de inovar antes de tudo,Bebidas,99,165.39,0.09,Norte,Online,14899.99
+da4779d8-9104-4198-91b5-9029656aeb63,2025-03-12,da Cunha,Letícia Machado,A liberdade de concretizar seus projetos direto da fonte,Alimentação,26,443.82,0.08,Oeste,Loja Física,10616.17
+75b93504-5d14-463d-a5d5-92237979fc2a,2025-09-07,Marques Mendes Ltda.,Hadassa Cavalcanti,O conforto de ganhar com força total,Alimentação,83,26.21,0.02,Norte,Online,2131.92
+6e0d4b13-8c47-4821-9c07-608c3c787ed8,2024-05-22,Abreu,Dr. Vitor Ferreira,A possibilidade de mudar simplesmente,Utensílios,8,399.3,0.05,Norte,Telefone,3034.68
+7a6e852c-1a84-4938-a943-79991fe0e1f4,2024-11-20,Monteiro - ME,Daniel Novais,A vantagem de conseguir simplesmente,Alimentação,13,487.73,0.02,Norte,Representante,6213.68
+69618ff8-a05c-4113-83c1-221311f0d25d,2024-01-28,Cardoso Barros S/A,Bárbara Pereira,A liberdade de atingir seus objetivos antes de tudo,Utensílios,48,491.01,0.04,Leste,Telefone,22625.74
+a4e0e6fd-9625-46a0-aded-5708e8249d16,2024-10-08,Pacheco Azevedo S.A.,Maria Helena Freitas,A vantagem de inovar em estado puro,Serviços,68,27.9,0.16,Norte,Loja Física,1593.65
+904d3b12-74ed-4a87-a35e-e0058bf4a024,2025-03-13,Rodrigues S/A,Laís Silva,A possibilidade de inovar antes de tudo,Utensílios,23,292.32,0.18,Centro,Online,5513.16
+d49ded8d-3f11-45dd-8e97-c047b4a7f3ab,2024-06-17,Caldeira,Davi Lucca Pereira,A segurança de conseguir mais rapidamente,Bebidas,14,82.32,0.01,Norte,Loja Física,1140.96
+e19a4eaa-86ab-4f3b-9e7e-f028dae523d2,2025-07-23,Rodrigues,Davi Lucas Lopes,O prazer de mudar com força total,Serviços,6,75.83,0.15,Norte,Online,386.73
+3453f578-068b-4771-9d22-ec18715ea2c4,2023-11-15,Jesus - ME,Henrique Lopes,O poder de realizar seus sonhos direto da fonte,Utensílios,11,118.28,0.03,Norte,Telefone,1262.05
+44392309-cf86-4fea-97ae-13e880500f6f,2024-09-14,Cassiano - EI,Sr. Felipe Mendonça,O prazer de ganhar com toda a tranquilidade,Utensílios,43,257.96,0.09,Norte,Online,10093.97
+6d8cb40d-4d4c-4097-a89d-90adf3f8b53d,2025-03-29,Pereira,Dr. Mathias Duarte,O direito de concretizar seus projetos de maneira eficaz,Utensílios,28,91.65,0.19,Oeste,Representante,2078.62
+32f35df7-931f-4869-82e3-af0b35863db9,2024-04-23,Vargas Cunha Ltda.,Dr. Renan da Costa,A simplicidade de evoluir mais facilmente,Alimentação,43,254.11,0.08,Norte,Telefone,10052.59
+6f2a6ad9-1725-445e-a184-12634d1996ab,2025-04-04,das Neves,Sr. Davi Luiz Duarte,O conforto de avançar com confiança,Utensílios,24,299.54,0.17,Norte,Loja Física,5966.84
+ee7d14e3-d6cb-41cf-af82-6682f1f07470,2025-06-09,Pereira,Alexandre Abreu,O poder de atingir seus objetivos simplesmente,Alimentação,89,375.56,0.06,Norte,Loja Física,31419.35
+2f1b3271-6902-4a1e-b805-0f01106be71c,2025-04-10,Freitas S.A.,Dr. Breno Moraes,O conforto de ganhar mais facilmente,Serviços,85,85.45,0.01,Oeste,Online,7190.62
+cd229f96-b6dd-4242-be6d-af7795c24272,2024-11-17,Mendonça,Matteo Rezende,A liberdade de realizar seus sonhos simplesmente,Serviços,50,112.75,0.16,Centro,Loja Física,4735.5
+ad3ec8d4-d5de-4fde-a138-b2607490261d,2024-05-01,Gonçalves S/A,Davi Lucca Lopes,A arte de realizar seus sonhos com confiança,Utensílios,91,223.8,0.19,Centro,Telefone,16496.3
+2ea40c3f-f41a-448c-af96-c94848ea1f81,2024-10-08,Porto Ltda.,Sr. Bruno Novaes,O direito de mudar mais rapidamente,Serviços,12,167.95,0.19,Oeste,Loja Física,1632.47
+d6501f96-27ca-420e-b8e4-0b0cf780daff,2024-01-25,da Paz - ME,Maria Flor Ribeiro,O direito de realizar seus sonhos simplesmente,Bebidas,16,279.47,0.07,Oeste,Online,4158.51
+bebf40bd-ecfe-4988-ae03-cf0ba33dd724,2024-03-04,Cardoso,Srta. Maya Fogaça,O direito de inovar com toda a tranquilidade,Alimentação,87,352.68,0.14,Centro,Loja Física,26387.52
+1090bf0f-f29e-4532-b936-ca293f0bcde8,2024-11-05,Barbosa,Eloah das Neves,O poder de evoluir com toda a tranquilidade,Alimentação,43,60.96,0.12,Leste,Representante,2306.73
+a734d540-d3fe-4180-b4c9-129b5f30243f,2025-01-07,Alves S/A,Dr. Cauã Rezende,A simplicidade de atingir seus objetivos direto da fonte,Alimentação,77,19.87,0.05,Leste,Telefone,1453.49
+0ef7ef03-dd4e-4688-9884-a258260a5ad8,2025-02-20,Fernandes Carvalho Ltda.,Srta. Manuella da Costa,O conforto de conseguir direto da fonte,Alimentação,75,252.72,0.06,Sul,Representante,17816.76
+7faf069c-f6bd-48be-bf78-4a1b17d1d1ba,2023-11-02,Azevedo,Mariane Pastor,O direito de ganhar de maneira eficaz,Bebidas,82,110.01,0.01,Oeste,Loja Física,8930.61
+61a11ea9-397e-4ccb-865c-650e6fe6a495,2025-07-07,Vieira,Davi Miguel Monteiro,O conforto de avançar com confiança,Bebidas,68,35.4,0.0,Leste,Loja Física,2407.2
+72b2b6f6-d29a-4800-9559-863a5c48963c,2024-05-18,Novais,Cauê Montenegro,O conforto de evoluir com confiança,Bebidas,91,32.69,0.0,Sul,Representante,2974.79
+f861fb52-043f-4ee3-9677-4ab14e90920d,2025-01-19,Rios,Liam Ferreira,A liberdade de avançar mais rapidamente,Alimentação,38,203.9,0.18,Leste,Loja Física,6353.52
+d57df752-41b3-4bf5-ba16-78b2f14b0321,2025-10-03,Ferreira Pacheco - EI,Ravi Macedo,A vantagem de realizar seus sonhos com confiança,Alimentação,87,450.33,0.11,Sul,Loja Física,34869.05
+e3c30af0-ac52-4a9d-9d0d-787764fea990,2025-01-19,Borges Lopes - EI,Ana Lívia Campos,O direito de ganhar com força total,Alimentação,22,141.17,0.02,Leste,Telefone,3043.63
+100d8997-46a3-4a7c-86c3-20da87d086d8,2024-04-14,Teixeira Cassiano - EI,Hadassa Santos,O direito de concretizar seus projetos sem preocupação,Serviços,95,200.61,0.14,Norte,Representante,16389.84
+c5f687d2-ad75-40e3-b474-883854eabe69,2023-12-17,Melo,Alice Porto,A arte de avançar simplesmente,Bebidas,4,150.26,0.15,Centro,Telefone,510.88
+cc66cfb8-a746-4875-a456-6058a28b98e1,2023-11-01,da Rocha da Paz S/A,Pedro Rios,O conforto de mudar direto da fonte,Serviços,52,477.8,0.12,Centro,Online,21864.13
+3db21709-2b41-498c-8f62-725b3106b81d,2024-03-07,Alves,Liz Fernandes,A certeza de atingir seus objetivos em estado puro,Serviços,50,198.05,0.14,Sul,Representante,8516.15
+81f2b456-cd8c-4ce2-b17e-b3d52870490c,2025-04-10,Aragão Santos - ME,Samuel Sampaio,A possibilidade de conseguir com força total,Bebidas,45,231.8,0.2,Oeste,Online,8344.8
+4581964c-2c90-4926-9df6-ae2a4f489898,2024-01-11,Gomes,Rael Sampaio,O conforto de inovar com confiança,Bebidas,1,130.69,0.14,Norte,Telefone,112.39
+394cb04a-33de-44de-b237-0425b18f89b0,2025-06-06,Andrade,João Pedro Câmara,O prazer de conseguir com força total,Bebidas,20,191.21,0.01,Oeste,Representante,3785.96
+15c5ab5e-88fd-4e77-a7a0-4e5613ff59b2,2025-07-24,Marques,Luiza Dias,O conforto de realizar seus sonhos direto da fonte,Bebidas,93,159.76,0.17,Sul,Online,12331.87
+26c09b52-3353-4feb-a28e-14e075c9cd1c,2025-09-21,Viana e Filhos,Maria Julia Pastor,O prazer de ganhar com toda a tranquilidade,Alimentação,31,392.04,0.19,Oeste,Loja Física,9844.12
+aca27b86-128e-4c04-9bca-1c76e43cca1e,2024-05-06,Alves Cavalcante Ltda.,João Guilherme Rodrigues,A certeza de evoluir sem preocupação,Serviços,18,42.68,0.03,Sul,Loja Física,745.19
+16392b17-ce2a-4f52-80f2-c8bb18ab1611,2025-08-02,Dias S.A.,Kevin da Paz,A certeza de evoluir antes de tudo,Utensílios,91,314.7,0.03,Centro,Online,27778.57
+52452a28-e922-4407-ab39-783d4524081a,2024-06-27,da Cruz Melo S/A,João Vitor Cunha,A vantagem de concretizar seus projetos antes de tudo,Utensílios,23,234.41,0.1,Leste,Representante,4852.29
+d78a93a5-ece6-4966-a42d-63908975f680,2023-10-31,Macedo,Pedro Henrique Moura,A arte de ganhar com confiança,Bebidas,53,146.23,0.03,Leste,Telefone,7517.68
+e5fe0470-7d64-480a-b747-6ce68a86dba0,2024-03-18,Mendonça,Joana Pires,O prazer de atingir seus objetivos mais facilmente,Bebidas,9,449.83,0.18,Centro,Representante,3319.75
+5941fc05-d532-448c-b418-9f6da0e7ba99,2025-09-21,da Conceição Pacheco - ME,Erick Ferreira,O prazer de atingir seus objetivos mais facilmente,Utensílios,97,410.47,0.08,Norte,Loja Física,36630.34
+7fa30255-4769-4fe5-8255-edf710f574d7,2025-02-14,Silveira,Vinícius da Rosa,O direito de realizar seus sonhos simplesmente,Bebidas,79,305.46,0.07,Centro,Loja Física,22442.15
+089eb409-805f-408b-a887-a18b7f78d648,2023-11-28,Rios,Pietro Pacheco,A liberdade de inovar com força total,Bebidas,33,31.7,0.03,Norte,Representante,1014.72
+c169aa61-8b55-4ed1-9e3c-b6d19a01b819,2023-10-21,da Rocha,Leandro Novaes,O poder de evoluir com toda a tranquilidade,Serviços,20,137.26,0.01,Centro,Loja Física,2717.75
+416fd5c1-3368-4bbf-82d4-1cd65dc0fc0d,2025-01-12,Abreu,Antony Alves,O poder de inovar sem preocupação,Alimentação,68,119.43,0.05,Sul,Telefone,7715.18
+91d27b34-f632-404e-acde-202763896cee,2024-11-02,da Rocha Barros Ltda.,Dra. Mariana Fogaça,O prazer de realizar seus sonhos com força total,Alimentação,26,440.71,0.02,Centro,Telefone,11229.29
+2fe3eb0f-42ad-450d-a91d-9fd00cef11c2,2024-04-24,Casa Grande Azevedo - ME,Sr. Marcos Vinicius Leão,A vantagem de concretizar seus projetos sem preocupação,Alimentação,68,22.51,0.06,Centro,Online,1438.84
+ed1b65b7-c001-47d0-8c9a-ef632b5cf28d,2023-11-03,Barbosa,Dante Albuquerque,A possibilidade de concretizar seus projetos em estado puro,Alimentação,49,50.18,0.01,Centro,Telefone,2434.23
+6c70f5a8-5235-4484-b099-6619499cb857,2024-11-17,Fernandes,José Pedro Carvalho,A arte de ganhar com toda a tranquilidade,Alimentação,53,415.84,0.03,Oeste,Loja Física,21378.33
+43f3a97e-aaf5-49ed-bfb0-f7d61333a5b7,2024-10-12,Viana da Rocha e Filhos,Bernardo Gonçalves,O prazer de atingir seus objetivos antes de tudo,Serviços,20,329.94,0.16,Norte,Loja Física,5542.99
+78566d0c-d2c2-46c2-88de-dd80627901fb,2025-09-08,da Conceição e Filhos,Maria Eduarda Silva,A liberdade de ganhar com força total,Serviços,59,117.76,0.03,Centro,Representante,6739.4
+a521f0bc-d120-49bd-8856-e6829af3814b,2024-01-01,Machado,Gabrielly Albuquerque,O prazer de conseguir com força total,Serviços,17,298.43,0.01,Leste,Representante,5022.58
+e7a8fec8-f3a1-48a2-9df4-621388f24871,2024-02-10,Freitas,Juliana Lopes,A segurança de mudar mais rapidamente,Alimentação,51,215.74,0.17,Sul,Telefone,9132.27
+f056a6f5-be3a-4c19-a334-d7f59c6e3c8d,2023-12-23,da Costa,João Felipe Moraes,O direito de mudar antes de tudo,Bebidas,3,496.53,0.03,Centro,Telefone,1444.9
+230384eb-b4cf-488f-b7bb-0b42f1dcb373,2025-04-30,da Cruz,Maria Alice Guerra,A liberdade de concretizar seus projetos de maneira eficaz,Serviços,41,106.93,0.07,Leste,Loja Física,4077.24
+fed1eb49-2109-4ffa-9f3b-356c25836e5c,2024-11-11,Monteiro Porto e Filhos,Sra. Ana Carolina Azevedo,O prazer de inovar simplesmente,Serviços,69,23.9,0.17,Centro,Loja Física,1368.75
+581ec65a-06fa-4eae-8d4e-c7400fba411c,2025-03-29,Siqueira,Anthony Costa,A segurança de conseguir mais rapidamente,Serviços,76,220.84,0.19,Centro,Representante,13594.91
+0f009bb7-d130-4bf7-ad84-1ccf72e4d7af,2023-10-16,Gonçalves da Cruz Ltda.,Bernardo Moura,O prazer de inovar simplesmente,Serviços,62,470.65,0.02,Leste,Telefone,28596.69
+8f0b9fa6-96da-4cda-82f1-b2d09f02796a,2025-08-18,Lopes,Davi Pereira,A certeza de ganhar sem preocupação,Alimentação,78,285.23,0.07,Leste,Loja Física,20690.58
+02eb9e97-e22e-4258-9634-811104983cc1,2025-08-01,Carvalho Dias Ltda.,Leonardo Santos,O poder de mudar simplesmente,Serviços,91,276.6,0.18,Sul,Telefone,20639.89
+f1364c54-9ca6-40a7-b6d9-c3427c4fef99,2024-10-21,Martins Rodrigues S/A,Emanuel Moraes,O conforto de mudar em estado puro,Alimentação,66,428.02,0.03,Oeste,Representante,27401.84
+3d73fd6a-03a3-418a-b4eb-c3e18b3cad08,2024-01-04,Melo S/A,Gabriel Viana,O prazer de ganhar direto da fonte,Alimentação,66,366.1,0.05,Oeste,Representante,22954.47
+60a2aa00-69e8-4169-a2a5-4d13d97866b7,2023-10-23,Rocha,Luara da Costa,O conforto de mudar simplesmente,Serviços,17,129.78,0.1,Centro,Loja Física,1985.63
+9196ff72-abc5-44ca-a40a-258d8dda758e,2024-11-07,Fonseca,Liz Mendonça,O direito de ganhar antes de tudo,Bebidas,63,146.52,0.11,Oeste,Telefone,8215.38
+fa18d118-2884-4fc9-ba8a-8e3719f3e0bc,2024-07-03,Rios Pinto S.A.,Sr. João Gomes,O direito de ganhar naturalmente,Bebidas,60,221.68,0.2,Sul,Loja Física,10640.64
+91d3c6c4-f9ab-4730-8a5e-e68dc3ccaa44,2024-03-15,da Paz - EI,Vitor Gabriel Freitas,A vantagem de conseguir de maneira eficaz,Serviços,87,432.13,0.18,Oeste,Loja Física,30828.15
+e8ddddb4-1bc2-4956-8a68-44ddef3f3169,2024-12-30,Rios Farias Ltda.,Oliver Aparecida,A liberdade de avançar com força total,Utensílios,26,345.11,0.12,Oeste,Telefone,7896.12
+8578f4e5-1ff7-4ac4-82ff-00b12eaf0eaa,2025-07-01,Lima,Srta. Maria Julia Fogaça,O conforto de evoluir direto da fonte,Bebidas,95,109.33,0.0,Norte,Loja Física,10386.35
+83437486-324f-4467-b76d-deec7682be12,2025-01-13,Sales Montenegro - ME,Guilherme Brito,O direito de inovar antes de tudo,Utensílios,32,360.73,0.1,Oeste,Telefone,10389.02
+5d10ec30-f7fc-4134-8dd5-2eb40c4b1cd7,2024-02-08,da Conceição S/A,Dr. Enzo Gabriel Fonseca,A simplicidade de ganhar sem preocupação,Alimentação,5,40.04,0.02,Oeste,Telefone,196.2
+f2e0ad40-3dd7-4457-a413-b01b4775aea9,2024-08-19,Monteiro S/A,Maria Laura Nogueira,A simplicidade de realizar seus sonhos de maneira eficaz,Alimentação,27,54.46,0.08,Leste,Online,1352.79
+d9525f3b-ae52-4709-911f-d58ae99be700,2024-04-19,Sá Lima Ltda.,Dr. Pedro Pires,O conforto de evoluir naturalmente,Bebidas,93,267.85,0.02,Oeste,Telefone,24411.85
+85caf371-c5c4-4ee9-824b-b08849e78cda,2025-07-29,Barbosa,Sr. Bruno da Paz,O direito de inovar direto da fonte,Utensílios,45,401.77,0.11,Centro,Online,16090.89
+7554d64c-8b37-4ebc-9999-bdd4ac3b392e,2024-03-31,Cunha Ramos Ltda.,Camila da Rocha,A arte de concretizar seus projetos mais rapidamente,Serviços,85,89.84,0.14,Sul,Telefone,6567.3
+186244b8-df87-4e36-9f9f-739ef586aef3,2023-10-07,Almeida,Carolina Jesus,O direito de avançar naturalmente,Bebidas,93,497.65,0.14,Centro,Online,39802.05
+f2afd728-9055-4260-9134-6024c7fff133,2025-04-24,Moreira,Dr. Nicolas Viana,O poder de ganhar de maneira eficaz,Serviços,3,266.79,0.03,Norte,Online,776.36
+0d75e8ca-78c3-493e-9c1f-ade87b464adf,2024-09-20,Porto,Ayla da Costa,O poder de avançar sem preocupação,Serviços,72,232.9,0.09,Sul,Loja Física,15259.61
+5f661410-d0a3-4d80-ba76-d73061c3ca3a,2025-03-02,Pimenta Farias - ME,Arthur Gabriel Almeida,O direito de ganhar direto da fonte,Serviços,59,259.55,0.02,Oeste,Representante,15007.18
+c90868a7-fe1c-40f4-80cb-8e25b6cb1a3c,2025-08-17,Castro - ME,Henry Gabriel Novaes,A certeza de concretizar seus projetos antes de tudo,Utensílios,73,436.49,0.19,Sul,Telefone,25809.65
+c1cb0236-7180-419e-9bce-e7be831aa9da,2023-10-28,da Conceição Cunha e Filhos,Sr. Eduardo Barros,A segurança de ganhar mais facilmente,Utensílios,69,176.5,0.01,Oeste,Representante,12056.72
+9e2bc5b2-96a5-4b5a-ba90-cfd328f621b7,2024-04-29,Borges,Caleb Montenegro,A simplicidade de conseguir direto da fonte,Utensílios,69,232.47,0.11,Norte,Online,14275.98
+d4e57d5f-3bed-49b4-abf3-333d3853cf67,2025-06-05,Fonseca Azevedo S.A.,Cecilia Rocha,A vantagem de mudar de maneira eficaz,Utensílios,96,177.56,0.14,Leste,Loja Física,14659.35
+a0c1f1e2-c5c9-418e-b59f-d0827cc58001,2025-03-28,Sales Fernandes e Filhos,Maria Eduarda Pastor,A certeza de mudar antes de tudo,Utensílios,83,24.66,0.08,Sul,Loja Física,1883.04
+4c5554f3-5834-4591-9c86-271718d61285,2024-10-08,Barros,Theodoro Mendonça,A segurança de realizar seus sonhos sem preocupação,Bebidas,34,211.76,0.15,Oeste,Telefone,6119.86
+e59ec2ad-148d-45ac-bb72-65fc24cf3149,2024-08-03,Siqueira,Ayla Mendes,A liberdade de conseguir mais facilmente,Utensílios,51,496.48,0.05,Oeste,Loja Física,24054.46
+e5aac2e0-8eb7-4dd7-9c13-357719b4fb90,2024-05-11,da Luz Cassiano Ltda.,Helena Cunha,A vantagem de avançar sem preocupação,Alimentação,72,90.4,0.04,Norte,Online,6248.45
+b03852f3-e581-445a-8564-62e1bb6802f5,2024-02-23,da Paz,Isis Pacheco,O poder de realizar seus sonhos com confiança,Alimentação,33,67.32,0.06,Oeste,Online,2088.27
+e6e543c5-f98f-4f45-96fc-964efb165a66,2025-03-16,Pereira,Sra. Laura Ribeiro,O poder de inovar com toda a tranquilidade,Serviços,100,369.28,0.07,Centro,Representante,34343.04
+9769d7a8-cd65-4499-944f-2ad9f4e71122,2024-02-23,da Paz,Daniel Lima,A arte de evoluir em estado puro,Serviços,58,32.55,0.09,Oeste,Loja Física,1717.99
+b0693aa8-9665-4e15-b0e1-f835a7f5bf69,2024-08-20,Azevedo Pereira Ltda.,Kamilly Vasconcelos,O poder de avançar sem preocupação,Bebidas,36,173.86,0.16,Oeste,Representante,5257.53
+3c7c5b8b-b09f-4c60-8aef-01732bdfa95b,2025-02-26,Camargo,Anthony Pinto,A vantagem de atingir seus objetivos com toda a tranquilidade,Utensílios,73,156.58,0.0,Sul,Representante,11430.34
+5c10e162-82f0-425d-88a6-67c8ec2064e0,2025-04-06,Moreira Cirino S/A,Sr. Rodrigo Correia,A vantagem de avançar naturalmente,Alimentação,99,226.75,0.17,Centro,Telefone,18632.05
+ec40aa16-79c6-4a40-9529-ca6737b37caa,2024-07-29,Pereira Ltda.,Diogo Moraes,A arte de atingir seus objetivos direto da fonte,Serviços,41,77.98,0.16,Centro,Online,2685.63
+dce280af-4866-4e19-986e-7cc402cbc4b1,2025-02-02,Marques da Luz - EI,Elisa Sá,A liberdade de conseguir simplesmente,Alimentação,68,460.62,0.11,Sul,Representante,27876.72
+94fa0f8b-0359-4bcd-a2ed-3bfc0d2bf7d3,2024-08-16,Costela S.A.,Stephany Moreira,A simplicidade de realizar seus sonhos mais facilmente,Utensílios,97,266.43,0.11,Centro,Representante,23000.9
+dce28c5b-1949-4175-8dba-88688e143e0b,2025-10-05,Rodrigues,Pietro Pereira,A simplicidade de mudar mais facilmente,Utensílios,98,383.23,0.16,Norte,Representante,31547.49
+53ec6eee-e794-4e86-91f6-4054b9d71303,2025-01-13,Moraes Albuquerque S.A.,Sra. Isadora Ramos,O conforto de realizar seus sonhos sem preocupação,Bebidas,93,338.16,0.06,Sul,Representante,29561.95
+560dfaf6-d065-4e80-b00a-03fbe5658a06,2024-10-14,Ribeiro,Vicente da Mota,A liberdade de ganhar antes de tudo,Alimentação,80,160.64,0.14,Oeste,Online,11052.03
+8c197d19-336d-4a00-9b2d-8875cb0da04f,2025-07-30,Freitas,Amanda Jesus,O direito de atingir seus objetivos mais rapidamente,Alimentação,80,434.51,0.15,Centro,Online,29546.68
+0a0d0ea7-ac58-444b-9479-ae2901138db7,2024-03-14,Azevedo,Otávio Sá,A liberdade de ganhar com confiança,Serviços,11,186.02,0.0,Leste,Representante,2046.22
+e8ea2541-ea8b-49a6-b659-b7731ce96a80,2024-11-08,Cardoso e Filhos,Mariah Sousa,O poder de mudar em estado puro,Bebidas,21,150.92,0.18,Centro,Online,2598.84
+2dda1cec-9489-4cc3-bb4e-6f6198a96723,2023-12-14,Porto da Rocha S/A,Nicolas Castro,A segurança de avançar antes de tudo,Bebidas,89,65.61,0.19,Leste,Telefone,4729.82
+94f95b7a-7c5f-4e78-af9e-fd1661e3cc79,2025-05-30,Rocha Santos Ltda.,Sophia da Mota,O prazer de realizar seus sonhos com confiança,Bebidas,34,78.87,0.12,Oeste,Telefone,2359.79
+41bc6e52-de80-44cd-8f12-c8554f133a23,2024-07-30,da Cruz Ltda.,Dr. Anthony Andrade,O prazer de realizar seus sonhos mais facilmente,Bebidas,43,355.51,0.11,Centro,Telefone,13605.37
+648a0f6d-cbd4-4b66-949c-d5763494b056,2025-08-16,Novais - ME,Alice Pinto,A possibilidade de ganhar mais facilmente,Bebidas,90,27.77,0.06,Centro,Loja Física,2349.34
+d8b1015a-8ff7-40f2-8624-336a65d30e05,2024-12-14,das Neves,Laura Machado,A certeza de concretizar seus projetos com confiança,Utensílios,76,399.94,0.11,Sul,Telefone,27051.94
+f15f075a-eb3b-480e-bf99-2600e072b04a,2024-04-17,Novaes Moreira e Filhos,Vitor Moura,A liberdade de ganhar de maneira eficaz,Alimentação,47,72.72,0.14,Sul,Representante,2939.34
+2c380ec7-73aa-4044-830f-ae024f3ca13a,2024-12-17,Teixeira,Maria Fernanda Cavalcanti,O poder de atingir seus objetivos sem preocupação,Alimentação,28,219.85,0.15,Norte,Telefone,5232.43
+6091caa6-a52a-47c8-b43d-f5293265d81f,2024-04-25,Brito,Srta. Maria Isis Barbosa,A possibilidade de inovar mais rapidamente,Bebidas,97,459.89,0.02,Oeste,Representante,43717.14
+b93a84e6-7a5b-4438-beeb-c2ced11d86cb,2025-05-03,Dias e Filhos,Evelyn Viana,A vantagem de atingir seus objetivos de maneira eficaz,Bebidas,55,117.95,0.16,Centro,Telefone,5449.29
+ddbfe379-ab46-4580-aad6-38deb9d7b254,2025-07-09,Pires da Rocha e Filhos,Hellena Sales,A arte de conseguir mais facilmente,Alimentação,7,251.43,0.18,Centro,Online,1443.21
+59774c90-b1d2-4974-9827-850bc1de5405,2023-11-05,Melo Costa S/A,Emanuella Andrade,A liberdade de realizar seus sonhos em estado puro,Utensílios,36,97.09,0.13,Centro,Representante,3040.86
+31cafa5d-b99a-4147-944c-b0c60f180fef,2025-05-08,Brito,Vitor Gabriel Brito,A arte de realizar seus sonhos de maneira eficaz,Utensílios,67,219.16,0.13,Centro,Online,12774.84
+7fec68cc-e068-463e-a8b6-fe1f377119ee,2024-09-18,Pinto,Dra. Sara Farias,O prazer de conseguir de maneira eficaz,Bebidas,24,173.23,0.13,Norte,Online,3617.04
+e0be49a9-5a83-4b8f-8574-d8af1cecdaab,2024-04-20,Silveira,Sra. Maria Isis Leão,O prazer de inovar de maneira eficaz,Alimentação,28,55.61,0.12,Sul,Loja Física,1370.23
+d4a1256b-b6cd-4be0-b865-92833044323b,2024-09-24,Monteiro,João Pedro Campos,A arte de ganhar com toda a tranquilidade,Utensílios,60,332.04,0.09,Oeste,Loja Física,18129.38
+f77315f7-3a6a-4239-8592-bd6b8c74bc72,2025-08-26,Campos Macedo - ME,Dr. Diego Rezende,A liberdade de avançar sem preocupação,Serviços,45,161.36,0.15,Norte,Representante,6172.02
+d3815e42-a79e-4cee-ad65-1640582c53ca,2025-07-19,Garcia e Filhos,Maria Fernanda da Costa,A possibilidade de ganhar sem preocupação,Bebidas,33,448.26,0.11,Leste,Loja Física,13165.4
+25ec5dc1-fb72-4939-a898-710c23b1075a,2025-09-11,Moraes,Dr. Felipe Rezende,O poder de conseguir simplesmente,Utensílios,24,391.7,0.02,Sul,Representante,9212.78
+27c554b1-369d-4217-86b1-2381acddf0b0,2024-11-14,Câmara,Emanuella Farias,A certeza de conseguir naturalmente,Serviços,13,133.07,0.09,Centro,Online,1574.22
+c83026c2-2c47-4df2-8c91-f47def77b32a,2025-07-31,Silveira,Otto Siqueira,A possibilidade de avançar naturalmente,Serviços,29,487.19,0.14,Centro,Online,12150.52
+db9f0fa6-1a94-433b-b1e7-97e63728e2c3,2024-10-09,Ramos,Daniela Camargo,A simplicidade de conseguir mais facilmente,Alimentação,20,392.85,0.07,Leste,Online,7307.01
+32888564-56eb-41fd-8108-6ee12e4f4043,2025-03-23,da Luz,Sara Rezende,O conforto de realizar seus sonhos mais rapidamente,Alimentação,81,52.67,0.14,Sul,Loja Física,3668.99
+1b574353-c5d7-41ae-af94-5e5c00e5a5dc,2025-04-18,Montenegro - EI,Vicente das Neves,O direito de mudar direto da fonte,Utensílios,7,333.14,0.04,Sul,Loja Física,2238.7
+f55e4347-9b23-4ab0-ac74-e4213dbef0f1,2025-01-28,Rocha Câmara S/A,Matteo Costa,A vantagem de avançar de maneira eficaz,Serviços,2,373.32,0.14,Centro,Representante,642.11
+b4341844-f8da-43ed-8b8e-44ba1075f8f7,2025-04-17,Alves,Otávio Rezende,O poder de inovar direto da fonte,Bebidas,30,131.53,0.15,Oeste,Telefone,3354.02
+1cdfde10-4b58-48a0-92f0-c97e086556ff,2024-10-23,Silva,Srta. Liz Fonseca,O direito de inovar com confiança,Utensílios,50,41.45,0.02,Centro,Telefone,2031.05
+815d1720-fc99-405d-a648-4815e0284c7a,2024-08-27,Farias,Olívia Nunes,A liberdade de atingir seus objetivos em estado puro,Bebidas,60,119.9,0.13,Centro,Telefone,6258.78
+59f95317-1a05-44fb-9685-eb882a02a57c,2024-05-23,Rodrigues,Oliver das Neves,O prazer de concretizar seus projetos de maneira eficaz,Alimentação,92,73.93,0.08,Centro,Loja Física,6257.44
+8d4c1d6b-e069-48dc-b6c7-437ce7f3f2b6,2024-04-18,Freitas Barros Ltda.,Stephany Mendonça,A possibilidade de concretizar seus projetos sem preocupação,Bebidas,87,253.86,0.05,Oeste,Representante,20981.53
+11a6ab57-48b6-4e0d-9368-64199d193125,2024-09-04,Monteiro Guerra Ltda.,Dr. Juan Fogaça,A arte de evoluir com confiança,Utensílios,74,390.58,0.05,Norte,Representante,27457.77
+302bce26-d3e2-4b03-b7d7-eae6425670ba,2024-08-02,Araújo,Ísis Cassiano,O prazer de ganhar mais facilmente,Serviços,9,238.43,0.18,Centro,Loja Física,1759.61
+78c1f7ef-c2f9-4e0d-bea3-14ce2ecbfe19,2024-12-30,Cardoso,João Guilherme Casa Grande,A segurança de conseguir com força total,Alimentação,80,454.66,0.15,Centro,Loja Física,30916.88
+58e99b34-fafd-4aa9-aebd-821e794647d8,2023-10-20,Viana,Jade Barbosa,O poder de inovar com força total,Utensílios,64,49.51,0.02,Centro,Online,3105.27
+0cfd0a14-6f81-4777-963e-d97619703c82,2024-10-04,Barbosa S/A,Theodoro Ribeiro,A simplicidade de avançar mais rapidamente,Utensílios,85,95.43,0.11,Sul,Telefone,7219.28
+c0322ddd-4dfe-4a29-a501-f8e22f9ea011,2024-05-22,Oliveira - ME,Yan Gonçalves,A possibilidade de ganhar com confiança,Serviços,16,227.28,0.15,Oeste,Representante,3091.01
+318b0a4f-8bc2-4872-bcf2-8dd4decb014a,2025-05-29,Araújo,Sr. Enzo Freitas,A simplicidade de concretizar seus projetos mais facilmente,Alimentação,99,123.2,0.14,Norte,Online,10489.25
+a5190d34-96ff-450c-8046-ce47f90ff0b4,2024-05-05,Sá,Emilly Melo,O direito de conseguir com confiança,Alimentação,97,477.02,0.0,Centro,Telefone,46270.94
+03f22b42-1388-44b7-8d3d-73a3b1a35a40,2024-06-07,Barbosa,Dra. Jade Sales,O conforto de evoluir direto da fonte,Alimentação,29,398.33,0.1,Norte,Online,10396.41
+b986616c-e28e-467e-b0fd-0ba8bcc9c21e,2024-01-10,Câmara S/A,Kamilly Andrade,O poder de atingir seus objetivos mais rapidamente,Utensílios,66,426.63,0.04,Norte,Loja Física,27031.28
+7afce32c-575f-45da-ab89-81f095254baa,2025-04-22,Correia S/A,Dr. Davi Carvalho,A vantagem de mudar com força total,Utensílios,31,431.34,0.01,Oeste,Online,13237.82
+0ab6ade6-e707-4bd6-9398-72d633e50e60,2025-04-29,da Mata S/A,Erick Casa Grande,O direito de concretizar seus projetos com toda a tranquilidade,Serviços,64,261.0,0.04,Sul,Loja Física,16035.84
+45c05f0b-7001-4a7c-8074-8c00e86f2846,2024-11-28,da Paz Leão - ME,Kamilly Azevedo,A possibilidade de conseguir com toda a tranquilidade,Utensílios,18,474.92,0.02,Oeste,Telefone,8377.59
+4b725fe7-00ef-481e-a07a-80bf6c7dca98,2025-08-04,da Mata,Murilo Fernandes,A segurança de inovar com força total,Bebidas,23,113.69,0.17,Centro,Loja Física,2170.34
+62b650da-e364-4d88-8770-b7615ddc1f6b,2024-04-08,Teixeira,João Barbosa,A certeza de conseguir direto da fonte,Utensílios,42,493.53,0.09,Centro,Loja Física,18862.72
+acd85cf6-4d0e-4dec-aae9-01b8f0f3de9d,2023-10-15,Souza Brito - ME,Manuela Macedo,A possibilidade de avançar com força total,Serviços,78,131.45,0.19,Centro,Representante,8305.01
+ccff93b9-2bc3-4e9f-a1ba-0590464b686c,2024-01-20,Novais,Ana Vitória Cassiano,O prazer de concretizar seus projetos com confiança,Utensílios,89,495.2,0.18,Centro,Telefone,36139.7
+3c126a88-7da6-4619-ad5a-a9f8d603b73b,2024-08-13,Vieira S.A.,Arthur Cavalcanti,A arte de inovar com toda a tranquilidade,Bebidas,65,437.82,0.01,Centro,Representante,28173.72
+4c3de3aa-9cfd-4f17-8be9-587aaed0afe1,2024-12-09,Pereira,Sophie Azevedo,O prazer de avançar mais rapidamente,Serviços,28,407.66,0.08,Sul,Telefone,10501.32
+5616bd56-e574-455e-a8a2-280e2b0a19e5,2023-10-19,Brito,Dra. Vitória Martins,A possibilidade de inovar simplesmente,Bebidas,10,472.85,0.12,Norte,Online,4161.08
+ca2bb5f5-44c6-4c83-9ef8-d757bd24953f,2024-04-27,Andrade Peixoto S.A.,Arthur Miguel Guerra,O poder de atingir seus objetivos com confiança,Alimentação,29,22.98,0.08,Sul,Telefone,613.11
+ff3d00ed-d57d-4441-a38d-0d867368fc73,2024-12-20,Porto e Filhos,Srta. Juliana Novaes,A vantagem de conseguir mais facilmente,Alimentação,25,325.14,0.01,Centro,Representante,8047.22
+68247f8b-48dc-495e-bf06-e57a9c469fed,2025-05-27,das Neves,Sara Costela,A segurança de inovar direto da fonte,Alimentação,6,47.69,0.03,Oeste,Online,277.56
+007ff9ed-8a03-49ff-80a7-23c25dbe5d52,2024-08-22,Pereira S.A.,Bianca Costa,A possibilidade de mudar antes de tudo,Serviços,21,490.42,0.19,Sul,Representante,8342.04
+a92c96bd-6cad-450e-9ed0-0d6b8eb379c7,2024-10-24,Duarte Barros e Filhos,Srta. Ester Castro,A segurança de conseguir mais facilmente,Alimentação,38,160.77,0.17,Centro,Telefone,5070.69
+2c89d87c-9983-45b6-9d72-fa134c31f6be,2024-10-14,Moura Pereira e Filhos,Kaique Câmara,A arte de atingir seus objetivos direto da fonte,Bebidas,88,155.02,0.16,Leste,Representante,11459.08
+4fb27486-01ca-4465-aa13-0e104c0cc958,2024-04-09,da Cunha,João Pedro Farias,A possibilidade de mudar em estado puro,Serviços,81,446.73,0.12,Centro,Representante,31842.91
+ea8e8b79-4879-4b6b-a433-196ede5b310f,2025-09-09,Câmara,Bernardo Moraes,O prazer de evoluir naturalmente,Utensílios,41,393.93,0.07,Sul,Online,15020.55
+b7fa9464-f7d3-4771-80ba-90dedb6c201a,2024-10-25,Jesus - ME,Sr. Luiz Otávio Fogaça,A arte de evoluir com confiança,Utensílios,45,376.61,0.05,Centro,Representante,16100.08
+b1e0eaea-b812-4466-8104-4b305d84dac0,2024-11-11,Vasconcelos,Dante Sampaio,A arte de inovar com confiança,Bebidas,16,361.18,0.2,Sul,Loja Física,4623.1
+33a4cf8b-d521-4f1d-8cee-9317de6405db,2025-01-14,Rocha,Henry Vieira,A segurança de concretizar seus projetos com força total,Serviços,20,413.91,0.16,Centro,Online,6953.69
+9cced0ba-608f-48eb-8361-32f6e4818cec,2023-11-06,Silva Rios Ltda.,Mathias Casa Grande,A certeza de avançar em estado puro,Bebidas,22,364.55,0.03,Norte,Online,7779.5
+1d694e26-83af-4ebf-97e5-cd59b85837ac,2023-12-14,Rocha,Sra. Maysa Sales,A vantagem de atingir seus objetivos com confiança,Utensílios,49,83.99,0.19,Sul,Loja Física,3333.56
+8cdb472c-8c67-4a10-8b54-1dc712658b04,2023-11-17,Guerra,Maria Júlia Porto,O prazer de avançar direto da fonte,Utensílios,4,300.67,0.09,Sul,Loja Física,1094.44
+e2b84abc-3bda-4cc6-a1eb-a382ac9f35d3,2025-09-22,Ramos,Srta. Marcela Monteiro,A segurança de avançar com toda a tranquilidade,Bebidas,14,290.18,0.06,Leste,Telefone,3818.77
+ca1ea6d4-9e40-427d-91ed-bbc600044225,2025-02-14,da Paz Castro S/A,Renan Teixeira,A possibilidade de atingir seus objetivos em estado puro,Bebidas,81,498.39,0.09,Centro,Telefone,36736.33
+6f6ebf52-4154-46b2-9d58-2d69200ad06d,2024-08-02,Ferreira,Heitor Aparecida,O poder de mudar sem preocupação,Bebidas,31,150.26,0.14,Leste,Telefone,4005.93
+3f7e4235-9fc0-4583-bb9a-7da68df8ed3a,2024-11-06,Viana,Olivia Guerra,O conforto de conseguir direto da fonte,Alimentação,17,93.93,0.06,Oeste,Online,1501.0
+66e4bbef-2df7-45fc-9eba-fc81c0b9af0b,2025-03-08,Pires,Sr. Oliver Melo,A vantagem de ganhar com força total,Bebidas,77,144.32,0.04,Oeste,Online,10668.13
+b5a4638e-d3f1-4cd0-9d41-9aeee7e51793,2025-07-23,Teixeira - ME,Enrico Pires,A certeza de atingir seus objetivos mais rapidamente,Alimentação,28,107.15,0.09,Centro,Representante,2730.18
+1494dd8a-19b9-4e1e-bcc6-c2c120832828,2025-03-11,Nascimento,Camila Silva,O direito de evoluir direto da fonte,Alimentação,57,292.62,0.06,Oeste,Representante,15678.58
+a100ec01-7df9-4879-beb7-9a4bdf069454,2025-07-27,Fernandes,Olívia Casa Grande,A possibilidade de conseguir sem preocupação,Utensílios,95,397.18,0.17,Centro,Representante,31317.64
+daefbc8f-6ea9-46c5-804c-6c7af1ae421d,2024-05-02,Cassiano,Antônio Mendes,O prazer de inovar simplesmente,Bebidas,56,258.16,0.09,Norte,Online,13155.83
+5c37ef6c-66c1-4559-b457-946c84e7640d,2023-11-04,Sales Ltda.,Dra. Alana Ribeiro,A simplicidade de evoluir de maneira eficaz,Alimentação,38,328.31,0.17,Sul,Online,10354.9
+001bc527-022f-4dab-8dc5-36863c887127,2025-05-27,Guerra Silva - ME,Ana Liz Mendes,A vantagem de atingir seus objetivos de maneira eficaz,Utensílios,20,194.64,0.09,Norte,Online,3542.45
+a47eccbe-b74b-4de7-8897-bb8454361ca4,2024-07-04,Fonseca,Vitor Hugo Brito,O conforto de realizar seus sonhos mais facilmente,Bebidas,1,187.78,0.04,Oeste,Loja Física,180.27
+40b88260-f230-4dd0-9fc8-43651ed91421,2024-10-24,Garcia S.A.,Paulo Rezende,A simplicidade de avançar antes de tudo,Bebidas,43,344.36,0.12,Norte,Loja Física,13030.58
+b4264e95-c52a-4353-810c-969b564ea358,2024-07-23,Porto,Benjamim Souza,A liberdade de conseguir direto da fonte,Alimentação,53,106.52,0.0,Oeste,Representante,5645.56
+5fb70595-319f-46d4-b481-7857424a6f92,2025-09-15,Borges S/A,Levi Aparecida,O conforto de conseguir naturalmente,Serviços,13,227.13,0.1,Oeste,Telefone,2657.42
+e2f0ef90-2619-40cf-a73d-5c8faa820b6a,2023-12-17,Vargas,Gustavo Henrique Santos,A vantagem de concretizar seus projetos com confiança,Serviços,55,264.36,0.15,Leste,Telefone,12358.83
+d9c03a37-6143-4104-ae72-acbbaa322e25,2025-03-16,da Costa,João Felipe Souza,A possibilidade de mudar sem preocupação,Serviços,6,198.9,0.04,Leste,Representante,1145.66
+8b43ca79-62ae-4453-9e4e-742def6884e7,2024-01-24,Marques Guerra e Filhos,Nina Rocha,A vantagem de avançar com toda a tranquilidade,Utensílios,32,476.72,0.16,Sul,Representante,12814.23
+f042fb73-9160-49e4-904a-346cf9ce09d0,2023-11-03,Oliveira Pacheco S.A.,Luiz Henrique Nascimento,A possibilidade de atingir seus objetivos sem preocupação,Alimentação,69,270.23,0.15,Norte,Online,15848.99
+c7b9e191-60f6-40e9-ac5a-2fbde174aeb7,2024-01-22,Cavalcante,Samuel Casa Grande,O conforto de avançar em estado puro,Bebidas,55,289.56,0.19,Oeste,Loja Física,12899.9
+e1406329-e377-4669-98ec-13ef9c96cfa3,2024-06-05,Freitas,Lorenzo Pereira,A arte de mudar com toda a tranquilidade,Utensílios,96,84.94,0.16,Norte,Loja Física,6849.56

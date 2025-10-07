@@ -1,0 +1,151 @@
+id,nome,email,cargo,departamento,salario,data_admissao,status,nivel,avaliacao
+ae33fa2f-227e-421c-ae3e-2ec26ab6bf38,Marina Mendonça,salesamanda@example.com,Supervisor,Vendas,12169.53,2020-11-16,Ativo,Júnior,4.4
+60d6c090-7049-48e8-b11c-63fc24893533,Samuel da Mata,maria-vitoriaabreu@example.org,Supervisor,Marketing,14590.01,2021-05-29,Licença,Sênior,1.9
+85b3379a-1e66-4026-a109-604def7c40d3,Ester Montenegro,da-cruzasafe@example.net,Supervisor,Marketing,14569.85,2024-08-23,Licença,Júnior,1.0
+130575e9-0752-4585-bf51-1d6882000b10,Ayla Casa Grande,ana-juliamachado@example.com,Analista,Marketing,3131.97,2023-05-19,Licença,Pleno,1.3
+cf8d44a6-d371-4fce-bf56-ffda9ba66c33,Oliver Dias,luara24@example.com,Supervisor,RH,2110.69,2024-11-17,Licença,Júnior,4.8
+668de24f-7cef-4826-b58f-a2e703c8c30c,Thiago da Costa,otavioda-conceicao@example.org,Supervisor,TI,3855.61,2025-05-07,Férias,Pleno,1.9
+571e2ae7-fbcb-44f4-b957-e2c06bc60230,Mathias Nunes,ana-beatrizaraujo@example.org,Especialista,Marketing,3007.53,2022-01-31,Férias,Sênior,4.6
+cb36eafc-e718-47fa-ad0d-346792abab33,Luiz Gustavo Pacheco,xcardoso@example.org,Técnico,Vendas,12824.2,2023-07-10,Licença,Júnior,1.0
+2a02a243-8bf2-49ad-a91f-99469d775c5f,Sr. Gael Henrique Novaes,rezendekevin@example.net,Coordenador,RH,4530.35,2023-04-12,Licença,Júnior,4.8
+5036ed47-cc2d-4db8-a2b7-daa17a0d7bb7,Yago Borges,aragaomatheus@example.org,Especialista,Vendas,7299.55,2023-10-14,Ativo,Pleno,2.0
+5ddf2261-db69-4488-8a4a-f5e6c07b8fc1,Alexia Barbosa,ana-sophia67@example.com,Técnico,TI,5885.15,2022-08-18,Licença,Júnior,4.9
+c2122d88-d188-42ef-a256-4837fbf02c68,Apollo da Luz,rioscaua@example.com,Assistente,Operações,3485.39,2025-05-09,Ativo,Júnior,1.1
+f9288d8d-3468-4809-a544-83e16ab124f3,Breno Vasconcelos,augustoviana@example.org,Especialista,TI,10547.18,2022-03-19,Licença,Júnior,2.1
+6821f87e-158d-4e9b-ab9b-42ec0bba805e,Rafaela Viana,pedrocosta@example.com,Supervisor,Marketing,4242.72,2025-01-10,Ativo,Júnior,1.7
+9b536295-34bf-4e87-9439-4088de9844fb,Benjamin Monteiro,lucascosta@example.net,Especialista,RH,10241.25,2024-09-03,Férias,Sênior,2.1
+e3798f63-d2ba-439c-a49f-2c4275647d3a,Arthur Cavalcanti,agatha45@example.com,Gerente,Produção,5878.06,2021-02-24,Licença,Pleno,3.4
+70fec723-cc34-4213-9510-39c0ba1f312c,Lucas Gabriel Ribeiro,pedroramos@example.net,Especialista,Operações,5317.59,2022-06-27,Licença,Sênior,3.3
+b3d126d3-988d-4b0e-9e89-60806b1edfac,Ana Julia Nogueira,raulteixeira@example.net,Técnico,RH,5276.88,2025-06-23,Férias,Sênior,3.5
+bdb527d5-edcc-4b5c-8c28-d9c9c224208f,Ester da Paz,rmartins@example.com,Técnico,Operações,7441.43,2021-01-03,Férias,Pleno,1.2
+af03cce7-ce5e-422a-a67a-23c000d572de,Júlia Novaes,sofiacirino@example.org,Especialista,Operações,9325.71,2022-07-08,Ativo,Júnior,3.1
+0cbad597-44ef-4a2f-bb9e-7d9d7049db1b,Davi Fernandes,portoheitor@example.net,Coordenador,Operações,14270.6,2021-11-11,Licença,Júnior,3.0
+af711179-181a-4a7e-96fb-8f2e84ed4cd0,Cecilia Macedo,tmontenegro@example.net,Analista,RH,2935.82,2024-05-05,Ativo,Sênior,4.3
+65173769-d9c4-4160-9913-689a2e308c38,Sra. Valentina Barros,cirinosarah@example.com,Supervisor,Operações,11308.32,2024-11-28,Licença,Pleno,3.8
+d287f5b1-1265-4ca1-b1c1-b98e57b6e6b7,Caroline Pastor,nda-cunha@example.com,Coordenador,Produção,14986.31,2025-02-10,Férias,Sênior,1.3
+68678563-5a7d-4f0e-a7d4-226ee4769c02,Ana Campos,caiooliveira@example.com,Especialista,Vendas,13531.44,2024-02-22,Férias,Júnior,3.8
+5dc7ec68-b6f7-4ef8-9c8a-480403df98bf,Sr. Enrico Cunha,pintoandre@example.org,Técnico,Operações,2369.6,2023-04-23,Licença,Júnior,1.8
+fb827b1b-45c5-4eee-a62e-d549794729b3,Caio Aparecida,theo44@example.net,Assistente,Operações,3563.28,2021-08-26,Licença,Sênior,1.5
+d3f57799-e785-4e27-a898-88d017496a29,Clarice Teixeira,costelaluna@example.org,Analista,Financeiro,4931.4,2022-11-17,Licença,Júnior,4.7
+56759f08-4a43-4b01-8f13-ef49ecd43aab,Caio Rocha,cavalcantienzo-gabriel@example.com,Especialista,Marketing,6583.7,2021-04-16,Férias,Júnior,1.4
+7456f384-b2cb-405b-b197-32241f037604,Benício Costa,olivia86@example.net,Gerente,Financeiro,12080.59,2021-04-03,Licença,Júnior,1.2
+7de41d09-4483-438c-970a-a4dad11fbaf6,Arthur Gabriel Pinto,joanada-rosa@example.com,Gerente,TI,8692.1,2020-10-26,Licença,Sênior,3.3
+1a2c30a1-c85e-4de3-88a7-18e5387a9d9f,Matheus Leão,maria-luizaalbuquerque@example.com,Técnico,Financeiro,5642.7,2023-07-09,Ativo,Júnior,1.8
+75bd6115-f26b-4be4-b807-5c770f7f5c8d,Milena Cardoso,stella92@example.com,Assistente,TI,14190.85,2025-06-05,Licença,Pleno,2.7
+f5d62d40-1af6-40b1-8c17-0c77b31c6492,Sr. Benício Martins,maria-luizabrito@example.net,Analista,TI,4064.89,2023-05-29,Férias,Sênior,4.9
+9fc269cf-9f3a-4791-931c-27a6c63b4dbd,Lavínia Cardoso,andresilveira@example.net,Coordenador,Vendas,7498.26,2024-04-15,Licença,Sênior,4.2
+1bdaab4c-646f-4080-97e5-2d1a0326598d,Vitor Garcia,valentimpacheco@example.com,Analista,RH,5446.26,2024-08-04,Férias,Sênior,2.5
+af6f8e1f-7fb8-4797-9fbb-bdd42f064793,José Miguel Nogueira,cardosodiego@example.net,Analista,Vendas,8033.02,2023-08-17,Férias,Júnior,3.4
+93ef708a-e6cb-43d5-8ed4-ff7d8914b882,Laís Pinto,limalucca@example.net,Analista,Financeiro,6740.86,2025-04-01,Ativo,Júnior,4.1
+5e645c6e-9cbe-4f00-b15e-565e8be8f8f8,Mathias Barros,vasconcelosana-clara@example.org,Analista,TI,14912.14,2025-06-28,Ativo,Júnior,3.1
+139f7b59-b980-4e50-8509-e125124f768f,Miguel Camargo,marcos-vinicius60@example.org,Coordenador,Vendas,7199.29,2022-10-11,Férias,Pleno,2.1
+14afbffc-d6a7-4b31-988b-4228d37411d4,Maysa Nascimento,goncalvesluiz-fernando@example.com,Especialista,RH,12884.38,2021-08-13,Ativo,Sênior,4.2
+1692eea8-987f-4859-81b7-2860d85dfb2f,Caleb Carvalho,oda-conceicao@example.org,Técnico,Vendas,2103.96,2023-05-26,Licença,Pleno,4.2
+eec35f4c-42f0-4079-9479-767ff75dc39a,Pedro Miguel da Cunha,gustavo-henriquenunes@example.org,Analista,Financeiro,6147.6,2022-09-06,Ativo,Pleno,2.4
+3b08c80a-b5d5-49f0-b0e1-de26c2fbfa81,Théo da Mota,oliveiralarissa@example.com,Especialista,Produção,5916.47,2022-11-12,Licença,Júnior,4.9
+4efad211-618b-4cd2-a165-7b8bd70cf04b,Isabela Costela,esthercassiano@example.com,Assistente,Marketing,12321.31,2024-07-10,Ativo,Júnior,2.8
+47bc8b44-5b25-410c-b68f-371968bcd3b4,Bárbara Nunes,amoraes@example.com,Analista,Vendas,8255.42,2021-12-08,Ativo,Sênior,1.3
+945d0355-d095-488d-9ac6-e63d39380902,Juan Novaes,eazevedo@example.com,Coordenador,TI,14530.35,2023-03-14,Ativo,Sênior,1.7
+a1cded12-2429-4c85-a1ae-f7b3d71958d6,Liz Ribeiro,lorenzodias@example.net,Coordenador,RH,4461.74,2021-08-16,Ativo,Pleno,2.6
+b9321050-eb9a-49da-bfe2-31102ae1bc3a,Ana Peixoto,da-luzsofia@example.net,Supervisor,TI,4438.68,2021-02-07,Ativo,Pleno,3.2
+38e5672f-dcdb-4b43-8b12-3d06627a6110,Pedro Henrique Ramos,scassiano@example.net,Coordenador,Financeiro,13347.68,2021-06-28,Licença,Pleno,2.2
+50d45683-0eec-4d2d-aa91-f4243683398b,Sr. Marcelo Lopes,wnogueira@example.com,Analista,Vendas,11964.31,2022-05-07,Licença,Pleno,3.8
+45f09514-5e61-4e92-85f3-a80d10876edf,Emanuel Gonçalves,brunanunes@example.net,Gerente,Financeiro,4059.51,2022-09-02,Ativo,Júnior,1.0
+b3682766-cc65-4edc-b1d9-f9f8ddf9bd3d,Lorenzo Sá,melissa04@example.org,Especialista,TI,14869.49,2023-07-14,Licença,Pleno,2.0
+2a4f103e-27d2-41e0-8a11-d278815e37da,Vitor Hugo Lima,miguelmonteiro@example.org,Gerente,RH,8867.32,2024-06-29,Licença,Sênior,2.6
+c565954f-b752-4b45-864d-093172d8a572,João Miguel da Cruz,thales19@example.net,Supervisor,Financeiro,10581.4,2021-06-10,Ativo,Júnior,2.9
+39fd1367-de2d-44c3-af8d-c49535c7ea49,Thales Araújo,salesheloisa@example.net,Especialista,Operações,14743.99,2025-04-20,Férias,Júnior,2.6
+b59ba711-80e9-4734-8709-c8b3a763eb88,Arthur Gabriel da Rocha,juanvieira@example.com,Assistente,Operações,2014.56,2021-03-03,Ativo,Pleno,2.3
+ee3c2a9f-a26b-4dbf-8c59-af3f2f40427f,Dr. Theo Rocha,luiz-miguelribeiro@example.net,Supervisor,Operações,5124.95,2025-06-06,Férias,Pleno,2.1
+c47e81fe-3de6-42e6-b823-7d961da534b7,Srta. Isabela Teixeira,saleshellena@example.net,Analista,Operações,12841.47,2024-12-18,Licença,Júnior,4.9
+c62ba629-abc6-4aff-9eb0-005fdc2cf759,Caroline Moreira,antonellasilva@example.com,Técnico,TI,11220.28,2025-01-04,Férias,Sênior,4.5
+4f35055c-7847-435d-bcd9-603632ed98ca,Dr. Anthony Gabriel da Cunha,apimenta@example.net,Assistente,Financeiro,7450.11,2025-07-23,Ativo,Júnior,4.4
+97e9f89a-f49f-4eed-a516-382bc3798dcb,Luigi Borges,qcunha@example.net,Coordenador,TI,4076.75,2025-07-01,Férias,Pleno,3.8
+2d0f4b62-a017-4136-ac3f-5b0637b2581f,Pedro Henrique Marques,maria-luisalima@example.org,Técnico,RH,10289.79,2022-11-12,Férias,Júnior,2.3
+be76bb72-444c-4b2f-88d1-492452f17817,Anthony Gabriel da Mota,rafaela60@example.org,Supervisor,TI,8998.89,2022-10-02,Ativo,Sênior,3.6
+6f97428b-89d4-4913-81e3-dca0099c46d8,Alice Farias,vieiravicente@example.net,Supervisor,Operações,9992.25,2020-12-06,Licença,Júnior,2.8
+70c5cc97-68e4-41e5-9f33-2d71aa74fcdf,Sr. João Gabriel da Costa,rezendebenicio@example.org,Gerente,Produção,6948.46,2022-09-18,Licença,Sênior,1.5
+4adbed2f-d178-4f85-af4f-577ecfc0837c,Sra. Ana Julia Moreira,emanuellasales@example.org,Analista,Produção,9096.88,2023-08-18,Férias,Pleno,4.8
+1d069af4-3ee1-4c35-9f1a-fa97877d1d38,Gael Henrique Martins,samuelcirino@example.net,Especialista,Financeiro,13434.99,2025-05-22,Licença,Pleno,1.9
+d23a34e6-d30b-493f-87fa-05b19dd0a93a,Luana Costela,thomas25@example.com,Especialista,Operações,8442.0,2025-02-22,Férias,Sênior,4.8
+f36d5797-dd7c-43d1-9688-d114916a6425,Henry Gabriel Rodrigues,agatha14@example.org,Gerente,RH,14390.08,2024-10-25,Licença,Pleno,3.9
+d71862cf-0aa3-4cfb-8152-e203de1591dc,Oliver Marques,agatha91@example.com,Técnico,Operações,7656.42,2023-05-18,Férias,Sênior,2.8
+4e6e4272-b52a-4949-bde0-4cc7199fb76e,Lara Sousa,dsampaio@example.com,Assistente,RH,14344.16,2025-10-05,Licença,Sênior,4.4
+fc27fa9b-53b3-43c3-9c3a-8c3b81b37dab,Clarice Barros,guilherme04@example.org,Especialista,Vendas,13991.7,2021-06-22,Licença,Pleno,4.4
+b4bec7c7-3780-40dc-aeeb-bde1d23c8d75,Vitor Hugo Carvalho,franciscomontenegro@example.net,Assistente,Operações,7734.09,2025-07-31,Férias,Sênior,3.5
+30efa400-f416-4819-814b-22a25a6f1408,Evelyn Ramos,mendoncaester@example.net,Gerente,Produção,10863.13,2021-01-17,Férias,Pleno,3.0
+a3d304cf-7925-4eb6-9f02-915f38cc411c,Benício Cavalcante,wnascimento@example.org,Especialista,Produção,7168.41,2025-07-28,Licença,Júnior,4.4
+4ce6ee8f-4623-4b34-ad91-cb382ecfa1e5,Leandro Sampaio,piresdavi-luiz@example.com,Assistente,Vendas,11812.27,2024-08-09,Licença,Pleno,1.6
+bdd04404-aab6-4bbc-9719-42cab7be5a42,Sr. Vinícius Barros,portoenrico@example.net,Técnico,Financeiro,13077.49,2023-11-17,Férias,Júnior,1.4
+557368df-fbd1-4539-ac34-794d230194d0,Sara Peixoto,pedro-miguel97@example.org,Técnico,Vendas,9331.47,2025-05-27,Férias,Pleno,2.9
+736c376c-f948-4824-89af-cc3d5bd86a89,Théo Guerra,ravicostela@example.com,Assistente,TI,3415.75,2022-03-18,Ativo,Pleno,3.1
+bbda5251-4368-4eec-8c2f-b9831160f743,Leandro Lopes,yago94@example.org,Técnico,Operações,12627.53,2020-11-15,Férias,Pleno,1.2
+9f28de1e-7392-4701-a9fb-3c2c64188cad,Letícia Teixeira,jose02@example.net,Assistente,Operações,10688.55,2021-11-29,Ativo,Sênior,4.9
+c963d459-3ec0-410d-85b4-53359bb25c4c,Heitor da Rosa,bento89@example.net,Assistente,Financeiro,3889.97,2021-10-22,Férias,Júnior,4.1
+e90169dd-773a-48fe-9381-c10db1d88e41,Ágatha Pacheco,biancateixeira@example.net,Assistente,Operações,8031.39,2020-10-22,Ativo,Júnior,1.6
+1a22ffb1-51f6-4041-94e4-cb287fd40c42,Cecilia Cavalcante,pereiraemanuelly@example.com,Especialista,Vendas,10806.48,2020-12-11,Licença,Júnior,2.5
+fc55212b-8ae2-46c9-891d-f73ba2c4132f,Benicio Montenegro,dante34@example.org,Especialista,Produção,14575.21,2025-01-21,Ativo,Pleno,3.2
+1f944b56-e44e-4591-b948-8747d983419f,Matteo Camargo,antonycunha@example.org,Gerente,Vendas,7028.71,2021-12-26,Ativo,Pleno,3.4
+ec2660bd-ccf5-42d8-acc8-5fef6cb42571,Maria Luiza Rocha,diegomelo@example.org,Analista,Financeiro,4499.2,2024-11-16,Férias,Sênior,3.1
+4665d691-1fb8-4d43-8304-fd0c0bf5618a,Pietra Aparecida,jrodrigues@example.net,Supervisor,Operações,13000.6,2025-09-26,Licença,Sênior,2.4
+0ee63adb-9d60-4f56-9d18-0ba762df30b2,Dra. Olívia Cassiano,vitor-hugo53@example.com,Gerente,Produção,10241.87,2024-07-27,Licença,Sênior,2.2
+a06baab6-deca-4dcd-9d1c-0ccce61d7078,Hellena Aparecida,otto59@example.net,Analista,RH,7750.05,2025-07-24,Licença,Pleno,4.6
+46b1c408-381c-4ec9-a218-5986d3c30856,Eloah Pastor,obrito@example.org,Especialista,Marketing,6451.39,2021-04-02,Ativo,Júnior,4.8
+70248465-2e97-471d-9f1e-da0f620f018b,Dra. Alexia Pires,carlos-eduardoda-cruz@example.net,Especialista,Operações,6329.24,2021-03-21,Licença,Sênior,4.3
+ef1987d6-f587-45e9-95ba-2776b576ec82,Maria Luiza Pereira,catarina39@example.org,Coordenador,Vendas,8963.55,2022-09-18,Licença,Júnior,4.4
+904fe993-4491-4f92-8374-ab30d9e046c8,Bernardo da Luz,ana-liviada-cruz@example.org,Técnico,Financeiro,4111.99,2022-11-22,Ativo,Pleno,1.1
+d64b46ea-cbdc-4f45-a0df-6b69df827466,Ana Vitória Silveira,camaranina@example.com,Analista,TI,6867.1,2025-03-21,Ativo,Sênior,3.2
+d7d32d8c-3e1a-459e-860f-ad653cd4dfb9,Dr. Vinícius Novais,kmontenegro@example.net,Supervisor,Operações,13567.05,2021-03-06,Ativo,Pleno,4.8
+ed446a45-057a-4e0c-8adf-9da80f391fb9,Rafael da Cruz,pietropacheco@example.net,Especialista,TI,12387.73,2024-11-12,Férias,Júnior,4.9
+768f71e1-e4b8-48c7-aef1-bf947ce1b00a,Miguel Fogaça,stephanysiqueira@example.net,Supervisor,Vendas,9866.04,2021-12-16,Férias,Pleno,3.8
+2a75bf2d-c425-4af7-9abe-048a68c20073,Pedro Henrique Ferreira,josue71@example.com,Técnico,Marketing,13692.48,2021-04-27,Licença,Pleno,2.2
+ea528b37-18ae-4f06-9788-411704c0b1eb,Luna Gonçalves,santosenzo-gabriel@example.org,Supervisor,RH,13094.42,2024-11-23,Férias,Sênior,1.6
+5ad6b062-7844-4395-b766-9415a775563a,Sr. Leonardo Mendes,raquelsales@example.net,Supervisor,RH,5152.91,2021-12-24,Férias,Júnior,3.2
+9990de62-424a-4cf1-8bd5-79154bc76d04,José Abreu,maria98@example.org,Técnico,Financeiro,11305.99,2020-12-05,Ativo,Sênior,4.8
+4fc9eadb-0e26-424c-9cd7-cc41cbf52aea,Eloá Montenegro,kaiquecamara@example.com,Supervisor,Vendas,3641.41,2021-08-02,Ativo,Júnior,1.9
+b3d5c463-2acb-46f4-a0ac-e62bbc2326d4,Vitor Hugo Sá,melodanilo@example.com,Analista,Produção,13517.47,2025-06-03,Férias,Júnior,3.3
+6ecedb22-6286-4bf5-84b9-9631a6d91af6,Lara Machado,slima@example.org,Supervisor,Produção,12732.91,2022-07-31,Licença,Pleno,3.8
+b518b8a1-e8be-42af-a68c-b40287130427,Isaac Moreira,claramonteiro@example.com,Técnico,Marketing,13103.93,2020-12-26,Licença,Pleno,2.4
+29a60598-1222-4131-aeaa-b80263e81f59,Yago Cavalcante,lavinia39@example.net,Gerente,Financeiro,9856.89,2023-01-15,Ativo,Sênior,4.8
+3cbe22c3-ba28-4718-920d-585b27110806,Maria Julia Martins,duartegiovanna@example.com,Supervisor,Marketing,3447.87,2022-02-09,Licença,Pleno,1.3
+ba939b51-5e47-4b0a-be4b-aec526627090,Ana Julia Machado,britoleticia@example.org,Gerente,Marketing,8797.94,2020-12-10,Licença,Sênior,1.1
+90208459-712a-4139-8c4f-b4bafd24c405,Rafaela Vargas,cardosoisabella@example.com,Gerente,Operações,3125.74,2024-08-31,Licença,Júnior,1.3
+9c0d6f8c-3347-488c-93d8-3668a24fafee,Luiz Henrique Borges,cassianosofia@example.com,Técnico,Financeiro,8821.14,2021-02-21,Ativo,Júnior,3.8
+92eadcb6-8095-400a-9fdd-39c2d1fef447,João Miguel Fernandes,fernando31@example.com,Analista,Financeiro,7376.25,2022-10-14,Licença,Pleno,1.8
+738a731e-054c-4db5-9a20-e44fc5b1ede1,Dr. Davi Lucca Peixoto,liz50@example.org,Assistente,Produção,4823.33,2022-10-27,Ativo,Pleno,2.8
+94c6414b-3889-4b57-aba3-fda45bf2a1ba,Ágatha Pimenta,jose79@example.com,Analista,TI,4392.38,2022-01-18,Férias,Sênior,1.8
+da42b7fd-e4eb-4a67-b4fe-268d589deb77,Eduardo Rodrigues,mgarcia@example.com,Coordenador,Financeiro,12714.27,2020-11-22,Licença,Pleno,3.2
+c1024928-da12-4ff8-94c7-2be886543235,Sr. João Guilherme Correia,jmendes@example.org,Gerente,RH,2228.95,2022-12-22,Licença,Sênior,1.1
+865dbbc9-ffa0-4372-8cd8-5814ddf3887b,Dante Oliveira,costajoao-pedro@example.org,Especialista,RH,6388.57,2025-05-05,Licença,Pleno,2.1
+bdb37a95-8c80-4c3b-a2b0-1fb4c89bd017,Isabel Pastor,camargomarcelo@example.net,Coordenador,Marketing,8502.79,2025-04-01,Férias,Júnior,2.6
+7f31e0c4-68ce-445e-8fb9-118d57a35965,Sr. Miguel Camargo,zcardoso@example.net,Gerente,TI,11196.1,2021-12-24,Ativo,Júnior,4.6
+97bae1c0-0943-4172-841f-85e0f1d9d783,Francisco Carvalho,tferreira@example.org,Especialista,Financeiro,10309.82,2025-04-10,Férias,Júnior,2.3
+bb3c62dd-80ad-45c1-81d6-2ee510c690fa,João Vitor Dias,aliciavieira@example.com,Especialista,RH,4732.04,2021-04-06,Ativo,Pleno,3.9
+71d583ea-b781-4925-9a0d-2b29c4931ab5,Ana Clara Moreira,mirellateixeira@example.net,Coordenador,TI,11098.13,2025-06-09,Férias,Júnior,1.4
+46d065fe-575b-48f2-b932-072c341efe85,Ravi Siqueira,nandrade@example.net,Analista,Vendas,8535.85,2023-01-17,Férias,Júnior,4.7
+60379653-db74-40fe-833b-ed644309d0c7,Sra. Maria Flor da Cruz,luiz-felipe18@example.com,Especialista,Produção,3369.65,2021-03-26,Férias,Pleno,5.0
+d28a3d3d-0866-48a9-a9c4-2903b9a8baa3,João Gabriel Sá,uda-conceicao@example.net,Assistente,Operações,13617.82,2024-11-20,Ativo,Pleno,4.1
+da1b2ce9-d7e3-4e9b-99ec-0f07667e2b56,Alice Martins,maria-lizleao@example.com,Coordenador,Vendas,3460.88,2021-02-22,Ativo,Sênior,4.5
+18a6a86d-08fc-40cc-b918-f20b86d7388c,Luiz Otávio Camargo,benicioalbuquerque@example.org,Analista,Produção,6038.57,2024-08-08,Licença,Júnior,2.3
+6515b6c9-8470-4ba4-bcb4-d906607aab73,Maria Vitória Pastor,dcampos@example.com,Gerente,Financeiro,7912.71,2022-10-09,Ativo,Júnior,1.1
+afa99803-98d4-441e-922a-b1ce14590073,Heitor da Rosa,ubarbosa@example.com,Técnico,Operações,4115.8,2025-08-28,Licença,Júnior,2.1
+601c07d5-ee32-4891-828c-7b469db34740,Srta. Sabrina Mendonça,luara35@example.com,Analista,Financeiro,10938.35,2021-01-10,Licença,Júnior,1.7
+6598d284-cf28-4759-b1db-b8c2ac94369c,Dr. Otto Caldeira,lopesjoao-vitor@example.net,Assistente,Operações,9672.97,2021-01-14,Férias,Júnior,2.1
+cc2fb8dd-d090-4823-a34a-240759bfa6df,Ayla Sales,abreumaria-luisa@example.net,Técnico,Produção,11322.5,2021-10-27,Licença,Sênior,1.3
+94947e23-151a-4465-a62c-afa3084fc967,Ian Pinto,marcela88@example.org,Assistente,Financeiro,10838.6,2023-10-27,Ativo,Sênior,2.7
+444e9f54-1142-43bd-b432-938855eeebee,Ana Cecília Almeida,moraesmaria-laura@example.net,Técnico,Marketing,14154.01,2021-12-24,Férias,Pleno,2.3
+05868995-be0c-421e-84df-d35ef9354235,Luiz Otávio da Luz,evelynmelo@example.com,Supervisor,Produção,11832.34,2025-02-09,Férias,Sênior,3.9
+7d010ae5-b8b0-4811-a660-7b764f6570df,Maria Sales,laura01@example.com,Supervisor,Produção,9757.9,2022-09-13,Ativo,Sênior,3.0
+cab91e7b-f7c3-4b7c-a4fa-22a7b0a766aa,Yago Monteiro,eduardada-rosa@example.com,Analista,RH,11384.74,2021-03-02,Férias,Sênior,2.4
+25318b78-e64a-42ad-8d3a-7fda21427a2a,Srta. Nina Macedo,ana-laura75@example.org,Especialista,Produção,14728.44,2022-11-17,Licença,Júnior,2.6
+3dcfcf66-32a9-4226-82ef-803ec3c093f3,Ana Vitória da Cruz,jpastor@example.com,Gerente,Operações,7062.43,2023-01-02,Licença,Sênior,1.5
+bc933b19-0200-4525-8259-1405653de6de,Nathan Camargo,maria-laura61@example.net,Coordenador,TI,5727.39,2021-01-24,Férias,Pleno,2.6
+0802918f-3052-4461-b3db-68e56ac78311,Ravy Cunha,elisaduarte@example.com,Técnico,Produção,11531.44,2022-12-28,Ativo,Pleno,1.7
+9c9f0216-a7b6-40de-a6f7-5fc6e5d1031d,Laís Porto,rcostela@example.com,Gerente,Produção,5848.56,2025-05-06,Licença,Sênior,2.7
+75a1250b-de27-4100-ae0e-8c58aca9c931,Alice Cassiano,daniela42@example.org,Supervisor,Financeiro,3958.56,2022-10-06,Ativo,Sênior,4.3
+e1b22fb4-b39f-4bdb-895e-dee6dd9d3ec7,Sr. Luan Lopes,luiz-henrique99@example.com,Especialista,RH,14943.25,2023-09-29,Férias,Júnior,4.0
+20b97a75-395d-4367-9808-9791f1311f56,Antônio Rios,luiza78@example.com,Técnico,Vendas,7720.89,2023-10-23,Licença,Pleno,1.6
+90cdc22d-ac34-4d2b-b295-9688b08cbab7,Dr. Arthur Gabriel da Mata,vinicius44@example.org,Técnico,RH,8248.28,2025-01-10,Férias,Júnior,1.9
+09cbc801-7d74-4536-af5e-3bedcbe4733c,Enrico Camargo,macedoluan@example.org,Assistente,Vendas,12027.52,2025-04-01,Licença,Júnior,3.7
+79b69314-4212-4390-bcc0-8a8386886ddb,Igor Santos,joaopeixoto@example.com,Especialista,RH,11131.99,2023-11-05,Ativo,Pleno,1.7
+f4617bc8-40cb-44cf-8538-f7ceed232477,Ana Julia da Costa,andradeluiz-fernando@example.net,Coordenador,Financeiro,4149.41,2023-12-04,Licença,Júnior,4.0

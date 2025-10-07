@@ -1,0 +1,501 @@
+id,data,tipo,categoria,descricao,valor,conta,status
+2dd02173-b596-4cae-b3d5-04c60b1ac3ad,2025-01-16,Receita,Vendas,Rem iure vel.,-36688.85,Conta Corrente,Cancelado
+33d92487-bf89-4e05-af94-24aa69a21353,2024-10-13,Despesa,Salários,Consequuntur fuga tempore autem.,4263.18,Poupança,Pendente
+a8a90748-dc10-4557-aed9-8943738a9bed,2025-03-23,Despesa,Marketing,Eaque ab autem voluptas.,76305.84,Conta Corrente,Cancelado
+50090555-d743-4ac7-826e-b5ffa1a0384e,2025-04-09,Despesa,Investimentos,Voluptates aperiam maxime.,-35365.06,Investimentos,Cancelado
+a914ffc2-27bb-44de-ad17-f488ea2e4f71,2025-01-05,Receita,Fornecedores,Illo quae illum doloribus exercitationem deleniti ad.,61239.98,Banco Principal,Pendente
+791b73c7-6824-4fa2-b07b-676a1dfe1966,2025-04-16,Receita,Fornecedores,Nisi facere distinctio consectetur facere.,97902.76,Poupança,Confirmado
+56759539-f008-4ca1-aec0-dd0baebee57d,2025-06-25,Despesa,Vendas,Tempora optio modi enim expedita sint unde.,85783.49,Investimentos,Cancelado
+ff09d144-ea67-4263-9f43-e31d966d81c5,2024-11-23,Receita,Vendas,Veniam ab quas doloribus architecto quae.,-16017.25,Conta Corrente,Cancelado
+12c14637-8b02-4bc2-9dc8-8bce04ab1645,2025-05-25,Receita,Impostos,Vitae molestiae quaerat eius.,-15011.13,Conta Corrente,Confirmado
+bb0e171b-d794-42a2-8cdc-d448d8b65e15,2025-02-13,Despesa,Salários,Numquam deleniti amet quia excepturi deserunt dolore et.,10203.35,Banco Principal,Pendente
+90413fac-689a-4510-aec3-576da1411fc8,2025-05-19,Receita,Fornecedores,Veniam adipisci velit harum.,37205.54,Banco Principal,Pendente
+d8c72fa6-22a5-4be1-860c-3fb6c1bf74f3,2025-07-30,Receita,Salários,Voluptatum exercitationem impedit dolore.,6536.77,Investimentos,Pendente
+afa733d0-f4c0-4f01-b49c-357fd0676c68,2025-03-28,Receita,Investimentos,Mollitia sapiente mollitia.,-7362.05,Banco Principal,Confirmado
+e49abdcf-7e60-4289-95db-a700fcc7b9e8,2025-06-15,Despesa,Infraestrutura,Fugiat sint ipsum assumenda repellendus unde.,-26758.36,Banco Principal,Cancelado
+602481cd-06b6-418e-9579-3290af5ace8a,2025-03-03,Despesa,Marketing,Id exercitationem odio saepe assumenda nihil tenetur.,-4051.86,Poupança,Confirmado
+118df3cd-5e48-4e18-bd4e-2d2fad0ce1ab,2025-07-14,Despesa,Fornecedores,Iste earum dolorum animi neque quam.,65933.78,Banco Principal,Cancelado
+409ee4b4-e8fa-4fbc-b042-c8e9a3ec2cd2,2025-01-02,Receita,Investimentos,Architecto suscipit hic modi veritatis.,-9289.13,Conta Corrente,Cancelado
+9b776608-290b-4cc3-a6f1-d353c8f2b967,2025-05-02,Receita,Fornecedores,Ut harum assumenda consequatur porro.,-35690.59,Banco Principal,Pendente
+8d9dd01d-554f-43eb-840d-c553ef174d05,2025-01-19,Receita,Investimentos,Maxime est fugiat iure mollitia eaque ipsam deserunt.,79871.83,Conta Corrente,Pendente
+ed6c20b4-7ac4-4f21-85d8-a5da228af617,2025-09-26,Receita,Fornecedores,Ipsam illum tempore temporibus ducimus distinctio magnam.,88547.82,Poupança,Pendente
+84528ae7-1b0e-4e12-b62c-a4f363be0c82,2025-09-05,Despesa,Infraestrutura,Minus cumque nobis excepturi.,68130.6,Conta Corrente,Confirmado
+9ab12c93-0b5f-4999-ad24-8a1cd22c6999,2025-09-21,Receita,Infraestrutura,Eligendi sunt nulla nihil earum adipisci corporis tempora.,47728.26,Poupança,Pendente
+39f3b176-5118-410d-90d6-f78782339b6d,2025-03-05,Despesa,Salários,A adipisci officiis laborum ipsam quisquam earum molestias.,95311.05,Poupança,Pendente
+89089142-75fb-4c15-b120-75964adb1bdc,2025-07-23,Receita,Fornecedores,Saepe est cum eligendi ipsam.,63145.79,Investimentos,Cancelado
+f233018c-168b-4c62-a6b6-5a8048b5726e,2025-06-18,Despesa,Infraestrutura,Iure sequi esse incidunt.,-28846.37,Investimentos,Cancelado
+2e0fd40a-02c0-498f-b7a3-9ce3ebc5241c,2024-12-15,Despesa,Fornecedores,Quos non fugiat debitis.,15480.97,Poupança,Confirmado
+ee2bc61d-60b5-40a5-ba01-253f1c854ef3,2025-07-14,Despesa,Vendas,Recusandae reiciendis recusandae harum.,56045.27,Conta Corrente,Pendente
+bd07258f-b3dc-47db-aafd-a7c765a3dfda,2025-09-02,Receita,Marketing,Iure quisquam amet quos dolores aut nisi.,8408.77,Poupança,Cancelado
+bbb20d14-4d3c-4d28-b66c-fb9715d6149a,2024-12-25,Receita,Investimentos,Possimus ipsum occaecati quasi architecto.,2188.86,Investimentos,Cancelado
+cbf0ade5-4db9-45f9-bdc8-6c2bd49b4576,2025-03-27,Despesa,Investimentos,Assumenda numquam corrupti quidem dolores.,-30062.74,Poupança,Cancelado
+4f1bbcf3-53c0-4d36-b458-88c8046be538,2025-03-28,Receita,Fornecedores,Labore ratione molestiae sunt.,44518.3,Investimentos,Confirmado
+5345a38c-9011-4100-b52d-aafb004e4e90,2025-08-24,Despesa,Impostos,Non optio vitae officiis nihil dolor.,-29060.4,Conta Corrente,Confirmado
+ae67f954-c970-4044-bc11-5f0dd3ffc8e5,2025-05-04,Despesa,Marketing,Quidem ipsa ab maxime necessitatibus.,38539.63,Conta Corrente,Confirmado
+01e8be6c-cde7-4043-b1dd-e977dbd21905,2024-11-11,Receita,Salários,Placeat debitis saepe eveniet non ab.,-26383.83,Banco Principal,Pendente
+cf8427ab-2278-4082-b0a5-3eb6cd5006a9,2025-02-12,Receita,Salários,Iure corporis fugiat voluptates incidunt error.,-40550.87,Investimentos,Cancelado
+dbd582ee-e758-4594-b82d-b9651d656e12,2025-03-29,Despesa,Fornecedores,Qui architecto placeat sint autem vero quod.,-35334.1,Investimentos,Confirmado
+bef4d494-1263-4c04-90d5-40a7074c457a,2025-06-11,Receita,Investimentos,Sunt provident quaerat optio.,-7592.84,Conta Corrente,Cancelado
+28fc541f-e61a-40f8-995b-1f3c4ce315d2,2025-06-01,Receita,Fornecedores,Est illo voluptatibus assumenda ratione.,20959.07,Poupança,Confirmado
+7c61328b-55e3-42b4-98b5-f3661ccd9147,2025-09-11,Despesa,Vendas,Debitis perferendis qui provident hic quaerat dolor.,68649.02,Conta Corrente,Confirmado
+93062ce9-2cbb-463d-9b01-e3b4bcdfbd71,2025-03-22,Despesa,Investimentos,Dolorem facere doloribus eligendi.,-3733.31,Conta Corrente,Cancelado
+8970fd2d-0e68-4bda-af8d-80b1c955df94,2025-08-24,Despesa,Impostos,Consequatur quis neque quia inventore eos.,-25966.26,Investimentos,Pendente
+f2b59d5d-2acd-414d-9c69-31eda80f315e,2025-09-25,Receita,Marketing,Corrupti nobis doloribus eligendi.,-34420.15,Investimentos,Pendente
+b1729a42-1fee-40ce-bdde-d3f28a054618,2024-10-24,Receita,Impostos,Praesentium cupiditate voluptate.,88660.27,Conta Corrente,Confirmado
+0ddf3b7d-86f8-4287-9d10-0797d6cb4083,2024-10-11,Despesa,Salários,Magnam ipsa animi animi architecto.,-32049.8,Conta Corrente,Confirmado
+0d11ae63-f10b-4ba7-92d6-1297029f3b09,2025-02-17,Despesa,Salários,Temporibus cum nam a.,-25819.6,Banco Principal,Pendente
+640a5266-a236-4c87-8cdc-f637c0f72b61,2024-11-01,Receita,Fornecedores,Impedit accusamus culpa sint explicabo dignissimos magnam.,-29280.26,Investimentos,Confirmado
+bfd58908-8d43-4d9e-a475-0291197305d0,2025-01-14,Despesa,Fornecedores,Cupiditate hic soluta eos.,66276.21,Investimentos,Cancelado
+cddd39ad-9bb0-440f-a99f-ddc2913f787c,2025-08-06,Despesa,Salários,Aliquam laudantium saepe et.,75368.21,Investimentos,Pendente
+d222c2ba-33ff-42a4-b07b-1c45948f5e9a,2025-04-27,Receita,Marketing,Reiciendis facilis perferendis quidem iusto.,-41866.32,Conta Corrente,Pendente
+a3dbf927-3b54-454f-8dc7-36c1b25d999c,2025-02-03,Receita,Fornecedores,Consequatur officia atque magni suscipit.,-11134.5,Poupança,Pendente
+cfcb85bc-4bae-4f9f-ba5a-6eaa68d4a786,2025-08-28,Despesa,Marketing,Quisquam perferendis nihil consequatur ab fuga facere.,89795.34,Poupança,Confirmado
+f7f58ed4-b39a-46df-bdae-62139a1cb39d,2025-09-14,Despesa,Salários,Inventore officiis velit iure sequi ullam.,3819.65,Banco Principal,Pendente
+76d9ded2-0c9a-413c-905d-1686d13b317c,2025-05-15,Receita,Investimentos,Nemo dolore doloremque dolor ipsum aliquam.,36186.54,Investimentos,Pendente
+0e33fb2a-16f1-4f3a-b29b-136dbe2ddb14,2025-01-23,Receita,Salários,Modi quisquam sed totam a.,26129.47,Investimentos,Confirmado
+7b5f842c-1796-4a14-a5ba-644083db7824,2024-12-11,Despesa,Vendas,Sapiente odio qui neque.,-13392.79,Conta Corrente,Pendente
+7a3c6d67-48d5-404a-8281-263916ae600f,2024-11-15,Despesa,Vendas,Itaque nostrum rerum perferendis dolorum.,79436.18,Banco Principal,Pendente
+88954e3a-43f7-4396-92a3-74863554e9f3,2025-07-26,Despesa,Impostos,Veniam voluptates possimus ea qui quasi architecto.,21105.55,Banco Principal,Cancelado
+7dad0b5b-a081-4950-a30a-a224bbf4e6b7,2025-03-30,Receita,Impostos,Dolor vel earum non nam voluptatem repellendus.,44157.46,Banco Principal,Cancelado
+b8aed8d3-29af-4c89-9ff1-c67e2cf76ce0,2025-03-21,Despesa,Infraestrutura,Quae minima sequi minus.,58726.32,Investimentos,Pendente
+8b89f6be-e355-4647-b479-f62d50c4c2ce,2025-07-23,Despesa,Vendas,Quisquam eveniet placeat ratione veritatis quae voluptatibus sunt.,25008.89,Investimentos,Cancelado
+41caaabd-1355-4ba6-9bc5-05805f414222,2025-02-03,Receita,Fornecedores,Labore similique odit autem totam.,-17952.14,Banco Principal,Cancelado
+6b8f64fb-5b53-4eca-9d92-a3596a2a1eeb,2025-05-01,Despesa,Marketing,Aspernatur molestias nesciunt repudiandae rem.,-44557.06,Banco Principal,Cancelado
+4bc31c1f-5502-47bd-bb20-2cf37c50e3b3,2025-03-05,Receita,Vendas,Soluta alias excepturi magni.,-29268.72,Investimentos,Confirmado
+47ec8052-b1ae-4b07-95f6-992f86f5e406,2025-07-13,Receita,Fornecedores,Expedita cupiditate eum eligendi ratione et.,22.17,Banco Principal,Confirmado
+7afe1d41-674e-45ed-9fa0-fa72d547cce9,2025-04-06,Despesa,Investimentos,Neque voluptate ipsa soluta vero voluptatibus labore.,-1912.7,Banco Principal,Confirmado
+cceb2aaa-b325-404b-8654-e9e92755f0e0,2024-12-11,Receita,Marketing,Saepe quidem tempora dolorem sunt quo atque.,4025.38,Investimentos,Cancelado
+859ade2c-4a64-4daa-802a-3d3a998410c9,2024-12-18,Receita,Marketing,Rerum dolorem illum eos eum.,55911.25,Poupança,Pendente
+b6b9d330-4052-4aee-822e-732c7518ba7b,2025-03-27,Receita,Salários,Incidunt magni porro architecto dolor.,71726.77,Conta Corrente,Cancelado
+779da74b-c002-4019-96ee-975b7f6808de,2025-03-01,Despesa,Vendas,Sint molestiae aspernatur cupiditate dolorem.,64269.17,Investimentos,Pendente
+94f15fce-ffad-4876-95eb-b27b50e3ab4c,2025-03-17,Receita,Investimentos,Explicabo eos quod neque error.,40564.12,Banco Principal,Pendente
+5834e933-2163-49ce-aef7-7f3095bab938,2024-12-11,Receita,Fornecedores,Vel at placeat facilis esse incidunt.,-13241.56,Poupança,Confirmado
+1745ac14-abea-44b5-b837-a1a304c589f0,2025-08-21,Despesa,Impostos,Beatae cumque ea dolor amet aliquam.,-40998.89,Poupança,Cancelado
+4bc8566f-5dbd-4878-b6ab-28c3e82cba68,2025-07-19,Receita,Marketing,Voluptatem officia officiis facere dolorem.,-30536.31,Conta Corrente,Confirmado
+4b0d8a4e-7060-4177-abf6-799fabbccbae,2024-12-26,Despesa,Vendas,Fuga vero pariatur ab veniam soluta.,-32637.11,Poupança,Confirmado
+f287ce53-ca68-473b-a366-654e4997bfbc,2025-04-30,Despesa,Impostos,Veniam voluptate dicta quia.,5996.76,Poupança,Confirmado
+ee5ffc4d-5fd6-4f55-813b-8c2594238af5,2025-08-20,Receita,Investimentos,Nemo occaecati quo deleniti quas commodi odit.,24191.16,Investimentos,Pendente
+3a8d3df0-507d-4466-bafd-dd2432957d07,2024-12-28,Receita,Infraestrutura,Et dignissimos minus.,50945.76,Conta Corrente,Pendente
+671ac5ca-54ad-4a54-a981-1b7552ad1ee1,2025-05-18,Despesa,Vendas,Aut voluptate maxime veniam quam labore facilis maiores.,15550.56,Conta Corrente,Confirmado
+248ed4a9-9e28-4cc9-b2d1-eea590d75f80,2025-03-15,Despesa,Investimentos,Velit eius accusamus at pariatur.,66102.41,Poupança,Confirmado
+1a438e0f-5901-449f-abe1-1e076fe8821e,2024-11-01,Despesa,Vendas,Qui rerum doloribus error nostrum.,-11308.47,Conta Corrente,Pendente
+af29353c-1068-49d2-8239-ae3538d94534,2024-10-16,Despesa,Salários,Aliquid facere debitis occaecati incidunt amet unde.,-38898.76,Poupança,Pendente
+fba27d6c-3bd8-4569-b3f3-842764d47937,2024-12-17,Despesa,Fornecedores,Quasi vel tempore laudantium harum.,43789.84,Conta Corrente,Cancelado
+1570cdb8-ea2d-4197-9030-a25df31c9d4f,2025-09-13,Receita,Infraestrutura,Id ipsum itaque.,43092.99,Banco Principal,Cancelado
+aa8c24f6-4518-4d4f-b54c-0b9067040d92,2025-07-10,Receita,Marketing,A praesentium quas eligendi.,4106.16,Banco Principal,Cancelado
+b06cef96-6896-4f4f-b6f5-8b28c67667d9,2025-03-12,Receita,Fornecedores,Necessitatibus amet repellat porro autem quasi quis.,-12299.06,Conta Corrente,Confirmado
+d36e1912-ec75-464e-b29c-f02b216d8566,2025-04-30,Receita,Investimentos,Totam iure dignissimos recusandae quasi quaerat saepe.,57491.1,Poupança,Confirmado
+ae629d8c-4466-40c8-81b6-baf7c49c6c48,2025-10-01,Receita,Salários,Quidem explicabo dolorem quis nemo beatae.,39855.68,Banco Principal,Pendente
+8857e183-5fca-4e2e-8052-ac20651abbf5,2025-04-23,Receita,Fornecedores,Aperiam debitis blanditiis aliquid.,45137.35,Poupança,Cancelado
+3b3fefee-b46d-44d2-b421-bc5d426bcdcf,2024-12-04,Receita,Impostos,Saepe asperiores quae expedita.,72722.72,Poupança,Cancelado
+08668405-af8d-4542-8679-12a2ad628da6,2024-12-19,Despesa,Investimentos,Ab dolorum qui quisquam officiis nulla magni.,81674.33,Conta Corrente,Confirmado
+e482f5a3-424d-41f5-aaae-5444df3d57f8,2025-06-06,Receita,Impostos,Quia blanditiis eaque nesciunt.,-33941.22,Conta Corrente,Cancelado
+53dd35d7-78ac-4fad-8fee-4afc7f8351a5,2025-07-24,Receita,Investimentos,Tempora quibusdam harum cum inventore ab.,-33976.8,Poupança,Confirmado
+23d1d7ec-2f3e-4cb9-828b-3a2cb1c79f20,2025-03-24,Despesa,Marketing,Hic debitis provident iusto.,-11583.55,Investimentos,Cancelado
+99d03c29-4dfa-468a-ab7d-da4a6bc9e1fb,2025-05-18,Receita,Salários,Aut cupiditate nisi dignissimos maiores.,-4138.95,Investimentos,Confirmado
+cd8341cd-2efb-436a-aef6-d93196522e16,2025-08-14,Despesa,Fornecedores,Quod maxime nesciunt at nulla.,61956.05,Conta Corrente,Confirmado
+9c1469e2-b455-4363-8c9f-4f0933c00cbf,2025-03-28,Despesa,Salários,Nostrum voluptate aliquid porro non accusantium necessitatibus.,24587.53,Poupança,Confirmado
+0071922e-c1d5-43b9-aa8f-2d1c40010cbb,2024-10-07,Despesa,Salários,Cum tenetur delectus molestiae.,92913.3,Investimentos,Confirmado
+6851b63b-798b-449f-b476-756f0bb79dd4,2025-04-12,Receita,Marketing,Porro incidunt doloribus deleniti quia ut accusantium.,-33140.46,Banco Principal,Cancelado
+93baacda-0f12-4d05-b170-4039656b9867,2024-11-17,Despesa,Marketing,Asperiores nesciunt exercitationem enim molestiae recusandae.,-19810.49,Investimentos,Confirmado
+1e9b2832-eec0-4adb-8d10-d54c880f408c,2025-01-18,Despesa,Investimentos,Officiis deserunt eius corrupti necessitatibus quae quis.,74089.78,Investimentos,Confirmado
+e3169446-0161-4237-bc05-a31a3b7fbc36,2025-05-31,Receita,Marketing,Consequuntur vel molestias eligendi officia delectus officiis.,-20141.0,Poupança,Confirmado
+8aacb2c8-9e69-4c67-b2ca-efd6493f0bdd,2025-05-19,Despesa,Infraestrutura,Quod quam temporibus iste animi fuga quibusdam omnis.,31274.75,Poupança,Pendente
+c71fe277-fecb-4def-8f11-0f2227c9fca1,2025-03-15,Receita,Infraestrutura,Fugit illum laboriosam voluptates nostrum.,-37693.76,Poupança,Pendente
+1e1a1c75-578d-47f5-be05-3ed60c8eec8f,2025-10-01,Receita,Fornecedores,Quas tempore magnam.,-25062.15,Banco Principal,Pendente
+a1445434-5ef5-4cd7-9f57-cde636c4201d,2025-08-10,Despesa,Investimentos,Excepturi dolore adipisci voluptates fugiat maxime vero.,-15667.92,Investimentos,Cancelado
+9a6e07a7-783e-44e8-8372-4ce5ff95731f,2025-09-18,Despesa,Fornecedores,Tempora eveniet nesciunt porro.,20142.02,Poupança,Cancelado
+7b1806e7-cbdc-4ac4-84c5-8b16e69ee53e,2025-09-24,Receita,Vendas,Unde molestias aliquid occaecati.,87427.26,Investimentos,Cancelado
+f947dea4-0c4c-47b8-9368-bdc226cb76ac,2025-03-08,Despesa,Investimentos,Ab exercitationem deserunt necessitatibus amet similique consequatur.,84781.28,Investimentos,Cancelado
+9fe9a3f8-88c5-45d9-af33-91a3327eea58,2025-01-20,Receita,Marketing,Repellendus quibusdam corrupti magni dicta eius.,-32101.01,Investimentos,Confirmado
+de856291-a105-4d40-8169-8729ec4b1ddc,2025-09-13,Despesa,Infraestrutura,Minima commodi quidem unde explicabo.,53913.43,Banco Principal,Confirmado
+4c8f6005-0a93-4435-aa15-01f3d7c0a38f,2024-12-11,Receita,Marketing,Distinctio exercitationem saepe sed.,72964.95,Banco Principal,Cancelado
+91bf9e14-316e-4edd-8bed-a0d7cf6926ca,2025-03-24,Despesa,Marketing,Et veniam rerum nihil modi voluptatibus unde aspernatur.,75715.91,Conta Corrente,Pendente
+f4a34961-dc01-4b56-84e4-26e6e1f90347,2025-08-27,Despesa,Impostos,Modi quis eaque suscipit.,91054.69,Conta Corrente,Confirmado
+1ffa2f91-91ca-486b-8b6c-134a1670a577,2025-04-28,Receita,Investimentos,Esse amet tempora autem perspiciatis voluptas recusandae.,-44711.58,Investimentos,Confirmado
+ed254f52-dcdc-4549-9587-cf135d377086,2025-01-21,Despesa,Vendas,Doloremque ducimus architecto ea.,72321.47,Poupança,Confirmado
+0eab3963-e212-46a2-bf86-99d93fd424a1,2025-03-17,Receita,Investimentos,Labore quis accusantium deserunt sint.,40222.72,Conta Corrente,Pendente
+917a389c-7cf6-4b35-ab9d-2bb89ec255b4,2025-01-09,Despesa,Fornecedores,Quod rem error officiis unde corrupti cumque.,7652.73,Poupança,Pendente
+35d93e27-bdf9-408a-a87f-9d92f55e275c,2025-07-12,Receita,Investimentos,Impedit alias quidem laborum.,-23798.99,Banco Principal,Cancelado
+8199e341-2352-4c42-b0f4-4cbf3017c689,2024-10-23,Despesa,Vendas,Dolore occaecati odio vero quidem maiores praesentium.,-36699.89,Banco Principal,Pendente
+cb3d927e-126e-41f5-9416-0610002350b2,2025-01-11,Receita,Infraestrutura,Possimus ipsa architecto consectetur voluptas.,37248.9,Conta Corrente,Pendente
+fcf21435-2172-4e74-839f-e81c82590299,2025-03-08,Receita,Investimentos,Sunt omnis tempora fuga.,-43703.82,Conta Corrente,Cancelado
+ff172755-b060-4465-86e4-62a5fcefae92,2024-10-14,Despesa,Vendas,Laudantium delectus esse hic laudantium recusandae.,78466.79,Poupança,Cancelado
+ffdf8200-e5b0-40fd-ad22-31fa5562d7fb,2025-05-08,Receita,Investimentos,Esse totam similique illo fugiat voluptatibus odit.,38094.23,Banco Principal,Cancelado
+065b904f-3ec9-432d-ac49-29443469bdb0,2025-08-27,Despesa,Infraestrutura,Reiciendis quia eius fuga tempora.,24487.62,Conta Corrente,Cancelado
+9ca5bed5-a099-4ee9-8916-c8d26ad93d21,2025-08-07,Receita,Vendas,Soluta aut quas ipsam necessitatibus rerum itaque sit.,7396.37,Poupança,Pendente
+1093567a-51be-4278-a900-d67fd9e9c492,2025-10-05,Despesa,Infraestrutura,Alias neque eum dignissimos incidunt atque.,-49266.58,Conta Corrente,Pendente
+d2106d62-0357-4a72-b8f5-3d911e49f714,2024-12-16,Despesa,Infraestrutura,Laudantium laboriosam in consequatur iure nemo provident.,-32164.98,Poupança,Cancelado
+0c8f97fe-1d31-481b-a77a-4db4ac7ac9ae,2025-05-19,Despesa,Impostos,Fugit explicabo doloribus laudantium.,-16772.95,Conta Corrente,Pendente
+98c72fad-95b2-4741-8f36-76408ffa963f,2024-11-14,Despesa,Fornecedores,Nobis quam debitis nam iure eveniet placeat adipisci.,18176.08,Banco Principal,Cancelado
+2ec18f14-d502-44f0-93a6-68878f3714a0,2025-05-25,Despesa,Impostos,Vero ut illum.,99954.06,Banco Principal,Confirmado
+0267cfbe-36b5-46c8-b4ca-418730a973f3,2025-03-14,Receita,Salários,Occaecati consequatur explicabo earum.,3879.12,Poupança,Pendente
+62dcc61b-70ac-4efc-9e65-78119e2efd22,2025-07-28,Receita,Vendas,Quasi repellendus quod labore error rerum magnam.,59182.33,Investimentos,Confirmado
+d2010f04-08b6-4b99-a685-7b1f4e7964dd,2025-03-21,Despesa,Fornecedores,Praesentium quibusdam soluta iure nisi facilis exercitationem.,81740.36,Poupança,Confirmado
+6ef86b76-ab69-4f59-aaaa-b5e534d15ff9,2024-10-25,Despesa,Marketing,Error qui impedit cumque similique voluptatum.,3714.2,Conta Corrente,Pendente
+1ba29a0c-aba1-4c56-96f2-38b5f805a18c,2025-08-11,Receita,Investimentos,Quibusdam ex quo quam reiciendis laboriosam.,1113.02,Banco Principal,Cancelado
+5c8ab08c-2b69-4215-a3fd-9fb0334e22d9,2025-07-20,Receita,Investimentos,Doloribus laborum voluptate aliquam eum deleniti.,58913.75,Poupança,Cancelado
+1a6084b7-aaad-4e3d-b269-dfa3758cb9df,2025-03-23,Despesa,Impostos,Sint laborum fuga quasi.,82481.41,Banco Principal,Confirmado
+a1c7faee-2fac-44fc-87d8-a3ef187e7e7c,2025-01-31,Despesa,Salários,Facere accusamus aperiam architecto ducimus.,-20968.2,Banco Principal,Confirmado
+3e320dc7-d2e7-4e25-88a2-a5099809aaa5,2024-10-20,Despesa,Infraestrutura,Autem voluptas accusamus quia rem ad.,64814.02,Poupança,Cancelado
+703c0904-6678-4fd5-8c78-cc9cd96caa04,2025-06-22,Despesa,Vendas,Eligendi pariatur rem neque fugit eveniet.,-2846.09,Investimentos,Confirmado
+685c1035-b578-446b-96df-8dff5b6c8550,2025-06-09,Despesa,Marketing,Voluptates ea fuga ea pariatur consectetur.,99862.46,Conta Corrente,Pendente
+3006ba07-20d2-4f72-adcf-923c90b21122,2025-02-19,Despesa,Fornecedores,Saepe quas alias.,76052.92,Investimentos,Cancelado
+e4345def-f68d-40c1-8873-d4f7f1158f20,2025-07-05,Despesa,Investimentos,Debitis ab blanditiis deleniti officia.,-35167.03,Banco Principal,Pendente
+d985ccb8-d2d3-4879-ae58-666633ca4522,2025-05-27,Receita,Infraestrutura,Ex reiciendis nemo officiis.,-49913.0,Banco Principal,Confirmado
+6313cebc-7003-45ba-b0f1-f33afbcdd1d5,2025-06-29,Receita,Vendas,Delectus voluptate nobis molestiae.,90774.68,Investimentos,Cancelado
+f40345fb-2c46-4218-b4b0-ceb507e99820,2025-02-20,Despesa,Impostos,Deleniti nihil architecto quis.,87083.85,Investimentos,Pendente
+0681601a-fc7a-43fb-819c-6543a91dd63d,2024-10-05,Receita,Vendas,Quod non porro voluptate nisi voluptatibus aliquid.,68785.44,Investimentos,Cancelado
+413aaf44-02fe-4706-8dad-5f389d7456ea,2025-02-17,Despesa,Infraestrutura,A natus sed.,26394.61,Investimentos,Cancelado
+c0fc738a-8c24-42a2-a8cb-5b8e82f5306c,2024-12-06,Despesa,Vendas,Occaecati ipsam ducimus similique voluptas.,44311.51,Conta Corrente,Pendente
+2e6fdb0e-a9a9-4779-a4eb-75493a564818,2024-12-01,Receita,Infraestrutura,Dolore doloribus earum fugiat quasi.,-2161.47,Banco Principal,Cancelado
+8cc572ee-5c63-4793-8349-1d04a0148718,2025-02-20,Receita,Infraestrutura,Tenetur possimus possimus deleniti aliquid dolor excepturi voluptate.,62794.44,Investimentos,Confirmado
+84893986-ac4e-4436-926e-3a62c53122e5,2025-08-21,Receita,Salários,Amet debitis nihil dolorem sint laudantium molestiae.,-20928.16,Banco Principal,Cancelado
+3392f223-3c31-4104-a74d-12d6ec9a4dd1,2025-02-05,Receita,Investimentos,Et sequi deleniti voluptate fuga blanditiis.,4588.13,Poupança,Cancelado
+4c18e746-89f8-425f-8afb-afcb2fd694eb,2025-02-03,Despesa,Impostos,Cupiditate aliquid accusantium doloremque aspernatur quae quis.,68593.14,Conta Corrente,Pendente
+be6dd949-ce9c-49b9-b783-84d8fece177f,2025-06-19,Receita,Vendas,Rem id aliquid quo temporibus.,49398.48,Poupança,Cancelado
+76fb928d-9101-4f22-9851-9ee401ee8158,2025-06-28,Receita,Marketing,Temporibus voluptatem autem architecto alias ducimus.,-6823.82,Banco Principal,Pendente
+747698ad-c84e-4d09-a7de-9ed23c446a46,2024-11-27,Receita,Salários,Debitis repellendus asperiores laboriosam.,53912.07,Poupança,Cancelado
+97cc5421-6844-4cef-8b9b-7649846252a1,2025-07-07,Despesa,Impostos,Perferendis eius perspiciatis.,5506.98,Poupança,Pendente
+2ca95566-915c-4594-9fae-e58584826b8a,2025-02-09,Despesa,Impostos,Amet deleniti fuga excepturi eaque asperiores doloribus inventore.,-8927.56,Investimentos,Pendente
+0c954ec3-a0fc-4bad-80ec-80b9ea7c9bcd,2025-07-22,Despesa,Marketing,Repellendus ratione aliquam a facere excepturi beatae.,-8318.08,Banco Principal,Confirmado
+6fc54fc5-e66c-4273-890e-e4e950ee7771,2025-04-04,Receita,Vendas,Repudiandae cupiditate asperiores ullam.,-25231.95,Conta Corrente,Pendente
+41fc6719-43ab-4723-95d2-8240848ed63c,2025-09-07,Despesa,Fornecedores,Doloribus ullam totam hic laudantium.,19365.83,Poupança,Pendente
+de1c5d62-2915-48b1-a3c5-495138671ce1,2025-04-24,Despesa,Salários,Laborum dolorem eum quibusdam deserunt esse culpa.,601.62,Poupança,Cancelado
+780306c0-d136-4a74-9b60-95c24e5fd953,2025-03-06,Receita,Fornecedores,Aut cupiditate quaerat aspernatur excepturi magnam.,1377.16,Poupança,Confirmado
+6fbc8fc1-3816-4913-b780-32fd8ea89880,2024-12-04,Receita,Impostos,Quos explicabo esse dolores laborum.,43502.12,Banco Principal,Confirmado
+69c081f4-e0af-47d2-840d-f53b714360ce,2024-12-06,Despesa,Impostos,Provident quos cumque iure eius exercitationem qui delectus.,-8668.47,Investimentos,Cancelado
+7915e63e-7654-4cb9-9ef5-b35a740dfe7f,2025-03-29,Despesa,Impostos,Beatae deleniti vitae quo quis deleniti.,89442.39,Poupança,Confirmado
+2f211829-a593-4655-9c01-da4904b921a7,2024-12-28,Despesa,Vendas,Blanditiis quod sequi distinctio necessitatibus.,56664.86,Banco Principal,Pendente
+4becf683-197b-4e87-b809-7a9307964431,2024-10-21,Despesa,Salários,Voluptatibus natus explicabo saepe cumque.,-17202.37,Poupança,Pendente
+0b66f4b9-50aa-4578-ad27-60a57d53a12b,2025-02-12,Receita,Fornecedores,Quae odio animi hic excepturi aliquid deserunt.,-41569.7,Banco Principal,Confirmado
+9e526a15-f4c9-4c15-b5f1-d8bb3321293a,2025-01-29,Receita,Investimentos,Eius reprehenderit commodi perspiciatis iusto nam nihil.,31564.43,Conta Corrente,Confirmado
+3ac84c9b-825b-49b9-8941-84f8c99fb151,2025-06-23,Despesa,Fornecedores,Dolorum dolores ad nostrum.,54854.46,Banco Principal,Confirmado
+d6694a85-ab64-4755-b0a4-f6cf50499165,2024-10-28,Receita,Salários,Magnam quaerat perferendis iusto.,-28033.66,Poupança,Pendente
+828c33c1-84ea-4b6c-a9de-48d25e074508,2025-03-24,Despesa,Investimentos,Eligendi blanditiis unde accusantium dolorem eum impedit.,-25205.36,Poupança,Confirmado
+5f8f1de0-097c-479e-8199-846e6e4d9757,2024-11-19,Receita,Vendas,Error repellat pariatur in repellat exercitationem quidem architecto.,55390.58,Banco Principal,Cancelado
+4ff7c892-87b7-41c2-8bdb-8ac7df6405da,2025-01-23,Receita,Infraestrutura,Dolore quos quas aspernatur veniam.,-16436.6,Investimentos,Cancelado
+419bb9c3-a89f-45a2-9361-95f781ea2a17,2025-04-21,Despesa,Vendas,Illum voluptatibus modi blanditiis.,42217.46,Investimentos,Cancelado
+e96e6098-9c18-4812-8936-ba7d26265790,2024-11-01,Receita,Infraestrutura,Mollitia iusto enim ipsum deleniti optio rerum.,38974.12,Poupança,Pendente
+5e4a3de9-e812-4317-9ace-5cb3a9dda207,2024-11-21,Receita,Infraestrutura,Aspernatur doloribus perferendis veritatis.,79005.46,Banco Principal,Pendente
+923890fc-931c-4c27-afaa-8ac3913065eb,2025-07-16,Receita,Fornecedores,Doloremque nulla eveniet illum occaecati tempore dignissimos.,53357.08,Banco Principal,Pendente
+d56f0667-a96d-48d9-af44-6d65db5a004e,2024-11-06,Despesa,Salários,Exercitationem suscipit at vel ullam exercitationem.,42011.68,Poupança,Cancelado
+8e47d467-36ad-4951-96d8-8ccf3a1ad007,2025-08-20,Despesa,Investimentos,Numquam iste laboriosam a.,92969.77,Investimentos,Pendente
+daf783dc-7286-4ab6-abd2-98379de49d59,2025-03-11,Receita,Marketing,Est temporibus ad veritatis laudantium sint.,10297.95,Poupança,Cancelado
+f3dab625-3400-4df8-b2af-f3895d8f2f57,2025-06-29,Receita,Fornecedores,Vero tempore quasi tempora aliquid ut ratione.,69567.95,Conta Corrente,Pendente
+d3de372a-bcb7-470e-b9db-88d44b06f3ce,2025-01-25,Despesa,Investimentos,Cupiditate libero occaecati non numquam odit.,21354.26,Banco Principal,Confirmado
+4c8792ef-a9db-4a5b-83ac-5ef6dbecd456,2025-02-04,Receita,Investimentos,Dolore facilis vitae.,94112.57,Conta Corrente,Pendente
+379c8594-6d64-4432-9b4d-09701870076b,2025-02-08,Receita,Marketing,Ratione dolorum quia tenetur illum dolorum nulla.,28819.11,Investimentos,Confirmado
+06eae5dd-6622-4a17-97b3-4e3f7063c09d,2025-03-22,Receita,Marketing,Quibusdam numquam laudantium quidem.,2974.93,Investimentos,Confirmado
+dbd6c2e1-48df-40c5-a614-8cbfb5398786,2024-11-22,Receita,Fornecedores,Fugit similique quasi eveniet eveniet.,-33407.61,Banco Principal,Pendente
+e1f565b1-a4e5-4955-97ef-41124c1a54be,2025-07-30,Despesa,Fornecedores,Asperiores numquam quibusdam ea.,-13949.34,Conta Corrente,Pendente
+df7a130d-5155-4339-9297-b1a493215280,2025-04-02,Despesa,Fornecedores,Cumque consectetur beatae qui dolore fuga.,88839.88,Conta Corrente,Confirmado
+05593980-266f-48d6-8561-6580ec2cd076,2025-03-28,Despesa,Infraestrutura,Corrupti voluptates quisquam.,78803.6,Conta Corrente,Cancelado
+521eb88f-9720-4888-a16f-4703978e19b8,2025-07-07,Receita,Vendas,A voluptatem neque et.,-1743.26,Poupança,Pendente
+3f6762e1-fa39-4898-99b8-5a90b7242d50,2024-11-27,Despesa,Vendas,Illo natus aspernatur hic.,-47554.89,Investimentos,Confirmado
+33c4ba24-666c-4cfe-8514-10b29981fa6a,2024-12-22,Despesa,Impostos,Omnis maxime libero quas suscipit earum.,-44526.79,Banco Principal,Pendente
+5c0fbeb2-38fc-4617-b2d3-c895a0f5e477,2025-09-03,Despesa,Infraestrutura,Laudantium optio deleniti expedita labore assumenda.,68938.02,Investimentos,Pendente
+bcac8892-13e9-47e1-83f1-f595a84430ca,2025-08-03,Receita,Vendas,Et amet dolorem laboriosam.,-46150.85,Banco Principal,Confirmado
+30d0c8fa-0f04-4314-a91d-67e66d96a718,2025-07-27,Despesa,Fornecedores,Deserunt distinctio similique inventore.,89997.73,Poupança,Confirmado
+a6708b1d-ffc1-47d6-9b82-97c15e328a71,2025-03-25,Despesa,Vendas,Magnam quisquam ea.,-5304.63,Poupança,Confirmado
+806f077e-b721-4eea-a724-f1379d001855,2024-12-18,Receita,Impostos,Velit saepe pariatur amet dolores ad tenetur.,-17917.29,Banco Principal,Confirmado
+b6a152b0-bdf4-4883-b7a6-27974588843c,2025-10-02,Despesa,Vendas,Alias eius ipsum voluptates nesciunt velit porro.,-27420.26,Poupança,Pendente
+06e14e21-e59e-43cc-a7e8-2efc65fe566c,2024-10-14,Despesa,Investimentos,Veritatis fugiat tempora eum incidunt omnis maiores.,-20293.98,Conta Corrente,Confirmado
+9fac1dd0-41d8-41a8-8416-33b6a1288e6e,2025-06-27,Receita,Salários,Aperiam molestiae quod alias.,5273.19,Investimentos,Cancelado
+06dbf3e1-59eb-4c16-b8ec-078a5534d5c8,2024-10-05,Receita,Salários,Vero temporibus ea corrupti quod explicabo.,60558.47,Conta Corrente,Confirmado
+f0ce4a28-dd09-441b-a8bd-d2591044bf12,2025-08-02,Receita,Infraestrutura,Soluta soluta reprehenderit vero.,-10381.89,Poupança,Pendente
+549c0a89-257e-471a-98f3-110891e8348b,2025-08-18,Despesa,Investimentos,Nesciunt magnam iusto possimus et perspiciatis occaecati.,22132.61,Banco Principal,Pendente
+c83e33c1-4604-4009-9071-6eef6059f444,2024-12-11,Despesa,Vendas,Molestias dolore molestiae incidunt minima consectetur.,41389.63,Banco Principal,Cancelado
+92e8c0ae-dace-4692-ae3f-487e464d9009,2025-03-22,Despesa,Marketing,Aliquid distinctio laboriosam itaque at sint.,-49320.35,Banco Principal,Confirmado
+c1812b4f-f647-484d-975d-a5404ab17818,2025-07-28,Despesa,Investimentos,Repudiandae quae odit mollitia corporis.,514.76,Conta Corrente,Pendente
+c4c10345-b479-4fb0-bd7d-a5316325fede,2025-03-31,Despesa,Infraestrutura,Facere qui velit natus.,24775.44,Banco Principal,Cancelado
+a8158780-d831-4b0d-bf4f-5146414bec46,2024-11-27,Receita,Fornecedores,Molestias corrupti molestiae odio repellendus aut sed.,89540.37,Banco Principal,Cancelado
+e9f5a92a-a237-4091-97a9-eea849ba9546,2025-04-18,Despesa,Impostos,Eos id magnam eaque quod exercitationem voluptatem eligendi.,8369.73,Poupança,Cancelado
+223ac167-be96-4679-b420-92214487f470,2025-02-24,Despesa,Salários,Sunt modi quia nemo reprehenderit repudiandae.,-23731.43,Investimentos,Confirmado
+8ce671b5-f671-48b5-ba89-e855d58c4de0,2025-07-30,Receita,Fornecedores,Illo fugiat quibusdam ipsum consequatur culpa doloremque dolore.,84809.27,Poupança,Cancelado
+399b6d84-d335-4226-96f3-dc88c18be345,2025-05-11,Receita,Investimentos,Hic aliquam provident fuga at corporis.,26113.0,Conta Corrente,Pendente
+98f1680e-1025-4070-8457-2cb814d44e3c,2025-05-28,Despesa,Vendas,Incidunt provident id ipsa vel occaecati delectus.,62497.8,Conta Corrente,Pendente
+55f80b21-e57c-4c58-8bed-ecd4045b52d5,2025-07-12,Receita,Infraestrutura,Aliquid necessitatibus ipsam assumenda.,51682.94,Investimentos,Cancelado
+e1fa898e-9872-417f-9123-b1cb12e3e5e0,2024-11-17,Despesa,Impostos,Molestiae praesentium rem reiciendis.,22012.74,Conta Corrente,Pendente
+c99a5487-4c48-407f-9c39-d65ac12a6b43,2025-08-22,Despesa,Fornecedores,Laboriosam necessitatibus quam repellat.,-11729.42,Poupança,Pendente
+9be3fabd-5dae-4923-afcb-8d6520266bcf,2025-09-09,Despesa,Salários,Consequatur iste sunt qui culpa fugiat.,57668.78,Poupança,Cancelado
+3f24513d-7d0b-4666-a4a6-a3737fe329d3,2025-08-30,Receita,Marketing,Neque voluptate quos qui dolorem fugiat.,57437.53,Investimentos,Cancelado
+23a3e693-1daf-48ba-97ec-5ea4cbd3d81c,2025-06-18,Receita,Impostos,Dignissimos quo hic veritatis hic quibusdam.,34866.93,Poupança,Cancelado
+305aa5bd-6069-4c35-9db8-2c88948c28ba,2025-05-08,Despesa,Salários,Sapiente cum impedit.,95206.98,Investimentos,Cancelado
+97155fdd-8809-4dcb-ae05-c3550f42da82,2025-09-12,Receita,Fornecedores,Totam doloremque rerum totam culpa non aperiam laboriosam.,-29276.33,Banco Principal,Cancelado
+e97d0c11-1ee5-4615-ae58-f0da732cc293,2025-05-03,Despesa,Infraestrutura,Magni ratione unde quidem ad hic voluptatum.,71775.04,Banco Principal,Pendente
+a7eef760-bb65-4b3c-b107-2203f3e9e5a2,2025-03-06,Despesa,Impostos,Fuga ullam ullam odit non autem.,21937.97,Conta Corrente,Confirmado
+3ea76c6e-7e79-4818-8cd4-86d14bf67bdb,2025-08-11,Receita,Salários,Repudiandae asperiores sapiente aut totam voluptatem incidunt.,51461.93,Banco Principal,Pendente
+d2d8fb47-502c-4705-bb80-8dfc1d1996c3,2025-07-25,Receita,Vendas,Numquam fuga sunt dolorum ut soluta ab debitis.,92233.74,Poupança,Cancelado
+a26970c5-0ff0-45f1-bac3-50a276a2ef98,2025-07-26,Despesa,Fornecedores,Reiciendis illo quas deserunt.,83443.93,Conta Corrente,Confirmado
+b0fcc8a0-94e9-4301-b7c0-0b50c2d8fb06,2024-10-15,Receita,Infraestrutura,Tempora beatae debitis possimus.,3190.65,Conta Corrente,Cancelado
+217a8700-6c88-47d8-a069-4f0ac1ef959b,2025-08-04,Receita,Impostos,Asperiores iure similique deleniti illum architecto.,-43756.8,Banco Principal,Pendente
+13a96f99-3bb9-41ba-b910-6feaa9fe9abd,2025-06-13,Receita,Impostos,Est corporis odit sit reiciendis a.,-40026.91,Conta Corrente,Cancelado
+d07226b1-833b-497d-8a09-b2fed12cb3d4,2025-02-07,Despesa,Infraestrutura,Et ad fugit nostrum velit.,-31051.88,Banco Principal,Pendente
+21cff623-ea09-4ff5-8337-cfe70484e59b,2025-08-24,Despesa,Salários,Nam quas ex qui assumenda quia ullam ratione.,91227.37,Investimentos,Pendente
+d01120cd-e466-4f9a-8a30-6e3d2d615764,2024-12-01,Despesa,Infraestrutura,Eius distinctio sint.,36116.47,Investimentos,Pendente
+8eb4da6f-d7d5-4d5b-b002-992658e7ab54,2025-03-27,Despesa,Marketing,Aliquam necessitatibus non dolores temporibus sit.,90417.08,Investimentos,Pendente
+f58ba2c6-257b-4875-bcad-9559f048f411,2025-06-30,Despesa,Salários,Excepturi reprehenderit ab sunt earum.,-4147.98,Conta Corrente,Pendente
+34cb449b-4b15-44f9-add5-5f50b84d6067,2025-03-20,Receita,Fornecedores,Tenetur magnam ut eum.,95085.63,Conta Corrente,Confirmado
+fe634156-d749-496a-9c23-816c9e2d4378,2025-03-30,Despesa,Fornecedores,Quibusdam quia illo corporis voluptate.,-37810.12,Conta Corrente,Pendente
+573ac839-6274-42e6-ba77-94b4e0e159bb,2025-07-21,Despesa,Vendas,Alias dicta nostrum odit numquam.,-16556.62,Conta Corrente,Cancelado
+11374e20-a3b7-437a-b643-f1392d8c4810,2024-10-24,Receita,Vendas,Sit quia consequatur quis corporis nam nemo.,23625.0,Poupança,Pendente
+cc77f84e-61eb-455e-a31d-8aaa35bdf701,2025-03-26,Despesa,Marketing,Adipisci eveniet quidem voluptatem.,66494.54,Conta Corrente,Confirmado
+89dfc2b2-1745-417c-901e-63a782ba5fc7,2025-02-23,Despesa,Investimentos,Dolorem pariatur sint sapiente.,63455.23,Conta Corrente,Confirmado
+2637ce49-999b-4b7c-8a8b-8d7de97d4afe,2025-03-19,Despesa,Impostos,Dignissimos iure culpa.,42951.23,Conta Corrente,Cancelado
+33fb49cc-31f0-4f14-b2e3-313f2b75ff36,2025-10-01,Receita,Investimentos,Aut accusantium tenetur distinctio.,10213.06,Investimentos,Pendente
+2128ca8d-d285-4170-a093-b25430bc2cc5,2025-09-19,Receita,Salários,Provident hic et.,86778.11,Investimentos,Cancelado
+18782cc3-e351-463f-a058-71e98f5ba55a,2025-06-04,Receita,Investimentos,Omnis magnam soluta vitae fugiat.,-47233.05,Investimentos,Cancelado
+6002dcec-ff14-485a-841e-2f9ff6b896c4,2025-08-03,Despesa,Salários,Occaecati nostrum ipsum eum possimus.,97962.73,Banco Principal,Pendente
+5581cbcb-8778-4d3a-b38b-8c49dda4c5cf,2025-06-11,Despesa,Salários,Eveniet explicabo quae tempore odio esse tempore.,-16290.98,Poupança,Cancelado
+7c0a20f0-a9f6-41ab-aab9-a043a8dce017,2025-07-17,Despesa,Investimentos,Repudiandae incidunt dicta vitae.,56030.64,Investimentos,Pendente
+d5e79d34-9400-4800-bdcd-ffc1c70da0b9,2025-09-09,Receita,Infraestrutura,Facilis neque beatae debitis.,21692.86,Investimentos,Cancelado
+e6e244ce-0324-4ba8-820c-8e3b26223f75,2025-03-05,Receita,Investimentos,Maxime provident occaecati similique cum accusamus ducimus.,86645.29,Conta Corrente,Cancelado
+9f89d3a1-affa-4373-8042-5d6134cb80fd,2025-09-13,Receita,Infraestrutura,Magnam earum distinctio itaque iure mollitia.,51671.32,Banco Principal,Cancelado
+78fdbd0e-a8a5-4338-b333-e5d030c9eb30,2025-09-27,Receita,Infraestrutura,Omnis facilis praesentium rem.,49123.62,Poupança,Confirmado
+4e6f0b46-63de-4d8c-b5e0-4712873b9e71,2025-05-10,Receita,Salários,Dicta corporis corporis inventore vitae reprehenderit.,90624.47,Banco Principal,Cancelado
+09a53357-845c-4ff1-a878-2d59830dab14,2024-10-29,Despesa,Vendas,Perspiciatis quasi deleniti facere numquam.,46235.63,Investimentos,Confirmado
+9ce59947-f7a4-4797-a2c8-7ed24ae2e9d5,2025-02-03,Receita,Impostos,Exercitationem dicta neque reprehenderit beatae.,-24865.0,Banco Principal,Cancelado
+ee357205-3324-4fe5-b620-b0c4e83143d2,2025-02-06,Despesa,Fornecedores,Non cumque animi corporis nemo quos accusantium.,-40534.56,Poupança,Cancelado
+9734f3ce-7143-4b7f-8a11-8572e4f4b46a,2025-04-13,Receita,Impostos,Placeat ut magnam voluptates occaecati quas facilis.,35189.03,Banco Principal,Confirmado
+35955d93-f8f9-4b18-bb2a-2e57958f6e98,2025-07-15,Receita,Infraestrutura,Amet distinctio id nemo ipsum nulla reiciendis.,-37639.59,Conta Corrente,Cancelado
+51730263-4b51-4837-8228-373b28986285,2025-04-20,Despesa,Salários,Sed excepturi recusandae et ad.,-3277.32,Conta Corrente,Pendente
+6e7ceb07-950f-4d36-a403-47661c180487,2025-10-04,Receita,Marketing,Ratione earum qui vitae sint praesentium.,9831.45,Conta Corrente,Confirmado
+70498dfc-e422-4987-8e9d-1b5508f1a117,2025-07-23,Receita,Fornecedores,Possimus excepturi sint magni.,-23475.25,Poupança,Pendente
+6ddac295-0e06-401f-a190-b379864e021e,2024-12-22,Despesa,Vendas,Distinctio sit ex assumenda.,-8325.18,Poupança,Cancelado
+d5806549-0e33-4bb4-9adf-45a9d4807b06,2024-11-24,Receita,Infraestrutura,Molestias corporis temporibus cupiditate ad tempore at deleniti.,92152.51,Banco Principal,Pendente
+c277876a-8025-45e9-a220-bd554a0e36c0,2025-01-23,Receita,Marketing,Quidem occaecati iure quis.,82528.98,Poupança,Confirmado
+de4f0de9-f728-4645-b2ec-eb94722313d9,2025-03-13,Despesa,Fornecedores,Illum aperiam voluptatem vel vero ducimus.,27398.24,Investimentos,Cancelado
+244101df-8a1c-4db3-98ab-aa81f2ddb6fc,2025-04-26,Receita,Infraestrutura,Illo labore explicabo repudiandae enim.,91086.37,Poupança,Confirmado
+f0ec9220-cc0f-4d29-8313-52660e270678,2025-08-13,Despesa,Fornecedores,Quam aperiam possimus.,92744.3,Banco Principal,Pendente
+23c8fb8c-f711-4b38-9c48-5f65a7181a82,2025-07-10,Receita,Fornecedores,Dolorum quae eaque quos minima.,92611.77,Banco Principal,Confirmado
+c68be678-d429-41c0-9030-4dcd24a4766c,2025-08-16,Despesa,Fornecedores,Incidunt alias similique reprehenderit ad.,36294.86,Poupança,Cancelado
+f40f4ce4-34a8-458d-b05b-025fd9f2a7f7,2025-06-11,Despesa,Fornecedores,Animi eos perspiciatis necessitatibus.,-13494.52,Poupança,Pendente
+3ce68632-d045-40e5-a112-e67fe78dd5c3,2025-05-28,Despesa,Investimentos,Tempore cumque a.,17766.5,Conta Corrente,Pendente
+a78dbde9-e5c2-40d2-9573-8895295dc1dd,2025-07-02,Despesa,Marketing,Impedit consectetur fugit voluptates ullam.,34576.38,Poupança,Pendente
+efa9114c-6629-4cf2-83fa-8edbb41d951f,2024-11-06,Receita,Marketing,Adipisci in quisquam incidunt similique delectus facilis.,15792.11,Investimentos,Pendente
+5f470868-2296-4b2c-9a4c-5af02cbbbe80,2025-07-31,Receita,Salários,Dicta illo quibusdam possimus placeat maiores vitae.,42858.35,Investimentos,Confirmado
+17999a9c-54b9-45a5-8a51-450e9e042324,2025-04-30,Despesa,Investimentos,Cupiditate illo quam quod veniam mollitia facilis.,72564.79,Conta Corrente,Cancelado
+bf32723b-2a83-437f-a990-12ac2d9a0534,2025-07-06,Receita,Vendas,Debitis libero voluptate.,-12162.44,Poupança,Pendente
+8a096c73-c882-4da2-a8a2-773222cb1a35,2025-05-12,Receita,Vendas,Deleniti nesciunt minima.,5567.64,Investimentos,Cancelado
+2be23d8b-3f62-48a1-9d4f-2e3d33faeeea,2024-12-11,Receita,Infraestrutura,Non recusandae ut sequi eveniet aut.,92214.63,Investimentos,Confirmado
+e3f16d29-9994-4491-bf1f-d1a65f38f35a,2025-02-15,Receita,Fornecedores,Esse veniam commodi dolor voluptatibus qui.,99686.47,Investimentos,Cancelado
+21f85ce4-e2c5-4d67-a629-1ddf7ce4ec1f,2025-06-10,Receita,Marketing,Nesciunt laudantium nobis cupiditate beatae.,41230.28,Poupança,Pendente
+d3363563-6c54-4400-872f-a12fee6b50c7,2024-12-30,Despesa,Fornecedores,Natus maiores fugiat eligendi totam beatae praesentium.,87073.51,Conta Corrente,Confirmado
+1cacd622-4e01-47d4-85a0-d3a3b0d9ea23,2025-06-06,Receita,Marketing,Ipsa repellat ratione deserunt molestiae necessitatibus.,-42238.07,Investimentos,Pendente
+cad0d87f-6b87-4403-b8f8-57ca6e98ae3c,2025-06-23,Receita,Impostos,Quis impedit id pariatur repudiandae.,-4847.79,Conta Corrente,Pendente
+a87ea546-4f9c-4af4-9060-a42ec53b4f65,2025-08-07,Despesa,Fornecedores,Sit sit animi voluptas.,-38504.53,Investimentos,Pendente
+de992e52-ac7f-4d7f-8d2e-97af44c6d58c,2024-10-07,Despesa,Vendas,Itaque perferendis sunt mollitia soluta et odit.,1437.8,Conta Corrente,Confirmado
+96c5b438-b3b4-4965-afbd-bb1926046825,2025-09-17,Despesa,Impostos,Enim a nulla deserunt ipsam.,-48561.08,Poupança,Confirmado
+90630082-87a5-4dc8-9f02-5ea5938b0efd,2025-04-01,Despesa,Fornecedores,Unde omnis quae impedit doloribus quasi culpa modi.,69680.51,Investimentos,Pendente
+8afcd69f-b33b-4184-aa2f-7bbd3b69dec0,2025-03-13,Receita,Marketing,Molestias quasi provident fuga totam consequuntur vitae.,-10472.54,Banco Principal,Pendente
+6ee9721d-e67d-48eb-9f62-1be5ccbfa795,2025-09-30,Despesa,Marketing,Harum fugit libero esse non laudantium.,-45925.57,Poupança,Pendente
+4427a7cf-e3ef-4acf-ac42-e0f0419f6054,2025-01-31,Receita,Fornecedores,Unde fuga eveniet repudiandae magnam tempora quis nemo.,-28595.55,Investimentos,Confirmado
+2da09e71-03dc-4072-bd02-318dd0427953,2025-05-14,Despesa,Vendas,Id optio sunt quisquam dolorum praesentium ea.,2586.15,Investimentos,Confirmado
+d3affe8c-5cc9-474a-bfd8-fd19b962dcdd,2025-07-06,Despesa,Fornecedores,Quo culpa dicta non perspiciatis.,36129.78,Poupança,Confirmado
+b9e957c2-8a32-4448-9308-2873ff12bbca,2025-02-09,Despesa,Salários,Quos explicabo natus aspernatur.,49144.21,Investimentos,Cancelado
+75bc2ae0-24e5-4103-a08c-3729b51ea22b,2024-12-09,Receita,Investimentos,Ullam in iusto consequuntur.,-47692.01,Conta Corrente,Confirmado
+2e38dfe3-8d5e-49f2-89b5-ff85df92450a,2025-04-17,Receita,Vendas,Voluptatem deserunt harum explicabo eius.,68341.07,Conta Corrente,Confirmado
+d1994cd4-dedb-4e21-93f8-f375024c04cd,2025-08-09,Receita,Infraestrutura,Sequi ex dolor maxime commodi in cumque maiores.,12677.46,Banco Principal,Confirmado
+01fa9a1c-61dd-4bd7-9b43-374dc8339ae2,2025-08-29,Despesa,Salários,Eveniet eum accusantium hic quam sunt.,-8453.0,Conta Corrente,Pendente
+74f231c7-28dd-422f-81b0-a40457925170,2024-10-24,Receita,Impostos,Totam itaque repudiandae nulla inventore voluptatum odio rerum.,13645.09,Banco Principal,Confirmado
+e52941be-18b5-4a29-90bf-8024a9d707df,2025-03-07,Despesa,Salários,Necessitatibus ab labore.,48695.24,Conta Corrente,Confirmado
+03896eee-f35f-4bc3-92ce-aae3d5b66260,2024-11-21,Receita,Fornecedores,Tenetur quisquam vero dolores aliquam.,95848.02,Banco Principal,Confirmado
+f2cce237-5c90-41b9-9db6-c7e50cbbc236,2025-04-26,Receita,Fornecedores,Optio quia doloribus.,20394.08,Banco Principal,Cancelado
+58f58638-6436-4048-9cea-98a8d59534ce,2025-03-20,Receita,Vendas,Vero dolor rem.,-22556.95,Banco Principal,Pendente
+911e3196-0a2e-44fa-aa4a-6a41e5199712,2024-10-09,Receita,Marketing,Blanditiis sit eos assumenda cupiditate.,-40645.48,Conta Corrente,Confirmado
+5536fab5-724d-4960-bee7-b5b55723abef,2024-11-07,Despesa,Marketing,Qui similique reprehenderit voluptas atque.,93850.08,Conta Corrente,Confirmado
+c8df5bb5-a1ae-4456-b989-38ddc52248d7,2024-12-21,Despesa,Fornecedores,Debitis harum error doloribus architecto.,47690.19,Conta Corrente,Pendente
+6887af89-9e0c-4310-984f-0557602e7e61,2024-11-02,Despesa,Impostos,Quae excepturi aliquid quidem ea.,80071.04,Poupança,Pendente
+a1291554-75dd-4b54-8725-1c11b7b7a59c,2025-06-26,Receita,Salários,Laborum atque ad architecto soluta nam et.,78954.93,Banco Principal,Cancelado
+a57a525e-3ead-4f49-8928-9490371b4d47,2025-06-12,Receita,Marketing,Excepturi aperiam nostrum saepe repudiandae.,9104.92,Conta Corrente,Cancelado
+da99ab3e-3313-41a5-a1af-9c6a0c0b04eb,2025-04-26,Despesa,Vendas,Rerum animi libero eligendi reiciendis atque.,-49294.56,Banco Principal,Cancelado
+1b22887d-bec4-4f3b-b018-53820fbb3ab3,2024-10-28,Receita,Salários,Consequuntur voluptas voluptates laudantium porro.,93236.08,Poupança,Confirmado
+5c8d5f0a-1586-4c1e-be3a-bb535d0f4c8d,2025-08-29,Despesa,Infraestrutura,Accusamus quae officiis dolorem.,23165.95,Investimentos,Pendente
+34209492-6a6c-48c2-96e0-8bca0e730dd1,2025-08-07,Receita,Marketing,Itaque natus hic consequuntur alias ad doloremque.,42397.57,Investimentos,Pendente
+6a966f3d-2136-4c19-b5d4-ea7690d5fca2,2024-10-17,Despesa,Investimentos,A quo similique repudiandae temporibus quo.,-20314.01,Investimentos,Cancelado
+42690d59-3315-4f11-bccc-ede3afcf9c5c,2024-10-29,Receita,Marketing,Commodi tempore maiores laboriosam nobis.,1945.07,Poupança,Confirmado
+b6e19428-47f7-46cb-8c2f-0e37f00ee22b,2025-08-08,Receita,Infraestrutura,Nisi eum alias ab aperiam quis.,5936.1,Poupança,Pendente
+aef58cf4-2973-4b36-a187-17ab02e01088,2025-07-30,Receita,Marketing,Voluptate alias provident accusantium quaerat dolores.,17075.4,Banco Principal,Confirmado
+d53a8885-a027-4648-b183-e6ce1ede4602,2024-12-12,Receita,Vendas,Sit autem consectetur repellat illo sunt.,-42420.98,Banco Principal,Cancelado
+42d83e06-ef3d-4a20-b2b4-e9c15036aa98,2024-10-19,Despesa,Vendas,Facere possimus odit provident dignissimos molestias.,11519.44,Conta Corrente,Cancelado
+e5f2800f-6ba6-44a6-8fa5-cab1d9cf06e3,2024-12-05,Despesa,Fornecedores,Pariatur voluptate consequuntur voluptatem placeat quo perspiciatis.,-32084.04,Conta Corrente,Cancelado
+05990428-4523-4a52-93d1-1e3792fe0c67,2025-09-02,Receita,Infraestrutura,Nam voluptas sequi possimus dignissimos totam doloribus atque.,-38141.81,Poupança,Confirmado
+75a5e49a-8919-4560-8dc9-ec3620f1810a,2025-01-17,Despesa,Salários,Sed mollitia nisi nesciunt.,13884.67,Investimentos,Confirmado
+207c1aab-6af2-4f2f-8401-d96b81652e78,2024-11-28,Receita,Marketing,Quas ab quasi.,81849.06,Investimentos,Pendente
+d7c89ef6-6827-4689-896a-8e145960af8a,2025-07-29,Despesa,Investimentos,Optio commodi blanditiis.,299.99,Conta Corrente,Confirmado
+3f33b389-8407-496e-9e33-96e2c55e197f,2025-04-20,Despesa,Marketing,Iure fugit delectus sequi.,-11574.68,Poupança,Confirmado
+2f251924-c276-43a8-96c6-99e57c3db2eb,2025-01-22,Receita,Salários,Nam minima in repudiandae consequuntur exercitationem non.,41313.6,Conta Corrente,Confirmado
+5b845d01-9a82-4b2a-93bb-ee0ca24f7d9a,2025-06-20,Despesa,Salários,Nisi eos incidunt recusandae rem ducimus fugit.,59624.48,Poupança,Pendente
+9ff0767a-8da5-4dad-9738-d8862df58582,2025-05-26,Receita,Fornecedores,Culpa vero saepe provident excepturi quo.,1696.73,Poupança,Confirmado
+8fe12afe-8157-4459-87dd-649498108847,2025-08-28,Receita,Fornecedores,Voluptas est sapiente quam impedit ad doloremque.,-42581.64,Banco Principal,Pendente
+f5dbd9bd-ddc1-4474-9aad-1f7ef7abf5e1,2025-02-07,Receita,Infraestrutura,Ad distinctio necessitatibus laudantium cupiditate.,-49446.97,Banco Principal,Confirmado
+5ad89e24-b353-4607-9484-850cb5d7d7d5,2024-12-05,Receita,Fornecedores,Inventore blanditiis necessitatibus sint tempore ducimus natus.,86341.57,Banco Principal,Cancelado
+91b6b4a7-e81f-4021-9ca6-609c26e40749,2025-02-16,Receita,Impostos,Maiores laboriosam rerum nostrum.,97840.05,Investimentos,Cancelado
+d6297f0b-410f-4919-b0ee-6062e7aa2496,2025-05-09,Receita,Fornecedores,Exercitationem minus nisi recusandae atque.,15254.76,Investimentos,Cancelado
+98ef3254-fbcc-487d-9674-ac31da33f18e,2025-06-28,Despesa,Investimentos,Assumenda voluptas corporis officiis quaerat libero.,39744.67,Conta Corrente,Pendente
+37971ac7-9227-40c7-9072-220cd0686eaa,2025-06-29,Receita,Infraestrutura,Non dolore corporis libero aspernatur maiores laboriosam cupiditate.,-14158.85,Banco Principal,Cancelado
+0d9c2750-4780-4ba9-9037-5b33fcdbf95f,2025-06-13,Receita,Salários,Assumenda in expedita optio deleniti doloremque.,-27120.35,Conta Corrente,Pendente
+d930954c-8c27-4099-ab50-ace03a61c080,2025-04-17,Receita,Investimentos,Fugit libero illum mollitia iste.,46925.43,Investimentos,Pendente
+3d3d6538-c666-402f-8901-69a41f421bd6,2025-10-03,Receita,Fornecedores,Mollitia deserunt a placeat perspiciatis consectetur mollitia pariatur.,61351.63,Conta Corrente,Pendente
+fb10d40b-2d6a-4a1b-852e-f373ad9a4ae3,2025-06-16,Receita,Marketing,Eaque tempora hic magni occaecati accusantium eius.,-36508.19,Poupança,Cancelado
+30e8e95e-b844-4313-aaa9-fbd2e80f9312,2024-12-19,Despesa,Salários,Similique quos modi repellendus aliquam quo.,21121.46,Investimentos,Confirmado
+7b928824-b62b-417f-86d7-b333ab2e0878,2025-06-13,Despesa,Fornecedores,Neque occaecati in.,85405.23,Investimentos,Pendente
+def0081a-4e5b-4d5c-b793-302a16aa6509,2024-11-05,Despesa,Infraestrutura,Occaecati fugiat similique.,12727.34,Investimentos,Cancelado
+2eb072b6-9a0d-41fa-9dee-96aba16a864f,2024-11-29,Despesa,Vendas,Voluptatibus et excepturi omnis tempore inventore.,-38171.77,Poupança,Pendente
+adc04bdf-2dca-492e-a118-2c652ee957db,2025-08-30,Despesa,Salários,Iure dolor occaecati beatae aliquam.,-28861.35,Banco Principal,Pendente
+d847339a-bb4d-49a6-b4af-8c04820506b1,2025-01-25,Receita,Investimentos,Fugit quis in.,4642.99,Conta Corrente,Pendente
+eb963846-6f29-4766-9316-15691da46543,2025-05-20,Receita,Impostos,Illum enim alias debitis modi incidunt.,19683.86,Poupança,Confirmado
+2ea96311-30b5-49e3-9e97-76569f8befea,2025-02-23,Despesa,Infraestrutura,Quia officiis praesentium veniam maxime suscipit velit.,22418.02,Investimentos,Cancelado
+62513d97-daf0-40be-b01d-4be1b99fe528,2025-08-08,Despesa,Marketing,Vel molestiae dolore impedit dolore repellat esse.,91572.93,Conta Corrente,Pendente
+95e09fcb-e788-4c11-a4f0-38f0cd012354,2024-12-06,Receita,Salários,Dolorum eius iure eum provident consequatur voluptate.,-608.17,Banco Principal,Pendente
+8828754d-ef79-4377-998e-68cd956e587a,2025-01-31,Despesa,Fornecedores,Rerum velit vitae praesentium.,49079.58,Investimentos,Cancelado
+56af3c39-8823-4d50-9093-6073668287d4,2025-04-01,Receita,Vendas,Quam voluptas possimus iusto occaecati vel.,34141.63,Conta Corrente,Cancelado
+141790b2-1961-4510-a7d9-d1a97ea06016,2025-06-24,Receita,Impostos,Facilis dolorem nostrum explicabo temporibus eius sapiente.,10838.36,Banco Principal,Pendente
+17c6c405-0bec-452d-a3c4-061073be5f59,2024-10-18,Receita,Impostos,Amet fugit ad sint officia enim aliquam.,54400.17,Banco Principal,Confirmado
+4ec08890-e91c-477e-b0c0-c2a58adfce39,2025-01-21,Receita,Fornecedores,Provident molestiae autem quos.,20710.56,Conta Corrente,Confirmado
+c53cd636-a0aa-4bca-9d19-2c907d71333e,2025-05-21,Despesa,Salários,Quae pariatur debitis quis esse occaecati.,-18124.54,Conta Corrente,Pendente
+84e799d9-1f93-40f0-92f6-a37bfc9ad5c4,2025-07-01,Receita,Vendas,Nihil minus laboriosam itaque enim vero delectus.,25176.15,Investimentos,Confirmado
+01b34930-7f74-488f-aece-a4160744e996,2025-04-10,Receita,Vendas,Ratione quae perferendis sint.,73704.92,Investimentos,Cancelado
+4a875864-4ff9-4464-a84d-9b1bc0962e69,2024-11-16,Receita,Marketing,Ex quas animi architecto.,13553.94,Banco Principal,Pendente
+3791a74c-3a1d-4ac7-80da-b6843d3b98aa,2025-07-22,Despesa,Vendas,Sed perferendis porro repellendus facere vitae.,-39387.47,Banco Principal,Confirmado
+eff78dd0-6684-4a10-a2be-6852b414a238,2025-01-29,Receita,Investimentos,Reiciendis magnam esse veniam mollitia provident labore.,26599.27,Banco Principal,Pendente
+8a95a2c6-a89a-4d25-a520-bafc556264d8,2024-12-28,Despesa,Impostos,Enim pariatur non vitae totam molestiae magni.,35176.84,Banco Principal,Pendente
+1c6f9464-2442-4e3e-b3f7-01af5cbf74ad,2025-08-01,Receita,Vendas,Deleniti dicta possimus quo cupiditate ex.,-32519.56,Conta Corrente,Pendente
+44ebab59-438f-4efe-958a-64c75b495e64,2024-11-29,Despesa,Marketing,Praesentium excepturi quasi natus odit.,27581.95,Investimentos,Cancelado
+96d432a1-9e41-43c2-804a-6c05fc92b692,2024-12-28,Receita,Fornecedores,Maiores sunt magni similique molestias.,-44362.82,Conta Corrente,Cancelado
+90f8a1a2-1d68-4390-9779-44469393818a,2025-02-22,Receita,Vendas,Dolor maxime doloribus necessitatibus quaerat.,-3944.15,Poupança,Cancelado
+38148475-3af3-439a-9f3b-256a8e2051b9,2025-02-22,Receita,Fornecedores,Nisi vero et esse.,70596.82,Investimentos,Pendente
+6c70460d-dd4b-4530-9123-2803e8e03b1e,2024-12-27,Despesa,Impostos,Animi quo beatae ducimus eius voluptate nulla.,94035.44,Investimentos,Pendente
+17d2db94-b8b3-4f34-b70f-512864a10e34,2024-12-30,Receita,Salários,Officia error quaerat voluptate id earum.,1410.37,Conta Corrente,Cancelado
+410933e7-36c6-4489-b0db-e985517e07c4,2025-09-24,Despesa,Investimentos,Praesentium nesciunt aut harum corrupti rem.,92970.37,Investimentos,Confirmado
+bfbb9742-7146-4002-9391-df36fe76b09a,2025-07-08,Receita,Infraestrutura,Atque provident vero ipsum distinctio reiciendis.,82570.84,Conta Corrente,Pendente
+69dc6fe4-783c-42e1-a38a-371f0104f508,2025-04-06,Receita,Salários,Odio odit accusamus harum itaque quo vero.,91732.86,Banco Principal,Cancelado
+b0f57144-68a2-4f4e-98c6-19e418f09b4c,2025-04-14,Despesa,Salários,Saepe modi nesciunt sapiente provident accusamus.,33285.99,Investimentos,Pendente
+162b8005-aaf7-4677-85e0-4e3e9666bc20,2025-09-04,Receita,Investimentos,Quae quod dolor sit eos.,68495.33,Conta Corrente,Cancelado
+bde1955f-0ad5-4d38-b317-f437bab62a40,2024-11-12,Receita,Investimentos,Perferendis consequatur totam odio nemo.,-20156.73,Investimentos,Confirmado
+16ebded7-0f3f-439e-b910-15abb73ebdda,2025-05-03,Despesa,Impostos,Rem cumque quod soluta adipisci.,-44370.42,Investimentos,Cancelado
+4ba6daa2-095d-4d02-aa86-22b1397ad640,2025-06-18,Receita,Impostos,Sapiente deleniti iste reiciendis.,94238.01,Investimentos,Confirmado
+a4ceb858-9e4c-42d9-834a-47c0e5dbb353,2025-02-21,Despesa,Marketing,Officia sint ad et animi.,-42934.95,Poupança,Confirmado
+11a39af8-8561-4980-92dd-72c8d8125374,2025-09-09,Despesa,Infraestrutura,Eaque dolorem velit reprehenderit.,-28431.54,Banco Principal,Confirmado
+981a2819-84f3-4e08-ad9a-0e6c076f0621,2025-02-03,Receita,Vendas,Possimus iure temporibus quisquam iure.,-28681.83,Poupança,Pendente
+f4c0b069-3349-4d40-a187-90a1cd253a5c,2025-04-03,Receita,Infraestrutura,Nemo eveniet laboriosam impedit delectus.,-41797.58,Banco Principal,Confirmado
+2f04b842-6c58-40be-8103-d3eaa35b6a52,2025-03-25,Despesa,Salários,Sit odio illum maiores earum rerum praesentium quae.,-19376.71,Poupança,Confirmado
+f5736a73-0ffb-404d-9573-d1b0f85f958a,2024-12-25,Receita,Salários,Impedit magnam cupiditate aperiam quam.,-1967.25,Conta Corrente,Confirmado
+f2b65fc4-74bd-429a-9365-3b7963e1159e,2024-12-26,Receita,Marketing,Cum adipisci placeat ratione temporibus illum.,94148.59,Investimentos,Pendente
+8f59db4f-ccae-4951-919a-d422d9067dea,2024-11-10,Despesa,Investimentos,Ullam autem modi earum.,9163.34,Investimentos,Confirmado
+4feefa75-602e-48c3-bcba-52e944fc162c,2025-05-28,Despesa,Vendas,Fugiat saepe cumque facere odio veniam.,62396.94,Banco Principal,Cancelado
+656d417e-f2fa-4041-b4bb-3f2024975d08,2024-10-16,Despesa,Salários,Debitis rem natus earum vel quam consequuntur.,-13896.25,Investimentos,Pendente
+282103f9-dd79-4802-b145-58cd2bcad0fb,2025-04-08,Receita,Vendas,Nam illum distinctio ipsa.,36443.93,Investimentos,Pendente
+fb22991e-191c-4fb5-b087-e99a5ce199f7,2024-12-05,Despesa,Investimentos,Minima perferendis quia id placeat sapiente placeat.,61996.04,Poupança,Confirmado
+7568ec22-f6ab-4f77-ba90-59307cd1022f,2025-07-30,Receita,Fornecedores,Necessitatibus corrupti rerum quos ex laborum.,61100.79,Poupança,Cancelado
+cc1862fe-fc82-4937-b71d-d94b0430f836,2024-11-28,Despesa,Investimentos,Laudantium culpa amet quae illum.,700.47,Banco Principal,Confirmado
+4b3a0171-4944-44a2-83fe-2c039bd44fc5,2025-02-05,Despesa,Vendas,Nam hic aspernatur praesentium ipsum quaerat.,91100.91,Conta Corrente,Cancelado
+5b8efa58-91be-4b11-b8b5-fce7879bb3bf,2024-12-05,Receita,Infraestrutura,Officiis reiciendis illo quaerat.,72428.01,Banco Principal,Cancelado
+18d12e5e-50be-4edc-8ce2-efd726ec8eb6,2024-12-27,Despesa,Investimentos,Ad quia molestiae.,66096.77,Investimentos,Pendente
+4c81be7c-a30b-43be-8277-7bbe900ab788,2025-02-14,Despesa,Investimentos,Dolores doloremque similique ut in accusantium.,-44981.09,Investimentos,Pendente
+99eb8c03-954f-4cd8-b2fb-e36b5f2141aa,2025-01-26,Despesa,Investimentos,Repellendus laboriosam officiis a quasi exercitationem repudiandae.,48613.42,Banco Principal,Cancelado
+8da82393-6cc6-4ab7-bccd-34859897c3f9,2025-01-20,Receita,Salários,Ab soluta nobis sequi.,-47739.64,Banco Principal,Pendente
+775f1b6f-dc6e-4314-b047-c6e4e272b7b7,2024-10-20,Despesa,Vendas,Quos incidunt mollitia deserunt occaecati.,72982.66,Banco Principal,Confirmado
+2e59654f-dfb7-47a8-98fb-6513ae05fc3d,2025-03-14,Receita,Marketing,Voluptatibus sunt excepturi consectetur debitis accusamus deserunt.,33376.86,Conta Corrente,Pendente
+30ef52a7-7874-402c-bb3f-f5bd76ead56d,2025-02-22,Receita,Salários,Fuga perferendis veritatis neque cum quod maxime cupiditate.,60780.18,Investimentos,Confirmado
+afa0b97e-5e30-4c6f-860b-78ba6b3a5b04,2025-08-22,Receita,Marketing,Molestiae praesentium aliquid iste ad velit magni.,-21006.11,Conta Corrente,Cancelado
+2c7176f7-a5d8-4d6b-9b06-4d3e54a3e6c6,2025-09-30,Receita,Impostos,Distinctio optio porro repellat nostrum.,48153.44,Investimentos,Confirmado
+7a6db70d-4d72-43e7-b668-8f4a38381da0,2025-03-01,Receita,Impostos,Quisquam ut quos.,-49487.07,Banco Principal,Cancelado
+a71c3572-7596-42b2-ba9d-803f2e6a794a,2025-01-28,Receita,Impostos,Vero hic inventore.,-44935.53,Investimentos,Cancelado
+a5c87951-0830-4b90-8e40-9fd9e3e5a8cd,2025-05-19,Despesa,Vendas,Repellat ipsum reiciendis illo eum nostrum aperiam.,72300.54,Poupança,Cancelado
+962013ce-bc12-45ff-86b1-a4c00645222a,2025-05-12,Despesa,Vendas,Laudantium illo neque earum.,26924.6,Conta Corrente,Cancelado
+4561756c-bd0f-4d26-96e3-dcc1e00c526b,2025-03-12,Despesa,Investimentos,Nesciunt nam quam exercitationem minima tempora libero.,-25689.25,Investimentos,Confirmado
+0a32f30f-b4d6-4e25-8c37-b3b36c3d093c,2025-01-02,Despesa,Investimentos,Debitis quisquam iure dolore suscipit harum quos perferendis.,98615.83,Poupança,Pendente
+b8a40a2c-6cdf-40c3-b2ac-0abfa4e827d1,2025-02-24,Receita,Infraestrutura,In mollitia earum illo numquam.,-23605.94,Conta Corrente,Pendente
+00d99c75-31ff-467f-abcb-df2958bbeb8f,2024-12-27,Despesa,Infraestrutura,Deleniti labore possimus consequuntur.,22278.11,Poupança,Cancelado
+7217075e-8d0e-4c6a-ba47-0c599913086f,2025-04-28,Receita,Fornecedores,Velit facere asperiores voluptas neque.,-46371.02,Banco Principal,Pendente
+91eeccca-dfdb-40e8-98c7-b127e74f3104,2025-05-29,Receita,Vendas,Accusamus quia aperiam veniam iste ducimus.,-11929.5,Conta Corrente,Pendente
+b3b5bf30-6236-4f33-bf49-1837dbd2cdb8,2025-01-13,Despesa,Salários,Harum laudantium quas eligendi aperiam.,96238.6,Conta Corrente,Cancelado
+e4141ec7-bdc2-4d48-99a5-55844720e31f,2025-05-20,Receita,Investimentos,Atque nesciunt fugit molestiae a porro expedita.,-1101.59,Banco Principal,Cancelado
+9cc5f23e-ce6c-4882-9660-5c39fae41a02,2025-08-02,Receita,Investimentos,Eaque minima assumenda.,99321.34,Investimentos,Confirmado
+746c57ca-8979-4b08-8772-ee6ac855bd38,2025-05-23,Receita,Fornecedores,Earum ad aut occaecati.,-41683.26,Investimentos,Cancelado
+29de0fda-e17f-43ea-be0a-4e4ad8fd6053,2025-01-29,Despesa,Vendas,Possimus incidunt voluptatibus.,38486.39,Investimentos,Cancelado
+8d5d8c02-3964-449e-bcc9-2ce5e5204bf3,2024-12-03,Receita,Marketing,Explicabo laboriosam error saepe.,-3186.21,Banco Principal,Confirmado
+2449038a-a51c-4537-aee8-413b7c28bc8c,2025-06-17,Receita,Salários,Quidem dolorum nesciunt voluptatem.,-30321.37,Banco Principal,Confirmado
+a295bf76-9aaf-444f-8510-e474a9b2d019,2025-06-10,Receita,Vendas,Voluptatum laboriosam dolores quidem tempora.,-12129.63,Banco Principal,Pendente
+3f54a027-649c-4890-9153-00d7cbd289f3,2024-11-19,Despesa,Vendas,Labore eaque eum.,-9167.92,Banco Principal,Cancelado
+13ae4da4-1c9f-4947-ac14-566546528cfe,2024-11-04,Despesa,Investimentos,Modi aut voluptatum accusamus deserunt illum.,-23070.21,Conta Corrente,Pendente
+96f6d510-0e14-4bf9-93c7-1ee011a6a9c8,2025-01-03,Despesa,Vendas,Commodi vitae culpa aperiam nemo laudantium.,-35204.61,Investimentos,Pendente
+d8932d9d-9e5b-4daa-9d23-79cae2345e79,2025-04-18,Receita,Marketing,Occaecati eius accusantium hic voluptas perferendis.,62911.1,Investimentos,Pendente
+09d62133-c868-4793-a05e-680f5c91fd17,2025-07-25,Receita,Infraestrutura,Maiores perspiciatis cumque earum ex modi necessitatibus.,2839.62,Poupança,Pendente
+34693d33-762e-467d-adf7-6078e7a66568,2025-04-27,Receita,Vendas,Nemo aspernatur fuga placeat velit sint.,-7562.58,Poupança,Confirmado
+5e56c185-2f3a-4cac-a7e1-dbe02f756f0a,2025-02-11,Despesa,Investimentos,Officia adipisci sint eligendi recusandae porro incidunt iusto.,-42284.07,Conta Corrente,Pendente
+68cbd27f-3c90-4bf2-a8eb-aecc1814f8c4,2024-11-06,Receita,Investimentos,Aspernatur maxime et amet temporibus consequuntur id nemo.,18232.98,Banco Principal,Confirmado
+55facff1-b293-48e6-a911-d022ce575dd7,2025-02-23,Receita,Marketing,Delectus deserunt cum doloremque saepe suscipit velit.,59982.81,Poupança,Confirmado
+79c8a72f-71d5-4877-9b45-55df71c0ec94,2025-08-28,Despesa,Impostos,Voluptatem saepe quisquam vitae voluptatem nostrum.,57113.43,Poupança,Confirmado
+4347b138-3a27-4426-ba0d-94584cd87439,2025-05-21,Receita,Salários,Modi tempore perferendis fugit veniam.,42407.34,Conta Corrente,Cancelado
+e0981ab4-532d-4db9-831c-145ba780ef1c,2025-09-08,Receita,Infraestrutura,Voluptatem ex error omnis illum aliquam.,50471.49,Conta Corrente,Confirmado
+00799a73-d420-4801-b14e-c7b20309ab1e,2025-06-19,Despesa,Fornecedores,Voluptate quasi quo in.,27655.79,Poupança,Cancelado
+acea0ab1-a58c-485f-88ca-3c954aee67eb,2024-12-12,Receita,Vendas,Ducimus doloribus porro aspernatur.,91922.76,Poupança,Cancelado
+69125680-157f-426a-a3d0-dfaa7cf42b3a,2025-04-09,Receita,Investimentos,Aspernatur perspiciatis adipisci dolores.,32656.9,Investimentos,Pendente
+535b4a96-f148-438c-83fa-29802b560c2e,2025-08-29,Receita,Infraestrutura,Voluptatem assumenda voluptatem rem tempore necessitatibus.,50278.85,Conta Corrente,Pendente
+2e9ba900-3d3b-4558-b078-13d48f248553,2025-02-19,Despesa,Impostos,Magnam corporis quo ipsa tempore.,20335.78,Banco Principal,Pendente
+91de88e6-94bc-42dd-80cb-9d6083cc9679,2024-11-10,Despesa,Vendas,In aliquam ipsa nihil ad nihil atque.,-27210.83,Investimentos,Confirmado
+d1b21e56-a4f2-46c7-a978-90925181c8b8,2024-10-14,Despesa,Infraestrutura,Quis laborum dolor doloribus sint neque.,-36933.99,Banco Principal,Cancelado
+e02b004d-e159-4b73-9e39-7468f7b96f3e,2025-05-11,Receita,Infraestrutura,Reprehenderit aperiam dolores quo doloribus.,-48645.66,Poupança,Pendente
+af984649-be74-42e2-9a52-534e69c618fe,2025-03-22,Despesa,Marketing,Praesentium ullam fugit quia odio iure eos.,-1761.66,Conta Corrente,Confirmado
+d4548dc6-b7f2-432a-b592-2b1f74e29acc,2025-01-05,Despesa,Salários,Voluptates labore rerum eveniet libero id.,82631.17,Conta Corrente,Pendente
+121bfb49-af1b-42ea-a5f3-4c40f23506ad,2025-01-16,Receita,Marketing,Sequi quibusdam itaque nesciunt rem ut dicta.,-38717.54,Investimentos,Cancelado
+0c8f5700-eec0-40a8-ac86-92c97b472cbf,2024-11-04,Receita,Marketing,Consequatur quo mollitia perspiciatis quasi quo neque.,99059.71,Banco Principal,Confirmado
+1f569a94-e1ed-4ddd-b17d-cdf9648aaf0f,2025-07-09,Receita,Fornecedores,Odio dolorem beatae mollitia odit.,55517.76,Poupança,Confirmado
+3983b006-6fa3-4f6c-868c-fdfcf921c7fc,2025-08-01,Receita,Investimentos,Totam at animi excepturi.,-17045.24,Conta Corrente,Pendente
+15b31bf6-eab1-44f2-ab55-1fc38ca79d39,2025-08-15,Despesa,Infraestrutura,Ipsa illum quia autem itaque.,10932.97,Banco Principal,Confirmado
+da1b33c0-ebcc-4940-9ed1-5cea410d62fb,2025-08-30,Receita,Infraestrutura,Ratione accusamus aspernatur.,9436.66,Poupança,Cancelado
+38f5b361-8fe3-4733-8a97-4b4f872199e2,2025-09-16,Despesa,Vendas,Asperiores ea aperiam quis veritatis illum quas ratione.,46176.72,Banco Principal,Pendente
+ac22017e-4803-4738-b4b8-ea19a69b5319,2024-12-06,Despesa,Infraestrutura,Veniam itaque aliquam sit.,-4398.15,Poupança,Pendente
+bc401d28-d5ae-4a57-af61-7255fff053c3,2025-02-18,Despesa,Infraestrutura,Voluptates enim ex voluptas.,-36466.04,Poupança,Confirmado
+3f53f2fc-4d74-4739-9293-57ac50e4c064,2025-06-11,Despesa,Vendas,Aperiam voluptates ducimus.,-63.88,Investimentos,Confirmado
+31d794bc-1cc5-49fe-a29c-69dbd8dda4c4,2024-10-13,Despesa,Vendas,Ducimus magnam harum assumenda.,48930.53,Poupança,Pendente
+9205f5b4-7e01-434f-810d-7c9fcb6d66b5,2025-01-19,Despesa,Impostos,Ad quis neque eligendi iure officia.,-15783.45,Poupança,Cancelado
+7e86a0a0-e290-4366-8ed6-e052beafeaca,2025-08-17,Despesa,Investimentos,Illum dicta optio neque cumque fugit similique modi.,13345.24,Conta Corrente,Confirmado
+a8d02213-04eb-4cd2-a362-c6fcb71f4416,2025-04-21,Despesa,Investimentos,Voluptates sint officiis itaque.,75410.45,Investimentos,Pendente
+69b2dabb-c9e2-42c8-ab98-31a35d68279e,2024-10-26,Receita,Vendas,Similique ut repudiandae aspernatur iste earum.,19215.07,Investimentos,Confirmado
+25242e32-5550-4c7e-99c2-d466b6f85597,2025-01-18,Despesa,Fornecedores,Unde ipsam incidunt occaecati.,-2223.79,Banco Principal,Pendente
+c8ef3411-4ddf-46ec-b0a3-521fdfb52ba0,2025-02-05,Despesa,Infraestrutura,Occaecati reiciendis possimus perferendis quibusdam tempora.,2124.34,Investimentos,Cancelado
+32a6a4d3-e0f2-445e-b955-14215630e787,2025-08-03,Receita,Investimentos,Dicta vitae nam ullam sunt accusamus esse.,65913.24,Conta Corrente,Pendente
+1e366d58-0af3-4b4d-aa1e-76b5741828cb,2025-02-04,Receita,Investimentos,Sit atque atque voluptate.,97793.3,Banco Principal,Pendente
+8ea78822-f8a4-4290-8afc-ebb1e307d064,2025-05-04,Despesa,Salários,Est facilis excepturi cumque id ipsum.,-26406.51,Investimentos,Cancelado
+4f97a4a7-ae50-42ea-9e3d-5f8232c47e97,2025-08-21,Receita,Impostos,Molestiae veniam eveniet recusandae eius veniam.,3652.17,Investimentos,Confirmado
+7673f2af-a222-4df9-bf54-65cde23e1ef7,2024-12-19,Despesa,Impostos,Porro nam tenetur possimus suscipit sequi fugit.,-9027.99,Conta Corrente,Cancelado
+1dc856f9-4d03-4cb1-aeea-b15b4e719922,2025-08-05,Receita,Fornecedores,Deserunt enim saepe nisi.,7710.71,Poupança,Pendente
+fe0310c8-dc34-4ab8-8d24-03e1c9718944,2025-04-21,Despesa,Impostos,Facilis eaque similique quidem praesentium ipsa occaecati.,21420.15,Conta Corrente,Confirmado
+004b5696-e724-41bf-a184-4730a27f5f78,2025-08-01,Despesa,Fornecedores,Voluptatum maiores dolore magni nulla possimus fuga nulla.,-41971.32,Investimentos,Pendente
+fe54ec9a-c095-463d-98e3-8786304613e7,2025-03-10,Despesa,Infraestrutura,Soluta voluptate amet expedita fugiat illo incidunt rem.,73215.35,Conta Corrente,Confirmado
+cd6b2d81-96e6-43ee-b586-e23ac3ecaec8,2025-06-18,Despesa,Marketing,Placeat temporibus necessitatibus unde qui.,9954.34,Conta Corrente,Confirmado
+0cc1b8a1-3fd7-4325-a5d0-b5b14f6a709d,2025-08-21,Receita,Impostos,Sit tenetur eius asperiores.,19836.32,Banco Principal,Confirmado
+5f82306b-2c82-4e7e-a292-bd745c781e61,2025-08-26,Despesa,Salários,Aspernatur magni laudantium natus deserunt voluptas ipsum.,75452.43,Conta Corrente,Cancelado
+38ba98f3-8bd6-4701-bf85-26a972a5be74,2025-07-03,Despesa,Marketing,Vero veritatis illo reiciendis quibusdam praesentium exercitationem.,-27251.77,Investimentos,Cancelado
+09697d24-b7fe-4cd0-a71d-f11bed5dc976,2025-05-09,Receita,Marketing,Aspernatur magni quos aliquam.,3663.47,Conta Corrente,Cancelado
+194b01ab-cc4c-44e9-bd8f-1b12b93f371d,2024-11-21,Receita,Salários,Quaerat voluptate doloremque nihil vero dignissimos voluptatem.,-11397.78,Banco Principal,Confirmado
+de6967c9-db28-4e40-afd4-7e8d2bfbff10,2025-06-23,Despesa,Salários,Consequuntur placeat natus earum esse quibusdam.,82992.76,Poupança,Confirmado
+0999103d-35e6-4c8a-b153-67d4a09d251c,2025-04-03,Despesa,Vendas,Reprehenderit cupiditate optio cumque ab.,-5343.42,Conta Corrente,Cancelado
+6fd32eb9-a8c6-4e7d-8bca-31b375224484,2025-04-10,Despesa,Infraestrutura,Et error non atque ad laboriosam unde.,-39587.94,Poupança,Cancelado
+ac837d04-612c-4114-8237-d008a11a13d7,2024-11-20,Despesa,Vendas,Tenetur eligendi nisi quam reiciendis.,20446.06,Investimentos,Confirmado
+697270f9-7f34-4e2d-8a63-222e6519909f,2025-01-19,Despesa,Infraestrutura,Error optio consequatur reiciendis tempore.,79997.91,Poupança,Cancelado
+ce12c89a-ff07-4e45-accc-914aa853f841,2024-12-16,Receita,Vendas,Rem fugit suscipit maxime distinctio ex suscipit ea.,14929.89,Conta Corrente,Cancelado
+c250a350-3b43-4889-abbf-37c4a0a00149,2025-04-26,Despesa,Investimentos,Rem perferendis voluptates illum officia cum magnam nisi.,6353.15,Banco Principal,Confirmado
+6cef57d1-9d57-4407-81c3-d6b100245908,2024-11-21,Despesa,Marketing,Animi sint ullam laboriosam animi.,-31204.38,Conta Corrente,Confirmado
+be796707-4930-4d6b-a220-ac04cfc72d8f,2025-03-06,Receita,Investimentos,Eveniet iusto eum reprehenderit rem.,90580.64,Poupança,Confirmado
+1aa84a34-fef0-4015-b435-e1f07336a99d,2024-11-17,Despesa,Fornecedores,Dolores reprehenderit sint cumque.,36846.95,Banco Principal,Pendente
+6f2aeb66-e213-40fa-ae3a-b43297c051a6,2024-12-27,Receita,Infraestrutura,Iure dignissimos doloribus.,11875.11,Poupança,Pendente
+5972d2bd-d970-42b1-a059-9e5e05c8dfc4,2025-06-04,Despesa,Salários,Impedit corporis aliquam eaque alias sint deleniti.,11678.58,Banco Principal,Pendente
+a75bd6e7-2c8d-4b68-9fba-3f5ef0b28949,2025-05-08,Despesa,Vendas,Error corporis recusandae provident ut quod.,-4025.59,Banco Principal,Pendente
+9aa15067-f20c-4cec-a55c-a06ab085bfed,2025-08-15,Receita,Investimentos,Aut accusantium nemo.,-894.84,Banco Principal,Pendente
+716206aa-b9ac-481f-ae83-8d167413a0ca,2025-08-27,Despesa,Salários,Aut veritatis dolorum vel enim iste.,69126.99,Investimentos,Cancelado
+88a10985-0b9f-4552-9f78-2e01bf2829f9,2024-11-05,Despesa,Salários,Magnam voluptatibus iste magnam corporis sunt laboriosam.,-30068.07,Investimentos,Confirmado
+7b8282af-a822-4842-921a-0af41f6c0513,2024-10-09,Despesa,Vendas,Eveniet provident enim dolores.,99758.78,Poupança,Cancelado
+2369e176-d9c9-4ffb-87d7-724df2d7bb7c,2025-06-08,Receita,Vendas,Error recusandae vel saepe omnis ducimus nam.,-39303.81,Poupança,Cancelado
+5c76f5bf-28f1-45f5-afa6-d251aeddab50,2025-02-20,Receita,Vendas,Ipsa occaecati unde sapiente.,86886.69,Poupança,Confirmado
+44f512c3-71ac-46be-a588-78bde3976b29,2025-01-09,Despesa,Infraestrutura,Cupiditate laborum ipsam molestiae libero qui consequuntur mollitia.,45739.09,Conta Corrente,Confirmado
+1bd4bf7c-f5a8-4680-ba85-2fb00f091165,2025-04-29,Despesa,Investimentos,Eveniet molestias laboriosam ex quibusdam delectus magnam.,74092.56,Conta Corrente,Confirmado
+9f5b9b9b-0c1a-4a6a-b73e-0311cf1ea0c7,2024-10-10,Despesa,Marketing,Optio rerum voluptatem odio quaerat.,25447.67,Poupança,Cancelado
+0601830c-0a2a-4a94-8575-6698039763c0,2024-10-14,Receita,Vendas,Esse eius iure aliquid fuga praesentium.,-29493.94,Banco Principal,Pendente
+aad3e04b-4cb9-4264-af35-6aa319250a64,2025-08-11,Despesa,Vendas,Omnis saepe dignissimos consequuntur quod temporibus quas laborum.,55892.75,Banco Principal,Pendente
+eeef81f2-9316-4205-baf8-5ebd6b303cb2,2025-02-23,Receita,Investimentos,Atque quaerat placeat praesentium at aliquam sed.,6415.87,Poupança,Pendente
+6c82fec7-b128-4558-803c-5269e29247eb,2025-02-17,Despesa,Infraestrutura,Impedit quis quam temporibus.,99372.51,Banco Principal,Pendente

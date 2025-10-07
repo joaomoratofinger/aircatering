@@ -1,0 +1,201 @@
+id,nome_produto,categoria,fornecedor,quantidade_atual,quantidade_minima,preco_custo,preco_venda,data_ultima_entrada,localizacao,validade
+8e82a47f-83a2-4423-a982-7dce07d236e2,A arte de conseguir com confiança,Bebidas,Araújo - ME,689,25,107.61,36.6,2025-10-05,Setor C-18,2026-07-30
+9f8d9787-2972-4962-bc3e-6f4b55bc3491,A simplicidade de ganhar antes de tudo,Utensílios,Nogueira Ltda.,566,26,93.31,223.35,2025-10-05,Setor A-19,2026-06-29
+05096643-3688-4f6c-8290-61634d73cd90,O conforto de mudar direto da fonte,Limpeza,Camargo Nascimento - ME,523,16,16.94,50.93,2025-10-05,Setor A-11,2026-07-24
+2e1a9d4a-1069-4f95-b9a2-0e23bdc7dcc0,O direito de evoluir mais rapidamente,Limpeza,Fonseca S/A,176,39,85.36,357.61,2025-10-05,Setor A-8,2026-05-14
+23d32d2a-5bd2-45d4-b959-2ee4bc5abfbf,O direito de inovar direto da fonte,Alimentação,Teixeira Cavalcante - EI,665,49,128.21,391.08,2025-10-05,Setor C-3,2025-12-08
+3f0b890f-da32-4b3a-9c9f-611265440d9e,A vantagem de atingir seus objetivos antes de tudo,Alimentação,Azevedo,502,28,183.91,170.82,2025-10-05,Setor C-14,
+cad7c63d-15b6-4d74-bc9b-032235fba646,A liberdade de inovar naturalmente,Bebidas,Freitas,778,23,8.77,289.57,2025-10-05,Setor B-20,
+69b238ff-64bf-47e3-b834-3ba152055796,A arte de inovar com força total,Bebidas,Gomes S/A,521,44,72.12,59.05,2025-10-05,Setor A-5,2026-08-18
+b2b3d79f-3a3e-481f-87f7-42aaa4ad6aa9,A arte de inovar de maneira eficaz,Limpeza,Moraes,691,40,175.24,37.62,2025-10-05,Setor C-7,2026-05-25
+44f31b88-cc46-42ea-83ef-0deeb2c9b95f,A segurança de realizar seus sonhos em estado puro,Alimentação,da Luz Oliveira S.A.,462,39,172.24,305.34,2025-10-05,Setor B-15,
+89acc3db-cc09-4597-93c8-7cf93fefa3e2,A certeza de conseguir simplesmente,Alimentação,Macedo S.A.,293,28,94.52,246.67,2025-10-05,Setor C-20,2026-08-04
+1b2dd754-2329-40e6-9329-c37d51751f8f,A certeza de concretizar seus projetos mais facilmente,Alimentação,Nunes,140,47,71.35,36.1,2025-10-05,Setor B-6,
+7ca70700-8c80-427e-a310-acbea225448a,A segurança de evoluir mais rapidamente,Bebidas,Cavalcanti,707,21,46.35,205.71,2025-10-05,Setor B-13,2026-08-26
+08433454-7ba5-48a9-bb5c-d99e2033a9d3,A certeza de mudar naturalmente,Limpeza,Pires,815,46,60.88,221.05,2025-10-05,Setor A-10,
+2285a480-5957-4b57-b929-7b3f58100e38,O conforto de evoluir direto da fonte,Limpeza,Porto,741,19,181.89,185.84,2025-10-05,Setor A-5,
+4b492407-3f28-497a-b4ec-e81913023e72,O direito de concretizar seus projetos com confiança,Alimentação,Sousa,53,17,106.36,281.85,2025-10-05,Setor C-17,
+8725c3f5-16cd-4311-af2a-c7910454a4a5,A simplicidade de concretizar seus projetos mais facilmente,Limpeza,Sá - ME,6,12,167.52,337.43,2025-10-05,Setor A-3,2026-04-01
+afe81721-1656-4975-a5f0-390edf7e9efb,A arte de inovar antes de tudo,Utensílios,Siqueira Ltda.,368,22,13.18,261.01,2025-10-05,Setor B-11,2026-07-17
+30ceffe3-79ac-4bcb-b6a4-ccc9d0ec0ea4,O conforto de avançar mais facilmente,Utensílios,Pacheco Oliveira S/A,164,11,67.03,111.69,2025-10-05,Setor B-7,
+2ae4acf9-93dc-46de-a28a-1df41ac6d9a3,O prazer de atingir seus objetivos naturalmente,Limpeza,Siqueira - ME,392,11,33.37,337.89,2025-10-05,Setor A-10,
+7b127e5e-2a45-4126-baa6-b9c4a20bb4e7,A certeza de conseguir sem preocupação,Alimentação,Novais,467,20,115.58,359.24,2025-10-05,Setor C-6,
+4276d296-81b2-4e6a-9af4-ead816115630,A vantagem de atingir seus objetivos direto da fonte,Utensílios,Câmara Nascimento e Filhos,835,46,67.09,319.65,2025-10-05,Setor B-9,2026-06-21
+2a95d535-89db-484e-b0ef-aba051a6ec83,A vantagem de avançar direto da fonte,Utensílios,Lima Ltda.,239,46,66.98,205.82,2025-10-05,Setor B-17,
+41905a45-2ba4-492d-bfd7-87816a4c7f0e,O conforto de inovar de maneira eficaz,Bebidas,da Costa,922,41,156.08,12.62,2025-10-05,Setor C-19,
+3741fac9-09c3-42f1-a9d7-0dc8ed9442db,A liberdade de inovar em estado puro,Limpeza,Barbosa,280,16,122.53,128.1,2025-10-05,Setor B-12,2026-09-02
+15738c09-4f94-4100-9912-214e1820db2e,O prazer de avançar antes de tudo,Utensílios,Ribeiro - EI,417,46,16.22,91.56,2025-10-05,Setor C-1,2026-02-05
+78098c34-1605-4a0e-a056-1312b714c58f,A arte de mudar direto da fonte,Alimentação,Lopes Azevedo Ltda.,299,32,120.89,37.26,2025-10-05,Setor A-2,
+00ad6be1-8005-48be-bcd8-a57a928b0bc2,A vantagem de mudar com toda a tranquilidade,Bebidas,Fogaça Gonçalves - ME,223,50,10.86,367.44,2025-10-05,Setor B-11,2026-08-11
+98332d20-1c44-4746-8d50-174e768b4cff,A liberdade de evoluir mais facilmente,Bebidas,Farias Alves S.A.,403,33,83.06,366.8,2025-10-05,Setor B-18,2025-11-07
+1b5fa140-f57a-4ac0-9bcb-beda667c5fed,A segurança de concretizar seus projetos de maneira eficaz,Alimentação,Novaes Pastor - EI,866,33,46.73,356.84,2025-10-05,Setor B-8,2025-12-04
+13eefe47-fa61-47c1-b378-d229257ab8d0,O prazer de ganhar direto da fonte,Bebidas,Borges,126,19,27.98,334.78,2025-10-05,Setor A-4,
+18a82b39-6337-4d14-8e74-fd4acb9af7ce,A arte de conseguir direto da fonte,Bebidas,Nogueira e Filhos,236,37,82.75,89.53,2025-10-05,Setor B-5,
+ed2d1fdc-6add-41d6-b273-cbd9a506da12,A liberdade de realizar seus sonhos sem preocupação,Alimentação,Correia da Cruz e Filhos,107,45,118.63,202.86,2025-10-05,Setor A-13,2025-10-10
+62a6670b-c117-4483-926e-e400204af8a3,O prazer de evoluir direto da fonte,Limpeza,Vargas,570,43,93.6,353.78,2025-10-05,Setor B-19,
+4fd8233c-bb20-4fe6-bc02-91e4fc78bd93,A segurança de mudar com confiança,Bebidas,Sales,886,12,182.28,22.92,2025-10-05,Setor A-16,
+4a0f2ff7-8eb9-40a1-a3b7-f5167c669ac2,A possibilidade de evoluir com toda a tranquilidade,Bebidas,Camargo,210,26,168.18,352.74,2025-10-05,Setor B-16,
+b7994c05-9ee5-470a-9c9f-020f3667b2d1,A possibilidade de inovar naturalmente,Utensílios,Cirino,693,22,117.31,256.23,2025-10-05,Setor A-18,2026-02-10
+5c776121-0cbb-4b77-8932-8b28ff6731b7,A segurança de evoluir mais facilmente,Utensílios,Borges,654,34,111.02,244.04,2025-10-05,Setor B-12,2026-09-02
+2fd7cc0c-1d34-4815-b27a-6346dc162feb,O direito de mudar sem preocupação,Alimentação,Silva - ME,476,33,71.38,275.34,2025-10-05,Setor C-10,2026-05-30
+c8020f19-e84a-419a-adc8-fdd9e8fcb2a4,O direito de conseguir de maneira eficaz,Utensílios,da Luz,413,34,41.13,126.06,2025-10-05,Setor B-6,
+12127a29-4015-49a2-9052-12e6f1f06fad,O direito de conseguir simplesmente,Limpeza,Sales Ltda.,504,48,57.2,262.21,2025-10-05,Setor C-6,2025-10-10
+3f116480-8f0c-4937-8d3a-8d7c7ad8ca95,O conforto de realizar seus sonhos mais facilmente,Limpeza,Montenegro Ramos Ltda.,971,32,183.81,213.06,2025-10-05,Setor B-18,2025-12-05
+aa60616a-01c9-47a1-ae81-15fad3184628,A simplicidade de mudar com toda a tranquilidade,Bebidas,Cassiano da Paz Ltda.,5,20,31.65,20.5,2025-10-05,Setor B-20,
+5e6a2453-77e8-4b0c-a0dd-7d623818bb04,O direito de evoluir antes de tudo,Alimentação,da Luz - EI,723,12,67.63,42.51,2025-10-05,Setor B-8,
+261ddd03-85b9-413f-a9bd-2895afcc8654,O prazer de ganhar simplesmente,Utensílios,Leão S/A,878,26,170.53,179.04,2025-10-05,Setor A-8,
+789d42fd-2d99-48a2-959e-6d0eee228f28,A liberdade de mudar em estado puro,Bebidas,Pimenta,612,12,74.93,289.53,2025-10-05,Setor B-18,2026-08-22
+abe52a99-5909-4932-8f67-69d0a73e371b,A segurança de evoluir direto da fonte,Utensílios,Castro,728,13,148.32,290.21,2025-10-05,Setor B-13,2026-02-18
+78395fb6-cc02-4dc3-bacd-96490fb02ee1,A segurança de concretizar seus projetos mais facilmente,Limpeza,Nogueira e Filhos,221,30,157.62,277.23,2025-10-05,Setor C-16,
+83d0796b-4073-4537-a0f0-10a910e92b0f,A vantagem de avançar de maneira eficaz,Bebidas,Camargo Cavalcanti - ME,992,28,89.62,204.64,2025-10-05,Setor C-3,
+8ee15e8f-e56e-4cee-8b24-2b9c25dbd6d7,A simplicidade de evoluir antes de tudo,Alimentação,Rodrigues e Filhos,980,22,179.55,370.5,2025-10-05,Setor B-14,2026-04-18
+ffce9f52-2c26-49f0-b060-29468bdbd1ed,A certeza de mudar antes de tudo,Alimentação,da Mata Câmara e Filhos,719,45,121.75,71.61,2025-10-05,Setor A-15,
+5b47b4bf-862b-48d5-9abe-4c3206c8d118,A arte de avançar de maneira eficaz,Utensílios,Costa Guerra S.A.,466,35,105.86,20.46,2025-10-05,Setor A-17,
+97980434-979c-42bc-9e59-e26175c65cbc,A liberdade de conseguir mais facilmente,Utensílios,Albuquerque,302,42,19.18,223.79,2025-10-05,Setor C-15,
+4a3d7d71-ac72-42b9-80fb-06f31b4ff938,O conforto de avançar simplesmente,Alimentação,Fernandes - EI,883,49,15.91,84.17,2025-10-05,Setor C-8,2026-06-15
+1eeaea83-5da6-4509-be71-01a200fe7a98,A arte de mudar naturalmente,Limpeza,Machado,224,39,138.35,384.71,2025-10-05,Setor A-6,
+0d3b7a8f-d42c-4651-84d5-779b0a0b7754,A vantagem de conseguir sem preocupação,Limpeza,da Conceição,87,34,145.52,14.76,2025-10-05,Setor B-17,2026-04-22
+1d8cbee7-2633-49bf-84d1-7aa06457034c,A vantagem de avançar em estado puro,Bebidas,Camargo Silva e Filhos,205,47,110.31,122.96,2025-10-05,Setor C-16,2026-04-13
+b8009127-a492-463c-9b84-2444bc897a63,A simplicidade de atingir seus objetivos sem preocupação,Bebidas,Farias,568,47,23.88,273.04,2025-10-05,Setor B-1,2026-06-06
+99a40b96-ec09-4432-a947-8a7b762cbd0b,A segurança de realizar seus sonhos em estado puro,Alimentação,da Rocha - ME,388,33,101.92,386.69,2025-10-05,Setor C-17,2025-11-18
+5162a2b2-71cd-47af-9e45-19897d323eda,A simplicidade de mudar com toda a tranquilidade,Alimentação,Cassiano,62,30,195.56,318.01,2025-10-05,Setor C-20,2026-03-19
+9de0b7c7-0c8f-4299-a543-4cef10f67462,O conforto de ganhar com confiança,Alimentação,Vargas,187,23,139.83,305.75,2025-10-05,Setor A-11,
+4ae7df0f-4964-4583-8fc2-9eea763aafd1,A liberdade de evoluir antes de tudo,Limpeza,Lima e Filhos,313,23,193.81,217.31,2025-10-05,Setor C-1,
+6af4a752-f484-4533-a3a4-69a62288d36a,O direito de atingir seus objetivos simplesmente,Bebidas,Aparecida,194,26,38.4,171.55,2025-10-05,Setor C-1,
+5fa26b88-b830-4338-aab4-4f38ddb3a000,A segurança de mudar de maneira eficaz,Limpeza,Gonçalves,330,14,105.04,111.42,2025-10-05,Setor B-15,2026-03-27
+f0fa7ca7-640f-4548-a1e8-9b936c386a5c,A simplicidade de avançar simplesmente,Utensílios,Silva,566,24,189.12,69.76,2025-10-05,Setor B-2,
+eb01a605-d536-4dc2-bf5c-5c5930139526,O poder de conseguir mais rapidamente,Limpeza,Fogaça Ltda.,503,15,198.15,201.34,2025-10-05,Setor B-12,
+66ab00cc-71a9-423b-8b5f-f26352660bb5,A certeza de conseguir sem preocupação,Limpeza,Peixoto,871,49,24.09,100.62,2025-10-05,Setor A-2,2025-12-09
+a2c4a106-7a60-47b4-a5d4-203b21af5aad,A liberdade de avançar com toda a tranquilidade,Bebidas,Costa - ME,11,17,125.31,85.21,2025-10-05,Setor B-17,
+36356874-c12f-4db4-ab09-3d5da128f54c,O direito de mudar antes de tudo,Limpeza,Sousa,524,36,143.33,65.74,2025-10-05,Setor C-11,2026-07-03
+792d41af-24ed-4041-bdbb-75ef5f83dadb,A arte de ganhar direto da fonte,Bebidas,Vieira,614,19,164.43,32.75,2025-10-05,Setor A-15,
+d1d96456-9eb6-46a4-a1b1-f01aa7571067,O conforto de conseguir com confiança,Limpeza,Pimenta Vieira Ltda.,608,13,74.12,104.01,2025-10-05,Setor A-17,
+cc4e271a-fa0e-4051-afa4-ccda575386b7,A simplicidade de atingir seus objetivos antes de tudo,Limpeza,Pinto,440,39,65.66,389.8,2025-10-05,Setor A-3,
+f07a954e-10ad-4c07-a4c8-53019f39dfc0,A liberdade de realizar seus sonhos em estado puro,Limpeza,Carvalho S.A.,554,35,6.62,58.25,2025-10-05,Setor A-2,2026-07-29
+da0b3dd4-5f9f-4d9b-8d50-d6e0debee566,A vantagem de realizar seus sonhos com confiança,Bebidas,Souza,435,35,110.78,236.83,2025-10-05,Setor B-5,
+1cf472b3-cb7f-4ccf-a24b-3ddeafc0271e,A arte de concretizar seus projetos em estado puro,Alimentação,Nascimento Leão Ltda.,371,36,99.5,277.66,2025-10-05,Setor C-8,
+268169fd-999a-411e-bc53-8dc79006770a,O prazer de atingir seus objetivos de maneira eficaz,Bebidas,Alves Pastor Ltda.,442,12,27.78,254.55,2025-10-05,Setor B-1,2026-08-13
+f158a86c-aba5-422e-830a-92e5a36df163,O prazer de inovar com força total,Limpeza,Guerra,950,23,153.85,95.02,2025-10-05,Setor A-11,2025-12-29
+47900ecc-c171-48af-b488-edd886bfae5c,A liberdade de avançar com confiança,Utensílios,Silva,197,38,166.23,113.76,2025-10-05,Setor C-5,2026-03-25
+d291022b-93d6-4886-8307-8756917d096a,O conforto de realizar seus sonhos com toda a tranquilidade,Bebidas,Marques das Neves - EI,645,20,182.31,142.34,2025-10-05,Setor C-13,
+8b46c92a-2e9c-4ba5-b1e6-d902a36ab227,A possibilidade de inovar mais rapidamente,Bebidas,Mendes,629,40,177.62,241.94,2025-10-05,Setor C-10,
+e73a580c-e21e-49df-8ceb-3085375d5f61,A segurança de evoluir mais facilmente,Limpeza,Costa,767,45,31.48,388.35,2025-10-05,Setor B-4,2025-12-14
+369867dd-ab38-4a77-9268-112fb56a0882,O conforto de evoluir mais facilmente,Bebidas,Costa e Filhos,858,42,87.67,89.93,2025-10-05,Setor A-8,2026-05-04
+b20b873c-114e-4440-9275-00805088e021,A certeza de concretizar seus projetos mais rapidamente,Limpeza,Cassiano,867,33,76.84,32.63,2025-10-05,Setor C-15,2026-03-03
+7cc2dd14-6fe7-4296-9794-ff62810c6cad,A vantagem de inovar em estado puro,Alimentação,Fonseca,314,50,119.31,358.7,2025-10-05,Setor A-16,
+1c24fded-43a5-48ff-b55c-f9d06b7dea06,A certeza de realizar seus sonhos com confiança,Utensílios,Farias,85,41,117.71,283.81,2025-10-05,Setor B-14,2026-08-26
+25eaf73c-4c0c-4523-8bd0-6f86af5fb17b,O poder de evoluir com força total,Alimentação,Moura - ME,400,50,31.89,99.79,2025-10-05,Setor A-11,
+c22bec00-d804-4aa9-8f71-d284b09ce9a9,A certeza de inovar com força total,Utensílios,da Paz,86,13,60.87,248.95,2025-10-05,Setor A-18,
+b4e3a269-caaa-4144-89a9-b649f7b7dc44,A segurança de concretizar seus projetos com confiança,Limpeza,Porto,474,36,33.39,60.17,2025-10-05,Setor C-18,
+c1de447c-4e35-432e-97fd-28a198b5c075,A possibilidade de inovar direto da fonte,Alimentação,das Neves Ltda.,195,43,147.52,179.03,2025-10-05,Setor C-9,2026-09-03
+f9dc15ea-c8b6-4242-8054-45333fe8bed6,A segurança de mudar antes de tudo,Limpeza,Nogueira Vieira S/A,659,42,26.25,276.03,2025-10-05,Setor B-15,2025-10-30
+f535d476-aa9b-47c1-85a7-4811780b8b71,O conforto de atingir seus objetivos antes de tudo,Limpeza,Novaes,112,15,108.72,14.0,2025-10-05,Setor A-6,
+a9cc197f-01d9-4fe9-8344-4a3a6d82b3a4,A simplicidade de realizar seus sonhos com toda a tranquilidade,Limpeza,das Neves,215,48,84.94,216.99,2025-10-05,Setor C-14,2025-12-05
+e742aa7e-fa65-4824-975e-eefdfb3e06eb,O direito de atingir seus objetivos em estado puro,Alimentação,Mendes,791,28,120.4,11.39,2025-10-05,Setor C-10,
+0be69fd0-f44c-43b1-9012-143708134573,A arte de realizar seus sonhos com confiança,Utensílios,Ferreira Novais Ltda.,525,18,153.93,185.47,2025-10-05,Setor B-3,2026-09-22
+2666ec1b-8444-4d7b-91f8-56fc77cc2d1c,O prazer de concretizar seus projetos simplesmente,Limpeza,Cardoso,927,39,165.4,77.88,2025-10-05,Setor C-16,
+55b3b8d8-36b5-4734-bd57-f9966f69f405,O conforto de avançar com confiança,Alimentação,Peixoto,528,28,135.16,386.92,2025-10-05,Setor A-14,
+fa5acc6c-f74f-4491-94b2-1c03b2f2288e,A possibilidade de avançar com toda a tranquilidade,Limpeza,Casa Grande,56,14,50.2,201.99,2025-10-05,Setor C-6,
+baf88451-d778-45d7-bec6-cc7e7bde1896,A certeza de realizar seus sonhos com confiança,Bebidas,Rezende,567,33,41.31,228.96,2025-10-05,Setor A-5,
+a97de01a-c040-4659-9caa-43798b5400a6,A segurança de avançar naturalmente,Limpeza,Rezende - ME,636,19,112.76,260.1,2025-10-05,Setor A-15,
+06a0145a-6425-4bdd-b7bd-befed8963676,O prazer de ganhar mais facilmente,Bebidas,Aragão e Filhos,193,30,100.15,126.37,2025-10-05,Setor C-14,2025-11-14
+92a99f11-18d6-418e-bb87-963e64f70d05,A segurança de conseguir com força total,Bebidas,Vasconcelos - ME,602,27,170.23,365.26,2025-10-05,Setor A-2,2026-06-23
+53010831-eea0-4ef4-be25-9afe43d97907,O poder de concretizar seus projetos mais rapidamente,Bebidas,Nogueira,116,38,174.29,309.94,2025-10-05,Setor B-11,2026-07-26
+3452ba2d-a251-481d-b4d0-1055b0f288f9,A segurança de evoluir direto da fonte,Alimentação,Fernandes,35,49,56.72,116.5,2025-10-05,Setor B-10,
+c47012e3-9d55-4c1a-955c-fcbb3925a27d,A arte de concretizar seus projetos naturalmente,Alimentação,Costa,556,26,9.43,212.18,2025-10-05,Setor A-2,2025-12-14
+14312b8e-0fa8-4c55-a141-e34516f826f1,O prazer de evoluir antes de tudo,Bebidas,Mendonça Mendonça e Filhos,725,49,53.43,179.78,2025-10-05,Setor A-9,2026-06-26
+d4556318-50c5-40fb-a1ce-3d148329ad18,A arte de ganhar com toda a tranquilidade,Alimentação,Cassiano,865,42,19.23,282.63,2025-10-05,Setor A-8,2026-05-30
+9e556561-e498-47b8-b22d-0ae948aecbed,O direito de evoluir com força total,Alimentação,Freitas Nogueira e Filhos,348,37,39.29,395.47,2025-10-05,Setor B-14,2026-07-09
+ed7aed77-d485-440a-8573-1bf75e2985a7,O direito de mudar sem preocupação,Limpeza,Correia,842,21,12.36,107.06,2025-10-05,Setor A-10,
+ceb5ed31-acd4-487a-be26-154272d853c5,O direito de ganhar antes de tudo,Utensílios,da Cunha,771,49,199.59,204.73,2025-10-05,Setor C-4,
+029f67f7-c1a9-457e-8896-f6514586d7ae,A arte de ganhar com força total,Bebidas,Marques e Filhos,861,21,5.86,239.81,2025-10-05,Setor A-9,2026-08-07
+b64fed17-3ef3-4dec-8310-b006c7af69bc,A segurança de conseguir em estado puro,Bebidas,Borges S/A,468,29,24.73,214.13,2025-10-05,Setor C-17,2025-12-10
+5b7850b6-2394-4ce5-ab55-8cad3c0cf504,A segurança de atingir seus objetivos mais rapidamente,Bebidas,Martins - EI,795,22,111.76,43.93,2025-10-05,Setor A-9,2026-05-27
+c39c64e5-a002-4b5e-a983-17feb2aa66ed,A arte de inovar de maneira eficaz,Utensílios,Novaes,651,36,120.53,242.39,2025-10-05,Setor C-18,2026-07-17
+160f1710-5567-4da0-a469-146681df7838,A simplicidade de realizar seus sonhos simplesmente,Bebidas,da Paz Ribeiro S/A,4,29,108.37,331.08,2025-10-05,Setor B-8,2026-04-27
+6a7f176e-25ac-49f8-aa64-b31177349722,A simplicidade de inovar em estado puro,Utensílios,Camargo,940,44,16.22,184.97,2025-10-05,Setor B-20,2026-04-10
+af4528a1-5a23-41de-9c0f-31212bd229b7,A segurança de inovar mais facilmente,Limpeza,Melo,982,21,100.66,287.27,2025-10-05,Setor C-8,
+cc8cefb3-39a7-4fad-871a-8b544d5a80bd,A possibilidade de avançar naturalmente,Alimentação,da Rosa,930,26,123.01,358.2,2025-10-05,Setor C-18,
+742f92ae-e553-43bd-8e51-464f288a1ee0,A simplicidade de mudar simplesmente,Limpeza,Moreira,48,20,151.64,242.38,2025-10-05,Setor B-1,
+b9d8f77a-8f18-4dff-8466-3cd94ba9bc37,A segurança de realizar seus sonhos naturalmente,Alimentação,Rodrigues,906,43,163.74,332.28,2025-10-05,Setor B-9,
+6155ae22-89a5-4891-8f9a-8fa2faab0135,O conforto de atingir seus objetivos mais rapidamente,Alimentação,Moura Lopes Ltda.,945,18,165.02,266.66,2025-10-05,Setor A-18,2025-10-29
+687bce07-5ad7-4b90-a5ef-01fd7ca4ecbe,O conforto de atingir seus objetivos com confiança,Alimentação,Freitas Cavalcante S.A.,769,35,140.16,238.95,2025-10-05,Setor C-19,
+a5e7de63-29bc-458a-a0a2-2c6a6114a1ab,A certeza de ganhar direto da fonte,Limpeza,Nunes - ME,195,35,139.01,223.04,2025-10-05,Setor A-4,
+b129a628-02b9-4d2f-8fce-2da7d9d90c9c,A possibilidade de mudar direto da fonte,Bebidas,Ramos,82,17,51.75,74.42,2025-10-05,Setor B-2,2026-01-07
+911cae44-10fa-4fdb-b024-6b52828f1e2b,A liberdade de avançar mais rapidamente,Alimentação,Santos Camargo - EI,487,17,28.34,210.87,2025-10-05,Setor B-18,
+133aed41-3dfe-438f-b576-6eafbeda7ca6,A arte de avançar mais rapidamente,Limpeza,da Paz Ramos - ME,490,25,12.15,192.46,2025-10-05,Setor C-10,
+15992e78-1483-49d0-ad0c-25f81ae896e4,O direito de atingir seus objetivos em estado puro,Limpeza,Santos - EI,871,32,161.4,141.91,2025-10-05,Setor A-8,
+3e804e6f-e2c5-4931-8a65-3cb298f06078,A arte de avançar com força total,Utensílios,Rios,496,50,103.35,113.05,2025-10-05,Setor B-10,
+679779f2-320f-47e4-8279-def4abbe33ae,O direito de atingir seus objetivos em estado puro,Alimentação,Ramos,145,20,151.79,219.18,2025-10-05,Setor A-11,2026-02-16
+10cfc1fc-6131-4327-87b6-176b10089c3d,A liberdade de ganhar mais rapidamente,Limpeza,Araújo,854,32,154.52,89.79,2025-10-05,Setor B-16,2025-10-26
+318251e3-652b-4fa1-9d6e-a400d848ca06,A segurança de ganhar sem preocupação,Utensílios,Siqueira,644,46,45.46,217.63,2025-10-05,Setor A-9,2026-07-04
+7c49bdcd-0cc4-40d1-b8b7-122cc9bad59a,A certeza de atingir seus objetivos com força total,Alimentação,da Mota,980,18,63.06,85.1,2025-10-05,Setor A-20,2026-03-15
+b3b69b20-c6e9-41fc-9af5-1543553e5861,A liberdade de inovar direto da fonte,Bebidas,das Neves,619,45,31.59,397.55,2025-10-05,Setor C-18,2026-08-13
+b64b5b4f-a273-4637-bcac-4df7a64593e7,A possibilidade de atingir seus objetivos com força total,Bebidas,Pereira,416,37,15.24,24.11,2025-10-05,Setor A-3,2026-04-16
+436a1b5b-35bd-4ba4-acbe-a86e096d97d8,A vantagem de realizar seus sonhos antes de tudo,Utensílios,Fogaça Ltda.,901,22,148.43,26.04,2025-10-05,Setor B-4,2026-03-11
+293c506b-86f2-4d23-ae07-575429223729,O prazer de evoluir mais rapidamente,Limpeza,da Paz,27,35,72.95,89.33,2025-10-05,Setor C-16,2025-12-29
+c04b6a12-53d1-444a-b822-efbca5f9b1ef,A segurança de inovar com toda a tranquilidade,Bebidas,Porto Peixoto - ME,958,41,119.02,235.29,2025-10-05,Setor C-11,2026-04-13
+7f52e119-cb4b-4f25-8a9e-81f9d4590424,O direito de avançar com força total,Limpeza,Cassiano Jesus Ltda.,456,28,96.26,100.29,2025-10-05,Setor B-8,
+99abc8fc-c46e-4b3d-91f7-0f0e21b6d243,O prazer de atingir seus objetivos em estado puro,Limpeza,Freitas Pimenta - ME,976,24,176.49,166.77,2025-10-05,Setor A-20,2026-05-23
+7d076715-4267-4594-adf5-5595b476e59e,O poder de atingir seus objetivos com toda a tranquilidade,Utensílios,Fogaça,931,45,146.27,368.18,2025-10-05,Setor C-15,2025-12-11
+93e0cdf6-9af4-487b-bff1-71c8c1b3d7d3,O prazer de conseguir naturalmente,Limpeza,Pastor Ltda.,564,22,174.46,345.37,2025-10-05,Setor C-4,
+afcce2d5-d2da-40d8-97f2-64f9933e5fa3,A simplicidade de mudar com força total,Limpeza,Dias,239,41,140.13,91.68,2025-10-05,Setor C-4,2026-02-19
+200e3531-ea20-47f0-adc4-323f2b749d1e,A segurança de conseguir mais rapidamente,Alimentação,Moreira,414,12,94.46,312.55,2025-10-05,Setor B-20,2026-08-29
+22daecda-1501-466d-b7fe-418bba109d69,O prazer de evoluir em estado puro,Limpeza,Vargas,133,10,174.98,182.08,2025-10-05,Setor B-12,
+5f551427-7518-41bf-ad40-69c23a1e7d5c,A arte de conseguir com toda a tranquilidade,Alimentação,da Mata,313,32,52.03,366.38,2025-10-05,Setor A-19,
+84624658-1cb9-4d67-be15-1b0b0656acce,A vantagem de ganhar mais facilmente,Alimentação,Cirino - ME,238,32,141.26,399.33,2025-10-05,Setor B-6,
+eb3738d4-206c-4392-a0f3-857385968326,A possibilidade de ganhar naturalmente,Limpeza,Leão,738,10,141.63,311.91,2025-10-05,Setor A-1,2025-11-19
+bd98d6f4-97b8-413e-87fe-bb20669dfe6b,A certeza de atingir seus objetivos sem preocupação,Limpeza,Cavalcante Vasconcelos - EI,994,14,71.99,173.69,2025-10-05,Setor A-4,2025-11-11
+597eeef8-c264-4948-8905-afb67b38ff95,O prazer de atingir seus objetivos com confiança,Limpeza,Fernandes,478,37,122.68,292.98,2025-10-05,Setor C-12,
+10dc3d67-978f-4a25-ae76-3ba4149d0c77,A segurança de evoluir em estado puro,Bebidas,Cunha,930,36,106.26,47.72,2025-10-05,Setor B-3,2026-09-23
+173cba18-f2ee-4c04-a749-3d88252f4455,O conforto de ganhar com toda a tranquilidade,Limpeza,Almeida,411,38,177.09,256.54,2025-10-05,Setor C-10,2026-01-12
+2448e975-8640-4b2b-9b42-f7be7542f561,A certeza de inovar simplesmente,Bebidas,Ribeiro e Filhos,70,46,17.22,235.81,2025-10-05,Setor B-7,
+1293cc46-72ef-4c47-b5f5-42c2a39d773d,O direito de conseguir mais rapidamente,Limpeza,Cassiano Gonçalves Ltda.,889,40,117.4,147.66,2025-10-05,Setor C-12,
+a8b26886-c5ea-4156-a6a2-f40f3ccafa9c,A simplicidade de evoluir naturalmente,Limpeza,Guerra,567,49,78.85,173.2,2025-10-05,Setor A-7,2026-09-20
+d8b6604f-0404-49ed-8f5e-da02843bf701,A liberdade de conseguir mais facilmente,Bebidas,Silveira,850,43,41.38,303.45,2025-10-05,Setor B-18,2026-01-18
+8c1ccaa4-5188-4674-8d42-9ad2c12b185c,O direito de ganhar de maneira eficaz,Utensílios,Casa Grande Guerra e Filhos,142,24,84.86,84.95,2025-10-05,Setor A-10,
+69665f13-2690-44c5-82a1-26473a83d5c7,O poder de atingir seus objetivos naturalmente,Bebidas,Andrade,867,26,91.53,392.13,2025-10-05,Setor A-18,
+d0327b5a-c4c6-4cf3-bf44-8feab99875c3,A certeza de conseguir de maneira eficaz,Limpeza,Borges,106,25,145.36,175.31,2025-10-05,Setor C-10,
+aa1e5126-e313-45ad-bad8-15c63af33fc1,O poder de avançar de maneira eficaz,Limpeza,da Rosa,103,43,42.21,288.12,2025-10-05,Setor A-8,
+1a152337-4d50-47c2-b53d-8b6e8c01aa9b,A simplicidade de inovar com força total,Limpeza,Santos Oliveira e Filhos,728,25,162.49,259.13,2025-10-05,Setor C-19,
+1c5a2f91-6010-477c-86a8-d3e322915bfa,O direito de realizar seus sonhos sem preocupação,Bebidas,Costela,292,30,123.56,256.35,2025-10-05,Setor C-13,
+86f4e68b-0a1c-4380-810e-9168d6a02421,O prazer de evoluir com confiança,Limpeza,Barbosa,113,12,188.06,380.08,2025-10-05,Setor A-20,
+43e03eac-c2ff-4aeb-8411-d798a85779b3,O prazer de concretizar seus projetos com confiança,Limpeza,Sampaio e Filhos,628,14,106.57,90.39,2025-10-05,Setor C-14,
+d3298b1c-b36e-4401-bafd-9d5dccaa5320,O prazer de avançar direto da fonte,Utensílios,das Neves Martins - ME,361,21,30.9,275.43,2025-10-05,Setor B-15,2026-04-09
+35395f3d-defa-4e07-9520-c938b80df399,A certeza de realizar seus sonhos com toda a tranquilidade,Bebidas,Jesus - ME,668,43,163.8,302.74,2025-10-05,Setor A-8,2026-07-30
+ffedb49e-024b-407d-96b1-74af14d549e8,A vantagem de ganhar em estado puro,Limpeza,Sá e Filhos,38,33,18.44,327.83,2025-10-05,Setor A-8,
+61c3b771-d782-403d-9268-84799ce6a908,A certeza de atingir seus objetivos sem preocupação,Limpeza,Porto Ltda.,318,36,60.59,204.3,2025-10-05,Setor C-13,
+b5440acf-2734-4215-a98e-2313e60d7f2c,A simplicidade de inovar com toda a tranquilidade,Alimentação,Ribeiro,337,48,83.53,367.83,2025-10-05,Setor A-5,
+4b070137-a124-4f7e-90d0-5c28acf27812,O direito de evoluir direto da fonte,Bebidas,Borges Sampaio - EI,255,43,84.74,275.38,2025-10-05,Setor C-20,
+d3d70e03-11b0-4143-af41-3ae5e5ee763f,A simplicidade de inovar com confiança,Utensílios,da Costa,62,50,185.05,49.99,2025-10-05,Setor A-14,2025-11-18
+72b20c25-1e75-432e-a2cd-6184a0a89b7b,A segurança de inovar direto da fonte,Limpeza,Novais da Conceição e Filhos,809,45,59.83,276.55,2025-10-05,Setor B-14,2026-09-15
+6abec40f-81e0-4e55-890e-7c7307e1b519,A certeza de inovar com força total,Alimentação,Montenegro Barbosa S/A,418,34,185.26,306.63,2025-10-05,Setor A-1,2026-07-29
+43143f88-bc48-422c-8aa9-74b5864949db,A vantagem de inovar sem preocupação,Alimentação,Nogueira,481,23,32.91,361.55,2025-10-05,Setor B-4,2026-01-25
+e621ae71-43d9-45c9-bb05-8bac388b8477,A segurança de avançar em estado puro,Alimentação,Abreu das Neves - EI,281,31,85.72,132.76,2025-10-05,Setor B-10,
+1999cc1b-a5a9-476b-9d26-d71ec4de3a97,A possibilidade de atingir seus objetivos de maneira eficaz,Utensílios,Novaes,374,19,102.47,68.32,2025-10-05,Setor A-9,
+cb8e0dd9-1a66-450e-aaa8-e554c7a1c2f3,O direito de atingir seus objetivos com toda a tranquilidade,Bebidas,Cassiano,234,39,33.23,383.12,2025-10-05,Setor C-11,
+fc8a5f09-bbf0-4bec-b34f-54c04686f35d,O direito de mudar com força total,Limpeza,Aparecida - EI,180,17,67.91,54.05,2025-10-05,Setor B-7,2026-07-21
+5c9f0f38-3fe0-4a77-9b13-0f0ea1399733,A possibilidade de conseguir simplesmente,Alimentação,Ramos S/A,855,43,38.9,320.89,2025-10-05,Setor B-9,
+03a8e962-825d-47ef-b13a-d5cc597c8df0,A simplicidade de conseguir com força total,Bebidas,Caldeira da Rosa S.A.,554,38,185.25,92.64,2025-10-05,Setor C-5,2026-04-21
+ffcdf378-6ca2-416b-90aa-3af86d26197c,A segurança de avançar direto da fonte,Alimentação,Aparecida,537,28,136.66,242.95,2025-10-05,Setor A-16,2026-05-10
+8d615d21-76ae-4afe-a275-2977612f412a,O conforto de mudar simplesmente,Bebidas,Barros,979,46,46.3,172.69,2025-10-05,Setor C-12,2026-09-13
+65afd3d9-b384-4c06-a881-bc32db20f201,O conforto de conseguir com força total,Utensílios,da Costa S.A.,757,29,45.38,141.59,2025-10-05,Setor A-5,2025-11-12
+0bcb45e0-2767-45fa-bdb0-a0e1916b643e,A arte de mudar simplesmente,Bebidas,Lima,589,38,50.8,314.71,2025-10-05,Setor A-3,2025-12-27
+36276047-af37-41be-8f08-c2050a93bd1a,O prazer de mudar naturalmente,Utensílios,Moraes Cassiano S/A,502,30,133.56,274.29,2025-10-05,Setor A-14,
+78d687a4-e081-4899-b7cc-88ec0412f003,O conforto de atingir seus objetivos com força total,Bebidas,Cardoso,158,49,63.41,398.85,2025-10-05,Setor A-10,
+79eb9fcc-9e00-4d4f-9885-538bf47f5bbe,O poder de avançar direto da fonte,Limpeza,Garcia,857,22,118.43,355.25,2025-10-05,Setor B-7,2026-04-25
+be2d0e4b-ef7b-42dd-a106-17d8d1bb5634,A segurança de atingir seus objetivos mais rapidamente,Utensílios,Camargo,114,46,128.81,154.84,2025-10-05,Setor A-7,2026-10-04
+a8f4e38c-1055-41b2-93a4-975ea6fae00e,A certeza de evoluir mais rapidamente,Bebidas,Pastor,556,29,39.32,167.89,2025-10-05,Setor B-18,
+3bf958a2-0c9f-45e1-97ac-c8543ffbb35c,O direito de evoluir com toda a tranquilidade,Utensílios,Andrade,851,28,21.16,348.73,2025-10-05,Setor A-3,
+2f2aec76-7b9d-43f8-a69e-d0ec3826b298,A simplicidade de inovar com confiança,Alimentação,Pacheco e Filhos,969,36,8.85,308.79,2025-10-05,Setor C-15,
+d2d61d39-bca4-4365-a89b-3280dc2b1565,A segurança de evoluir direto da fonte,Limpeza,da Conceição,865,20,48.73,268.25,2025-10-05,Setor A-16,
+25d5c189-5fc8-4669-a183-e98c89063b3c,A arte de conseguir mais rapidamente,Alimentação,Nascimento,111,28,185.19,52.92,2025-10-05,Setor C-12,
+c3d0ac8d-608f-4507-a430-40a21271e444,A arte de mudar sem preocupação,Limpeza,Mendes da Luz Ltda.,925,20,82.36,75.74,2025-10-05,Setor A-20,
+969ef0cd-4b45-48d5-8d37-845bf88d930d,O direito de realizar seus sonhos em estado puro,Utensílios,Sales Câmara - ME,815,27,60.14,274.19,2025-10-05,Setor B-19,2026-07-21
+fefda1cf-d3c3-4bdd-aead-f9635e9baf4b,A possibilidade de evoluir com confiança,Utensílios,Costa,805,13,23.52,125.16,2025-10-05,Setor A-15,2025-11-06
+e77be17c-b679-4e35-83be-1736c1945956,A arte de mudar sem preocupação,Utensílios,Sampaio Castro e Filhos,385,21,25.26,165.4,2025-10-05,Setor A-2,
+90435a00-f1a0-45e3-ae1a-6986bde884f6,O prazer de mudar com força total,Utensílios,Freitas Araújo - ME,532,26,166.77,219.06,2025-10-05,Setor A-6,2026-06-19
+aa89270b-3212-4ce5-a774-204267499087,O conforto de realizar seus sonhos de maneira eficaz,Utensílios,Cavalcante e Filhos,680,26,162.97,250.98,2025-10-05,Setor C-20,
+fce57966-45dc-45f3-b32d-dea025fdb12a,O poder de concretizar seus projetos de maneira eficaz,Bebidas,Almeida Rocha S.A.,860,33,106.08,35.7,2025-10-05,Setor C-14,2026-01-12
+a309992b-2244-4afa-afa2-d31740afddd2,O conforto de ganhar antes de tudo,Utensílios,Duarte Nogueira Ltda.,145,35,118.46,241.16,2025-10-05,Setor B-2,2026-01-18
+36fbcec1-670d-4501-a792-726c2a0ffe41,O direito de atingir seus objetivos naturalmente,Bebidas,Silveira S.A.,969,11,127.4,371.31,2025-10-05,Setor A-17,
